@@ -53,10 +53,10 @@ Unknown CSV prices remain null, display as "Price unavailable", are excluded by 
 1. Add the verified menu CSVs under `public/data/`.
 2. Fill `public/data/canteens.json` with an array of verified location records. Required fields: unique `id`, non-empty `name`, numeric `coordinates.lat` (-90 to 90) and `coordinates.lng` (-180 to 180). Optional fields: `location` and `openingHours`. Do not treat the sample locations as verified real metadata.
 3. Each menu's `canteen` must match a metadata ID exactly, or a unique name (ignoring case/outer whitespace). Unknown and ambiguous locations are rejected rather than placed at guessed coordinates.
-4. Copy `.env.example` to `.env.local` and set `VITE_MENU_SOURCE=csv`. `VITE_MENU_CSV_FILES` is a JSON array of public URLs; its default is `["data/menu.csv"]`. `VITE_CANTEENS_URL` defaults to `data/canteens.json`.
+4. CSV is the default source with no environment setup. To override it, copy `.env.example` to `.env.local`. `VITE_MENU_CSV_FILES` is a JSON array of public URLs; its default is `["data/menu.csv"]`. `VITE_CANTEENS_URL` defaults to `data/canteens.json`.
 5. Restart Vite or rebuild. Relative data/image paths resolve below Vite's BASE_URL, including a repository subpath. All files in `public/` become public when deployed.
 
-CSV and metadata files load as one catalogue. A failure in either produces a retry state; it never substitutes sample records. Empty files show that menu data is not available yet. Preview is the explicit default until real data arrives, with a visible sample-menu notice.
+CSV and metadata files load as one catalogue. A failure in either produces a retry state; it never substitutes sample records. Empty files show that menu data is not available yet. The default catalogue now contains 559 photo-supported dish variants at six canteens; see `public/data/README.md` for scope and evidence. Set `VITE_MENU_SOURCE=preview` explicitly for the labelled fictional demo.
 
 ## Before release
 
@@ -67,4 +67,4 @@ CSV and metadata files load as one catalogue. A failure in either produces a ret
 - Complete physical iOS/Android checks with the deployed URL. Browser viewport testing is recorded in `docs/device-qa.md`.
 - Configure the agreed hosting account/base path, deploy and verify the public URL.
 
-Automated tests and local browser checks use fictional fixture records. They verify the connection and controls, not actual NUS menus, dietary claims, geographic accuracy or release readiness. The production menu and metadata files are intentionally empty until real data is supplied.
+Automated tests cover both fictional fixtures for edge cases and the published CSV for canteen mappings, source references and combined stall/search/price filtering. Menu and geographic evidence is recorded separately in `public/data/README.md` and `canteens.json`; software checks do not verify current vendor prices or certification. Physical iOS/Android acceptance remains separate from browser viewport checks.

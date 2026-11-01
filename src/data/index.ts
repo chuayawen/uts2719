@@ -4,7 +4,7 @@ import type { CatalogueConfig, MenuCatalogue } from './catalogue'
 import { mockCanteens, mockMenuItems } from './mock/mockMenu'
 
 export const MENU_CONFIG: CatalogueConfig = {
-  source: import.meta.env.VITE_MENU_SOURCE || 'preview',
+  source: import.meta.env.VITE_MENU_SOURCE || 'csv',
   baseUrl: import.meta.env.BASE_URL,
   csvFiles: import.meta.env.VITE_MENU_CSV_FILES,
   canteensUrl: import.meta.env.VITE_CANTEENS_URL,

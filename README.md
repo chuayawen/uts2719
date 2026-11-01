@@ -18,7 +18,7 @@ Deploy to Vercel or Netlify as a Vite project: the build command is `npm run bui
 ```
 src/
   types/menu.ts          Shared data contracts (MenuItem, Canteen, MenuFilters, ...)
-  data/index.ts          Dataset configuration and labelled sample records
+  data/index.ts          CSV defaults and optional labelled sample catalogue
   data/catalogue.ts      CSV-to-interface mapping and canteen validation
   data/mock/mockMenu.ts  MOCK data for UI preview only (not real menus)
   lib/filterMenu.ts      Search, canteen/cuisine/dietary filters and price slider
@@ -36,7 +36,7 @@ src/
 
 The latest interface is connected through `useMenuCatalogue`: one dataset drives the filter choices, slider limits, cards, results and map pins. Loading, failed loading/retry, missing menu data and no matching results have separate states.
 
-1. **Dataset: `src/data/index.ts`.** Preview mode is the default until the real CSVs arrive. CSV mode loads public menu files and verified canteen metadata, then maps their fields to the shared UI types. CSV errors never silently fall back to sample records.
+1. **Dataset: `src/data/index.ts`.** CSV mode is the default. It loads the checked-in photo-supported menus and sourced canteen metadata, then maps their fields to the shared UI types. CSV errors never silently fall back to sample records.
 2. **Search and filtering: `src/lib/filterMenu.ts`.** The existing controls call the shared filtering logic, including the continuous price slider and all selected dietary tags. Changing a filter returns to the matching-results list, and clearing an empty search resets both the query and filters.
 
 How `MenuFilters` is defined (an empty value means no restriction):
@@ -65,9 +65,11 @@ Other notes:
 - Blank CSV prices stay unknown: cards show "Price unavailable", active price filters exclude them, and map summaries do not turn them into $0.00. Unknown cuisine and dietary attributes are not inferred.
 - `FoodCard` accepts an optional `onSelect` callback if a dish detail view is added later.
 
-## Enable real CSV data
+## Update the menu data
 
-Copy `.env.example` to `.env.local`, set `VITE_MENU_SOURCE=csv`, and add the real menu files plus verified location metadata under `public/data/`. Restart Vite after changing environment settings.
+The default build loads `public/data/menu.csv` and `public/data/canteens.json` without environment setup. The published catalogue contains 559 priced dish variants at six canteens. See [data sources and scope](public/data/README.md) for coverage, photographed prices and location evidence. Replace the CSV or edit rows using stable IDs, run the checks below, and redeploy to publish updates.
+
+For custom file locations, copy `.env.example` to `.env.local` and override these settings. Restart Vite after changing environment settings.
 
 ```dotenv
 VITE_MENU_SOURCE=csv
@@ -77,7 +79,7 @@ VITE_CANTEENS_URL=data/canteens.json
 
 `VITE_MENU_CSV_FILES` accepts a JSON array of one or multiple public CSV URLs. Relative data/image URLs respect Vite's deployment base path. `canteens.json` is an array of canteens with a unique `id`, `name`, and numeric `coordinates.lat` / `coordinates.lng`; `location` and `openingHours` are optional text. Each menu CSV's `canteen` must match an exact canteen ID or an unambiguous name. See [the data handoff](docs/person-2-handoff.md) for the menu column format.
 
-The production menu CSV contains headings only and the production canteen list is empty. Do not copy fictional test fixtures into production as real menu information. Sample mode stays explicitly labelled, while CSV mode with no records shows that menus are not available yet.
+Set `VITE_MENU_SOURCE=preview` only when testing the labelled fictional demo. Empty CSV files show that menus are not available yet; loading failures show a retry state.
 
 ## Verify changes
 
@@ -91,6 +93,6 @@ npm run test:build
 npm run validate:menu
 ```
 
-CI checks tests, lint, type checking and builds. Release menu validation deliberately fails while the production CSV is empty. Actual menu content, dietary evidence and coordinates must be verified before publishing the app or using it for the user study.
+CI checks the published CSV and canteen mappings, tests, lint, type checking and builds. Menu validation rejects empty datasets, duplicate IDs, invalid prices/tags and unknown locations. Add only source-supported menu content and dietary evidence.
 
 See [the responsive QA report](docs/device-qa.md) for the tested browser sizes, scenarios, fixes and remaining physical-device checks.

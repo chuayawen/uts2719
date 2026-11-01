@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "id": "fine-food",
+    "name": "Fine Food",
+    "location": "Town Plaza, University Town",
+    "coordinates": { "lat": 1.304160992, "lng": 103.774294 },
+    "openingHours": "Daily 8am–8:30pm; individual stall hours vary",
+    "sources": {
+      "directory": "https://uci.nus.edu.sg/campus-life/campus-services/retail-dining/university-town/",
+      "buildingAssociation": "https://ctpclc.nus.edu.sg/contact-us",
+      "coordinates": "https://map.nus.edu.sg/search/ajax_auto?qword=University%20Town&maxrows=100",
+      "coordinateNote": "Town Plaza building pin: NUS University Town Management Office, 1 Create Way (map record 420). CTPCLC lists the same building address and its office directly above Fine Food.",
+      "checkedOn": "2026-11-01"
+    }
+  },
+  {
+    "id": "techno-edge",
+    "name": "Techno Edge",
+    "location": "3A Engineering Drive 2, College of Design and Engineering",
+    "coordinates": { "lat": 1.298001546892193, "lng": 103.7714667649685 },
+    "openingHours": "Mon–Fri 7am–8pm, Sat 7:30am–2pm; closed Sun/PH; individual stall hours vary",
+    "sources": {
+      "directory": "https://uci.nus.edu.sg/campus-life/campus-services/retail-dining/kent-ridge/",
+      "coordinates": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=TECHNO%20EDGE&returnGeom=Y&getAddrDetails=Y",
+      "coordinateNote": "OneMap building result: NATIONAL UNIVERSITY OF SINGAPORE (TECHNO EDGE), 3A Engineering Drive 2, Singapore 117275.",
+      "checkedOn": "2026-11-01"
+    }
+  },
+  {
+    "id": "the-terrace",
+    "name": "The Terrace",
+    "location": "Computing 3 (COM3), 11 Research Link",
+    "coordinates": { "lat": 1.294640832761884, "lng": 103.7745659764451 },
+    "openingHours": "Mon–Sat 7:30am–7pm; closed Sun; individual stall hours vary",
+    "sources": {
+      "directory": "https://uci.nus.edu.sg/campus-life/campus-services/retail-dining/kent-ridge/",
+      "coordinates": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=COM3&returnGeom=Y&getAddrDetails=Y",
+      "coordinateNote": "OneMap building result: NATIONAL UNIVERSITY OF SINGAPORE (COM3), 11 Research Link, Singapore 119391.",
+      "checkedOn": "2026-11-01"
+    }
+  },
+  {
+    "id": "yusof-ishak-house",
+    "name": "Yusof Ishak House",
+    "location": "Central Square, Yusof Ishak House, 31 Lower Kent Ridge Road",
+    "coordinates": { "lat": 1.298660133, "lng": 103.7748909 },
+    "openingHours": "Mon–Fri 8am–8pm, Sat 8:30am–2:30pm; individual stall hours vary",
+    "sources": {
+      "directory": "https://uci.nus.edu.sg/campus-life/campus-services/retail-dining/kent-ridge/",
+      "coordinates": "https://map.nus.edu.sg/search/ajax_auto?qword=Food&maxrows=100",
+      "coordinateNote": "NUS Campus Map record 23: Food Junction @ Central Square, Yusof Ishak House.",
+      "checkedOn": "2026-11-01"
+    }
+  },
+  {
+    "id": "the-deck",
+    "name": "The Deck",
+    "location": "Faculty of Arts and Social Sciences, 10 Kent Ridge Crescent",
+    "coordinates": { "lat": 1.294855188, "lng": 103.7725947 },
+    "sources": {
+      "directory": "https://uci.nus.edu.sg/campus-life/campus-services/retail-dining/kent-ridge/",
+      "coordinates": "https://map.nus.edu.sg/search/ajax_auto?qword=The%20Deck&maxrows=10",
+      "coordinateNote": "NUS Campus Map record 354: The Deck. Hours omitted because term/vacation and stall schedules differ.",
+      "checkedOn": "2026-11-01"
+    }
+  },
+  {
+    "id": "flavours",
+    "name": "Flavours",
+    "location": "Stephen Riady Centre, Level 2, University Town",
+    "coordinates": { "lat": 1.304782047245892, "lng": 103.77253536676778 },
+    "openingHours": "Daily 7:30am–8:30pm; individual stall hours vary",
+    "sources": {
+      "directory": "https://uci.nus.edu.sg/campus-life/campus-services/retail-dining/university-town/",
+      "coordinates": "https://map.nus.edu.sg/search/ajax_auto?qword=Flavours&maxrows=10",
+      "coordinateNote": "NUS Campus Map record 59: Flavours@UTown, 2 College Avenue West, Level 2.",
+      "checkedOn": "2026-11-01"
+    }
+  }
+]

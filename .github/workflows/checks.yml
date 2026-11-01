@@ -32,6 +32,8 @@ jobs:
         run: npm ci
       - name: Test data and React hook
         run: npm test
+      - name: Validate published menus and canteen locations
+        run: npm run validate:menu
       - name: Lint frontend and data modules
         run: npm run lint
       - name: Build application and check types

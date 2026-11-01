@@ -91,6 +91,9 @@ function App() {
 
   const panelContent = <>
     {isPreview && <p className="px-4 pt-3 text-xs text-slate-500">Sample menu for testing</p>}
+    {!isPreview && !loading && !error && menuItems.length > 0 && (
+      <p className="px-4 pt-3 pb-2 text-xs text-slate-500">Prices are from photographed menus and may change. Confirm dietary requirements with the stall.</p>
+    )}
     {panelBody}
   </>
 
