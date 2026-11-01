@@ -32,3 +32,6 @@ coverage/
 .env.*
 !.env.example
 Thumbs.db
+
+# Vercel's local project link and downloaded environment files
+.vercel/
