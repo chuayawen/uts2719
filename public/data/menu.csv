@@ -1,1 +1,560 @@
-id,name,price,canteen,stall,cuisine,dietary_tags,image,source
+﻿id,name,price,canteen,stall,cuisine,dietary_tags,image,source
+ff-asia-egg-001,Signature Mentaiko Scrambled Egg Rice - Grilled Chicken,5.70,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-002,Signature Mentaiko Scrambled Egg Rice - Grilled Salmon,6.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-003,Signature Mentaiko Scrambled Egg Rice - Braised Beef,6.60,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-004,Signature Mentaiko Scrambled Egg Rice - Chicken Luncheon Meat,5.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-005,Original Scrambled Egg Rice - Grilled Chicken,5.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-006,Original Scrambled Egg Rice - Braised Beef,5.60,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-007,Original Scrambled Egg Rice - Fried Chicken,5.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-008,Original Scrambled Egg Rice - Fried Shrimp,5.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-009,Salted Egg Scrambled Egg Rice - Chicken Luncheon Meat,5.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-010,Salted Egg Scrambled Egg Rice - Fried Chicken,5.80,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-011,Salted Egg Scrambled Egg Rice - Fried Shrimp,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-012,Salted Egg Scrambled Egg Rice - Braised Beef,6.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-013,Korean Spicy Scrambled Egg Rice - Chicken Luncheon Meat,5.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-014,Korean Spicy Scrambled Egg Rice - Braised Beef,6.60,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-015,Korean Spicy Scrambled Egg Rice - Fried Chicken,5.80,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-016,Korean Spicy Scrambled Egg Rice - Fried Fish Fillet,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-017,Cheesy Scrambled Egg Rice - Grilled Chicken,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-018,Cheesy Scrambled Egg Rice - Grilled Salmon,6.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-019,Cheesy Scrambled Egg Rice - Braised Beef,6.60,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-020,Cheesy Scrambled Egg Rice - Fried Shrimp,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-021,Cheesy Scrambled Egg Rice - Fried Fish Fillet,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-022,Asian Curry Scrambled Egg Rice - Chicken Luncheon Meat,5.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-023,Asian Curry Scrambled Egg Rice - Braised Beef,6.60,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-024,Asian Curry Scrambled Egg Rice - Fried Chicken,5.80,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-025,Asian Curry Scrambled Egg Rice - Fried Shrimp,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-026,Asian Curry Scrambled Egg Rice - Fried Fish Fillet,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-027,Asian Curry Udon - Chicken Luncheon Meat,5.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-028,Asian Curry Udon - Braised Beef,6.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-029,Asian Curry Udon - Fried Chicken,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-030,Asian Curry Udon - Fried Shrimp,6.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-031,Asian Curry Udon - Fried Fish Fillet,6.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-032,Scrambled Egg Spicy Dry Ramen - Chicken Luncheon Meat,5.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-033,Scrambled Egg Spicy Dry Ramen - Braised Beef,6.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-034,Scrambled Egg Spicy Dry Ramen - Fried Chicken,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-035,Scrambled Egg Spicy Dry Ramen - Fried Shrimp,6.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-036,Scrambled Egg Spicy Dry Ramen - Fried Fish Fillet,6.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-037,Scrambled Egg Kimchi Ramen Soup - Chicken Luncheon Meat,5.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-038,Scrambled Egg Kimchi Ramen Soup - Grilled Salmon,7.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-039,Scrambled Egg Kimchi Ramen Soup - Braised Beef,7.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-040,Scrambled Egg Kimchi Ramen Soup - Grilled Chicken,6.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-041,Original Unagi Scrambled Egg Don,9.80,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-045,Classic Scrambled Egg Salad - Plain,5.90,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-046,Classic Scrambled Egg Salad - Grilled Salmon,7.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-047,Classic Scrambled Egg Salad - Braised Beef,7.00,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-048,Classic Scrambled Egg Salad - Grilled Chicken,6.20,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-049,Korean Spicy Fried Chicken (6 pcs),4.50,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-asia-egg-050,Korean Spicy Fried Chicken (12 pcs),8.80,Fine Food,Asia Scrambled Egg,Asian fusion,,,Fine food/PHOTO-2025-06-17-11-40-20 7.jpg
+ff-gyoza-013,Teriyaki Chicken Bento + 2 Original Gyozas,5.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-014,Signature Yakiniku Beef Bento + 2 Original Gyozas,6.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-015,Tori Karaage Bento + 2 Original Gyozas,6.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-016,Teriyaki Chicken / Karaage Combo + 2 Original Gyozas,7.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-019,Yakiniku Beef / Karaage Combo + 2 Original Gyozas,8.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-020,Special Unagi / Karaage Combo + 2 Original Gyozas,9.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-021,Special Unagi / Yakiniku Combo + 2 Original Gyozas,10.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-022,Special Unagi / Teriyaki Chicken Combo + 2 Original Gyozas,9.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-023,Spicy Chicken Katsu / Teriyaki Combo + 2 Original Gyozas,9.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-024,Spicy Chicken Katsu / Yakiniku Beef Combo + 2 Original Gyozas,10.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-gyoza-025,Spicy Chicken Katsu / Karaage Combo + 2 Original Gyozas,9.80,Fine Food,Gyoza-San,Japanese,,,Fine food/PHOTO-2025-06-17-11-40-21 3.jpg
+ff-salad-037,Sushi Popiah - Chicken Floss,4.00,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-038,Sushi Popiah - Tuna,4.00,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-039,Sushi Popiah - Chicken Ham,4.00,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-040,Yogurt Toast - Tuna,4.00,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-041,Yogurt Toast - Beef / Chicken Pepperoni,4.00,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-042,Yogurt Toast - Chicken & Ham Egg,4.00,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-043,Creamy Mushroom Medley Soup,3.60,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-044,Pumpkin Soup,3.60,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-salad-045,Cream of Broccoli and Cheese Soup,3.60,Fine Food,Salad Bar by Ofanz,Salad / Western,,,Fine food/PHOTO-2025-06-17-11-40-20 2.jpg
+ff-wonderful-001,Xiao Long Bao (6 pcs),4.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-002,Sichuan Dumplings with Chilli Oil,4.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-003,Shanghai Pan-fried Dumplings,4.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-004,Steamed Dumpling (10 pcs),4.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-005,Beijing Minced Meat La Mian (Dry),5.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-006,Signature Beef La Mian,5.50,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-007,Tomato Egg La Mian,5.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-008,Shanghai Dumpling La Mian (Dry),5.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-009,Chicken Soup Dumplings,4.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-010,Chicken Cutlet La Mian (Dry),6.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-011,Pork Cutlet La Mian (Dry),6.50,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-012,Shanghai Dumpling La Mian,5.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-013,Braised Pork Ribs La Mian,6.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-014,Scallion Oil La Mian with Pork Chop,6.50,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-015,Scallion Oil La Mian with Fried Chicken,6.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-016,Scallion Oil La Mian,4.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-017,Mala Beef La Mian,6.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-019,Chicken Soup Dumpling La Mian,5.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-020,Sichuan Dan Dan La Mian,5.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-021,Braised Intestine La Mian,7.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-022,Pork Chop Fried Rice,6.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-023,Shrimp Fried Rice,6.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-024,Beef Fried Rice,6.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-025,Shandong Hand-pulled Pancake,4.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-027,Chinese Hamburger (Rou Jia Mo) (1 pc),4.80,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-028,Shanghai Pan-fried Bao,5.00,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+ff-wonderful-029,Sweet Spicy Chicken with Potato Noodle,6.50,Fine Food,Wonderful,Chinese,,,Fine food/PHOTO-2025-06-17-11-40-20 5.jpg
+te-hungry-001,Chicken Sausage with Scrambled Egg Burger Breakfast Set,4.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-002,Double Cheese with Scrambled Egg Burger Breakfast Set,4.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-003,Chicken Burger Set,5.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-004,Fish Burger Set,5.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-005,Signature Beef Burger Set,6.50,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-006,Portobello Mushroom Burger Set,7.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-007,Double Spicy Bird Burger Set,8.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-008,Massive Triple Trouble Cheeseburger (2 people),12.90,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-017,Mixed Fruits Garden Salad (Regular),4.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-018,Mixed Fruits Garden Salad (Small),3.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-019,Zesty Ocean Salad (Regular),5.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-020,Zesty Ocean Salad (Small),3.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-021,Abiquiu Smoked Chicken Salad (Regular),5.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-022,Abiquiu Smoked Chicken Salad (Small),3.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-023,Original Cheesy Pasta (Regular),5.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-hungry-024,Original Cheesy Pasta (Small),3.80,Techno Edge,Hungry Burger,Western,,,Techno/PHOTO-2025-06-17-12-53-51.jpg
+te-ramen-004,Fresh Mushroom with Ramen,3.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-005,Mala Dry Ramen with Chicken Cheeseballs,4.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-006,Mala Dry Ramen with Fuzhou Fishballs,4.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-007,Mala Beef Ramen Soup,5.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-008,Signature Trio Eggs Spinach Soup (Regular),4.30,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-009,Signature Trio Eggs Spinach Soup (Small),3.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-010,Seafood Spinach Soup (Regular),4.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-011,Seafood Spinach Soup (Small),4.30,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-012,Sliced Fish Spinach Soup (Regular),4.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-013,Sliced Fish Spinach Soup (Small),4.30,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-014,Fried Fish Spinach Soup (Regular),4.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-015,Fried Fish Spinach Soup (Small),4.30,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-016,Double Mixed Fish Spinach Soup (Regular),5.30,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-ramen-017,Double Mixed Fish Spinach Soup (Small),4.80,Techno Edge,The Ramen Corner,Chinese / Japanese fusion,,,Techno/PHOTO-2025-06-17-12-53-52.jpg
+te-sinkee-001,Roasted Chicken Rice,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-002,Steamed Chicken Rice,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-003,Char Siew Rice,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-004,Roasted Pork Rice,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-005,Egg & Vegetable Rice Set,2.80,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-006,Tofu & Vegetable Rice Set,2.80,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-007,Roasted Chicken Hor Fun,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-008,Steamed Chicken Hor Fun,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-009,Char Siew Hor Fun,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-010,Roasted Pork Hor Fun,3.30,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-011,Roasted Chicken Rice Set,4.80,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-012,Steamed Chicken Rice Set,4.80,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-013,Char Siew Rice Set,4.80,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-sinkee-014,Roasted Pork Rice Set,4.80,Techno Edge,Sin Kee Chicken Rice,Chinese,,,Techno/PHOTO-2025-06-17-12-53-51 4.jpg
+te-taiwan-001,Honey Chicken Chop Rice (Regular),5.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-002,Honey Chicken Chop Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-003,XL Chicken Chop Rice (Regular),5.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-004,XL Chicken Chop Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-005,Taiwanese Pork Chop Rice (Regular),5.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-006,Taiwanese Pork Chop Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-007,Salted Crispy Chicken Rice (Regular),5.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-008,Salted Crispy Chicken Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-009,Sesame Seed Chicken Rice (Regular),5.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-010,Sesame Seed Chicken Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-012,Taiwanese Sweet & Sour Chicken Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-013,Teriyaki Chicken Rice (Regular),5.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-014,Teriyaki Chicken Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-015,Mala Chicken Chop Rice (Regular),5.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-016,Mala Chicken Chop Rice (Upsize),6.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-017,Taiwanese Braised Pork Rice (Regular),4.30,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-018,Taiwanese Braised Pork Rice (Upsize),5.30,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-019,Taiwanese Chicken Drumstick Rice (Regular),5.80,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-027,Sunrise Sandwich (Regular),2.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-028,Sunrise Sandwich (Upsize),4.80,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-029,Tuna & Egg Sandwich (Regular),2.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-030,Tuna & Egg Sandwich (Upsize),4.80,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-031,Ham & Egg Sandwich (Regular),2.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-032,Ham & Egg Sandwich (Upsize),4.80,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-033,Pork Floss & Egg Sandwich (Regular),2.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-034,Pork Floss & Egg Sandwich (Upsize),4.80,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-035,Honey Glazed Chicken Sandwich (Regular),2.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-036,Honey Glazed Chicken Sandwich (Upsize),4.80,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-037,Pork Floss Egg Crepe,3.30,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-038,Hot Dog Egg Crepe,3.30,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-039,Ham Egg Crepe,3.30,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-040,Egg Crepe,2.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-041,Original Scallion Pancake,2.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-042,Egg Scallion Pancake,3.00,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-043,Hotdog Scallion Pancake,3.00,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-044,Cheese Scallion Pancake,3.50,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+te-taiwan-045,Cheese & Hotdog Scallion Pancake,4.00,Techno Edge,Taiwan Ichiban,Taiwanese,,,Techno/PHOTO-2025-06-17-12-53-50 2.jpg
+tt-grains-001,Spicy and Sour Fish Bee Hoon,6.50,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-002,Signature Fish Bee Hoon,5.80,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-003,Original Fish Bee Hoon,5.80,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-004,Golden Soup Fish Bee Hoon,5.80,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-005,Tomato Sauce Fish Bee Hoon,5.80,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-006,Tom Yum Fish Bee Hoon,5.80,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-007,Special Spicy Beef Bee Hoon (Slices),6.00,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-008,"Fragrant Beef Bee Hoon (Mala, chunks)",5.80,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-009,"Fragrant Beef Bee Hoon (Mala, slices)",6.00,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-010,Braised Chicken Bee Hoon (Mala),5.50,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-011,Fragrant Lala Bee Hoon (Mala),6.00,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+tt-grains-012,Corn Five Grains Bee Hoon,2.90,The Terrace,Five Grains Noodles,Chinese,,,Terrace/PHOTO-2025-06-17-13-14-38 3.jpg; photo_5_2026-11-01_19-38-53.jpg
+yih-have-001,2 Idlies,2.90,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-002,2-pc Chapathi Plate,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-003,2-pc Parota Plate,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-004,2-pc Poori Plate,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-005,Curd Rice & Vegetable,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-006,Sambar Rice & Vegetable,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-007,Jeera Rice & Dhal,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-008,Briyani & Kurma,4.50,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-009,Rice Meal,5.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-010,Aloo Tikki Burger,3.20,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-011,Kebab Wrap,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-012,Cheesy Aloo Wrap,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-013,Schezwan Paneer Wrap,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-014,Mixed Vegetable Wrap,4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-015,Plain Dosai,2.90,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-016,Samosa,1.50,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-017,Samosa Chaat (1 pc),2.80,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-018,Samosa Chaat (2 pcs),4.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-019,Pani Puri (5 pcs),3.20,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-020,Bhel Puri,3.00,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-021,Pav Bhaji (2 pcs),2.80,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-022,Normal Fries,2.50,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-023,Masala Fries,3.50,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-have-024,Daily Bowl,5.50,Yusof Ishak House,havé Indian Vegetarian,Indian,vegetarian,,YIH/PHOTO-2025-06-17-12-18-23 3.jpg
+yih-wok-001,Hokkien Mee,5.00,Yusof Ishak House,Wok A.I.,Singaporean / Chinese,,,YIH/PHOTO-2025-06-17-12-18-23.jpg
+yih-wok-002,Black Kway Teow (Sweet),4.00,Yusof Ishak House,Wok A.I.,Singaporean / Chinese,,,YIH/PHOTO-2025-06-17-12-18-23.jpg
+yih-wok-003,White Kway Teow (Salty),4.00,Yusof Ishak House,Wok A.I.,Singaporean / Chinese,,,YIH/PHOTO-2025-06-17-12-18-23.jpg
+yih-wok-004,Black Carrot Cake (Sweet),2.80,Yusof Ishak House,Wok A.I.,Singaporean / Chinese,,,YIH/PHOTO-2025-06-17-12-18-23.jpg
+yih-wok-005,White Carrot Cake (Salty),2.80,Yusof Ishak House,Wok A.I.,Singaporean / Chinese,,,YIH/PHOTO-2025-06-17-12-18-23.jpg
+dk-bamian-001,Ban Mian,3.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-002,Tomato Noodle,4.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-003,Dumpling Noodle Soup,4.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-004,Seafood Soup,4.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-005,Fried Fish Bee Hoon Soup,4.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-006,Fried Fish Bee Hoon Soup with Rice,5.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-007,Bitter Gourd Sliced Fish Soup,4.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-008,Bitter Gourd Sliced Fish Soup with Rice,5.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-009,Tom Yum Seafood Soup,4.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-010,Double Fish Soup,5.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-011,Double Fish Soup with Rice,5.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-012,Sliced Fish Porridge,4.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-013,Dry Noodle,4.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-014,Pork Rib Noodle,4.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-015,Beef Noodle,5.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-016,Minced Meat Noodle,4.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-017,Minced Meat Porridge,3.30,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-018,Economic Bee Hoon Soup,3.10,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-019,Economic Ban Mian,3.10,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-020,Tomato Tofu Noodle (Vegetarian),4.30,The Deck,Ba Wei Ban Mian,Chinese,vegetarian,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-021,Bee Hoon Soup (Vegetarian),3.80,The Deck,Ba Wei Ban Mian,Chinese,vegetarian,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+dk-bamian-022,Fried / Boiled Dumplings (6 pcs),3.80,The Deck,Ba Wei Ban Mian,Chinese,,,Deck/PHOTO-2025-06-17-13-18-11 3.jpg; Deck/PHOTO-2025-06-17-13-18-12.jpg
+fl-tenten-001,Chicken Katsu Curry Rice,6.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-002,Ebi & Chicken Katsu Curry Rice,7.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-004,Nacho Cheese Chicken Curry Rice,8.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-005,Beef Curry Rice,8.90,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-008,Chicken Katsu Don,6.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-009,Gyu Don,8.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-010,Ebi Katsu Don,8.90,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-011,Salmon Teriyaki Don,9.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-012,Saba Teriyaki Don,7.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-013,Chicken Teriyaki Don,5.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-014,Chicken Katsu & Gyu Don,7.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-015,California Temaki (2 pcs),6.00,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-016,Ebi Furai Temaki (2 pcs),7.00,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-017,Spam & Egg Temaki (2 pcs),6.00,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-018,Salmon Avocado Temaki (2 pcs),8.00,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-019,Duck Breast Temaki (2 pcs),6.00,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-020,Salmon Nigiri (2 pcs),4.00,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-021,Salmon Aburi Nigiri (2 pcs),4.50,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-022,Salmon Avocado Nigiri (2 pcs),4.50,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-023,Salmon Mentai Nigiri (2 pcs),4.50,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-024,Salmon Deluxe Nigiri (2 pcs),6.50,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-025,California Maki,8.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-026,Ebi Furai Maki,8.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-tenten-027,Salmon Mentai Maki,9.80,Flavours,Ten Ten,Japanese,,,Falvours/Flavours.jpg
+fl-ytf-001,Yong Tau Foo - 6 pieces with Noodles / Rice,4.90,Flavours,Zi Jia Yong Tau Foo,Chinese,no-pork-no-lard,,Falvours/photo_2026-10-30_02-51-01.jpg
+fl-ytf-002,Yong Tau Foo - 7 pieces,4.90,Flavours,Zi Jia Yong Tau Foo,Chinese,no-pork-no-lard,,Falvours/photo_2026-10-30_02-51-01.jpg
+fl-ytf-003,Chee Cheong Fun + Yong Tau Foo Set,3.20,Flavours,Zi Jia Yong Tau Foo,Chinese,no-pork-no-lard,,Falvours/photo_2026-10-30_02-51-01.jpg
+fl-ytf-004,HK-style Kokka Noodles,3.20,Flavours,Zi Jia Yong Tau Foo,Chinese,no-pork-no-lard,,Falvours/photo_2026-10-30_02-51-01.jpg
+fl-jinwei-047,Economic Set Meal - Xiao Bai Cai + Fried Egg + Sesame Oil Chicken,3.50,Flavours,Jin Wei Mixed Rice (金味),Chinese,,,Flavours2/IMG_7575.HEIC
+fl-jinwei-048,Value Set Meal - 1 Green + 1 Red,3.00,Flavours,Jin Wei Mixed Rice (金味),Chinese,,,Flavours2/IMG_7575.HEIC
+fl-jinwei-049,Value Set Meal - 2 Green + 1 Red,4.00,Flavours,Jin Wei Mixed Rice (金味),Chinese,,,Flavours2/IMG_7575.HEIC
+fl-jinwei-050,Value Set Meal - 1 Green + 2 Red,4.50,Flavours,Jin Wei Mixed Rice (金味),Chinese,,,Flavours2/IMG_7575.HEIC
+fl-jinwei-051,Value Set Meal - 2 Green + 2 Red,5.50,Flavours,Jin Wei Mixed Rice (金味),Chinese,,,Flavours2/IMG_7575.HEIC
+fl-kinobe-001,Yakiniku Don,9.00,Flavours,Kinobe,Japanese,,,Flavours2/IMG_7576.HEIC
+fl-kinobe-002,Salmon Don,9.00,Flavours,Kinobe,Japanese,,,Flavours2/IMG_7576.HEIC
+fl-kinobe-003,Unagi Don,10.00,Flavours,Kinobe,Japanese,,,Flavours2/IMG_7576.HEIC
+fl-kinobe-004,Smoked Duck Don,7.00,Flavours,Kinobe,Japanese,,,Flavours2/IMG_7576.HEIC
+fl-kinobe-005,Chicken Don,6.00,Flavours,Kinobe,Japanese,,,Flavours2/IMG_7576.HEIC
+fl-kinobe-006,Buta Don,6.00,Flavours,Kinobe,Japanese,,,Flavours2/IMG_7576.HEIC
+fl-kinobe-007,Karaage Don,6.00,Flavours,Kinobe,Japanese,,,Flavours2/IMG_7576.HEIC
+fl-laosichuan-005,Tofu and Grilled Fish,26.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-006,Special Fried Chicken,24.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-007,Chongqing Spicy Chicken,14.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-008,Sauerkraut Fish Fillets,24.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-009,Boiled Beef,14.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-010,Spicy Braised Pork Intestines,14.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-011,Twice-cooked Pork,10.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-012,Hunan-style Stir-fried Pork,12.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-013,Spicy Lala,13.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-014,Ginger and Lala,13.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-015,Stir-fried Dried Bamboo Shoots with Cured Pork,15.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-016,Boiled Fish Fillets,24.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-017,Dry-fried Green Beans,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-018,Garlic Broccoli,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-019,Tomato Scrambled Eggs,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-020,Garlic-flavored Lettuce,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-021,Hand-torn Cabbage,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-022,Hot & Sour Shredded Potatoes,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-023,Mapo Tofu,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-024,Three Treasures of the Earth,8.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-025,Spicy Dry Pot Shrimp,16.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-026,Dry Pot Deer Antler Mushrooms,14.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-027,Cumin Ribs,15.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-028,Dry Pot Chicken,16.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-029,Dry Pot Fatty Intestines,16.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-laosichuan-030,Stir-fried Organic Cauliflower,14.80,Flavours,Lao Sichuan,Sichuan / Chinese,,,Flavours2/IMG_7577.HEIC
+fl-danlao-001,Classic Scrambled Egg Rice - Tomato,5.50,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-002,Classic Scrambled Egg Rice - Luncheon,6.00,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-003,Classic Scrambled Egg Rice - Chicken,6.80,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-004,Classic Scrambled Egg Rice - Char Siew,6.80,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-005,Classic Scrambled Egg Rice - Ebi Prawn,7.30,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-006,Classic Scrambled Egg Rice - Braised Pork Belly,8.50,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-007,Classic Scrambled Egg Rice - Curry Chicken,6.80,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-008,Cheesy Scrambled Egg Rice - Tomato,6.50,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-009,Cheesy Scrambled Egg Rice - Luncheon,7.00,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-010,Cheesy Scrambled Egg Rice - Fried Chicken,7.80,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-011,Cheesy Scrambled Egg Rice - Char Siew,7.80,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-012,Cheesy Scrambled Egg Rice - Ebi Prawn,8.30,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-013,Cheesy Scrambled Egg Rice - Braised Pork Belly,9.50,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-014,Cheesy Scrambled Egg Rice - Curry Chicken,7.80,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-015,Curry Scrambled Egg Rice - Tomato,6.70,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-016,Curry Scrambled Egg Rice - Luncheon,7.20,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-017,Curry Scrambled Egg Rice - Fried Chicken,8.00,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-018,Curry Scrambled Egg Rice - Char Siew,8.00,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-019,Curry Scrambled Egg Rice - Ebi Prawn,8.50,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-danlao-020,Curry Scrambled Egg Rice - Braised Pork Belly,9.70,Flavours,DanLao,Chinese,,,Flavours2/IMG_7579.HEIC
+fl-yuxiangfang-001,Chicken Rice with Stew Soup Set,7.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-002,Chicken Rice with Oyster Sauce Vegetable Set,5.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-003,Roasted Chicken Rice,4.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-004,Roasted Duck Rice,5.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-005,Char Siew & Roasted Pork Rice,6.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-006,Wanton Noodle,4.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-007,Roasted Chicken & Roasted Pork Rice,5.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-008,Roasted Duck & Char Siew Rice,6.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-009,Shredded Chicken Hor Fun,3.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-010,Roasted Duck Noodle,5.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-011,Roasted Duck & Char Siew Noodle,7.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-012,Chicken Drumstick Noodle,5.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-013,Chicken & Char Siew Noodle,6.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-014,Chicken & Roasted Pork Noodle,6.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-015,Char Siew & Roasted Pork Noodle,6.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-016,Roasted Duck & Roasted Pork Noodle,7.50,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-017,Watercress Pork Ribs Soup,4.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-018,Lotus Roots Pork Ribs Soup,4.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-019,Radish Pork Ribs Soup,4.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-020,Bittergourd Pork Ribs Soup,4.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-yuxiangfang-021,Szechuan Vegetable Pork Ribs Soup,4.00,Flavours,Yu Xiang Fang,Chinese,,,Flavours2/IMG_7580.HEIC
+fl-asiawok-001,Yangzhou Fried Rice,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-002,Chicken Fried Rice,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-003,Sambal Fried Rice,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-004,Luncheon Meat Fried Rice,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-005,Salted Fish Fried Rice,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-006,Shanghai Fried Rice,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-007,Century Egg Fried Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-008,Shrimp Fried Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-009,Seafood Fried Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-010,Beef Fried Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-011,Fried Beef Hor Fun Dry,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-012,Hor Fun in Egg Gravy,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-013,Mui Fan,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-014,Seafood White Bee Hoon,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-015,San Lao Hor Fun,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-016,Hokkien Mee,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-017,Mee Goreng,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-018,Fried Hor Fun Dry,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-019,Sin Chew Bee Hoon,5.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-020,Sambal Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-021,Sambal Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-022,Sambal Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-023,Sambal Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-024,Black Pepper Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-025,Black Pepper Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-026,Black Pepper Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-027,Black Pepper Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-028,Pan Fried Curry Leaf Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-029,Pan Fried Curry Leaf Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-030,Pan Fried Curry Leaf Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-031,Pan Fried Curry Leaf Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-032,Gong Bao Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-033,Gong Bao Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-034,Gong Bao Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-035,Gong Bao Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-036,Ginger & Onion Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-037,Ginger & Onion Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-038,Ginger & Onion Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-039,Ginger & Onion Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-040,Curry Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-041,Curry Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-042,Curry Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-043,Curry Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-044,Mongolian Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-045,Mongolian Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-046,Mongolian Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-047,Mongolian Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-048,Spicy Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-049,Spicy Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-050,Spicy Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-051,Spicy Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-052,Marmite Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-053,Marmite Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-054,Marmite Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-055,Salted Egg Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-056,Salted Egg Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-057,Salted Egg Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-058,Sweet & Sour Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-059,Sweet & Sour Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-060,Sweet & Sour Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-061,Cereal Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-062,Cereal Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-063,Cereal Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-064,Sambal Kang Kong Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-065,Sambal Kang Kong Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-066,Sambal Kang Kong Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-067,Sambal Kang Kong Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-068,Baby Kailan Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-069,Baby Kailan Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-070,Baby Kailan Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-071,Baby Kailan Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-072,Sambal Petai Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-073,Sambal Petai Shrimp with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-074,Sambal Petai Beef with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-075,Thai Style Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-076,Thai Style Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-077,Thai Style Sliced Fish with Rice,6.00,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-078,Vietnam Style Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-079,Vietnam Style Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-080,Blackcurrant Chicken with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-081,Blackcurrant Pork with Rice,5.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-082,Vegetable Fried Rice,3.50,Flavours,Asia Wok Mini Wok,Chinese,,,Flavours2/IMG_7581.HEIC
+fl-asiawok-083,Vegetarian Hor Fun Dry,3.50,Flavours,Asia Wok Mini Wok,Chinese,vegetarian,,Flavours2/IMG_7581.HEIC
+fl-suxiangyuan-001,Vegetarian Sliced Fish Bee Hoon,5.50,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-002,Braised Mutton Noodle,5.50,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-003,Curry Chicken Noodle,5.50,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-004,Bak Kut Teh,5.80,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-005,Olive Fried Rice,6.50,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-006,Vegetarian Fried Bee Hoon,5.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-007,Sweet & Sour Fish with Rice,6.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-008,Gong Bao Chicken with Rice,6.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-009,Sweet & Sour Meat with Rice,6.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-010,Curry Fish Rice,6.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-011,Assam Fish with Rice,6.80,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-012,Bitter Gourd Omelette,8.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-013,Tomato Omelette,8.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-014,Fried Enoki Mushroom,8.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-015,Sweet Potato Leaves,8.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-016,Sambal Kang Kong,8.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-017,Buddha's Delight,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-018,Sweet & Sour Meat,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-019,Kung Po Lion's Mane Mushroom,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-020,Creamy Lion's Mane Mushroom,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-021,Sweet & Sour Abalone Mushroom,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-022,Cereal Abalone Mushroom,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-023,Spicy Popcorn Chicken,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-024,Assam Fish,14.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-025,Vegan Sweet & Sour Meat Ribs,10.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegan|vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-026,Vegan Duck,14.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegan|vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-027,Vegan Chicken Drumstick,14.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegan|vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-028,Vegan Mutton,14.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegan|vegetarian,,Flavours2/IMG_7582.HEIC
+fl-suxiangyuan-029,Vegan Teochew Braised Duck,14.00,Flavours,Su Xiang Yuan Vegetarian,Chinese,vegan|vegetarian,,Flavours2/IMG_7582.HEIC
+fl-utownytf-001,Chee Cheong Fun Set,3.50,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-utownytf-002,Malaysian Dry Kokka Noodles,3.50,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-utownytf-003,Dry Sesame Sauce Noodles,3.50,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-utownytf-004,Tom Yum Claypot Noodles Set,6.60,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-utownytf-005,Yong Tau Foo Set - Soup,5.60,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-utownytf-006,Yong Tau Foo Set - Dry,5.60,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-utownytf-007,Creamy Laksa Yong Tau Foo Set,6.60,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-utownytf-008,Udon Tomato Soup Set,6.60,Flavours,Yong Tau Foo (Flavours),Chinese,halal,,Flavours2/IMG_7583.HEIC
+fl-pondok-001,Nasi Lemak with Signature Ayam Berempah,5.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-002,Nasi Lemak Set with Chicken Wing,4.50,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-003,Nasi Lemak Set with Spicy Chicken Cutlet,4.50,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-004,Nasi Lemak Set with Fish Fillet,4.00,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-005,Nasi Lemak Set with Ayam Merah,5.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-006,Nasi Lemak Set with Dory Fish,6.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-007,Nasi Lemak Set with Curry Chicken,6.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-008,Nasi Lemak Set with Beef Rendang,7.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-009,Nasi Lemak Set with Ayam Penyet,6.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-010,Baked Nasi Lemak - Chicken,6.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-011,Baked Nasi Lemak - Mushroom,6.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-012,Baked Nasi Lemak - Curry Chicken,7.30,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-013,Curry Chicken Stew Set with Rice,5.80,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-014,Fried Mee Siam with Signature Ayam Berempah,6.30,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-015,Fried Mee Siam with Chicken Wing,5.00,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-016,Fried Mee Siam with Spicy Chicken Cutlet,5.00,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-017,Fried Mee Siam with Fish Fillet,4.50,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-018,Fried Mee Siam with Ayam Merah,6.30,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-019,Fried Mee Siam with Dory Fish,7.30,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-020,Fried Mee Siam with Curry Chicken,7.30,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-021,Fried Mee Siam with Beef Rendang,8.30,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-022,Mee Goreng Basic,3.50,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7585.HEIC
+fl-pondok-023,Lontong,4.50,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-024,Mee Rebus,4.50,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+fl-pondok-025,Mee Siam,4.50,Flavours,Pondok Nasi Lemak,Malay / Indonesian,,,Flavours2/IMG_7584.HEIC
+tt-tengsheng-001,Hotplate BBQ Saba Fish Set,5.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-002,Hotplate Spicy Chicken Set,5.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-003,Hotplate BBQ Beef Set,6.00,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-004,Hotplate BBQ Saba & Chicken Set,6.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-005,Hotplate BBQ Saba & Beef Set,6.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-006,Hotplate BBQ Chicken & Beef Set,6.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-007,Hotplate Kimchi Fried Rice,5.00,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-008,Korean Spicy Chicken Ramen,4.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-009,Korean Spicy Beef Ramen,5.00,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-010,Kimchi Sour & Spicy Soup,5.30,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-011,Seafood Tofu Soup,5.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-012,Spicy Chicken Soup,5.50,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-013,Spicy Beef Soup,6.00,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-014,Spicy Chicken Rice,4.80,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-015,Beef Rice,5.00,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-016,Bibimbap,6.30,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-017,Chicken Katsu & Ebi Tempura Bento,5.80,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-018,Chicken Katsu & Saba Fish Bento,5.80,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-019,Chicken Katsu & Salmon Bento,6.30,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-020,Salmon & Ebi Tempura Bento,6.30,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-021,Salmon & BBQ Chicken Bento,6.30,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-022,Salmon & BBQ Beef Bento,6.30,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-023,Chicken Katsu & Chicken Bento,5.80,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-024,Chicken Katsu & Beef Bento,5.80,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-025,Chicken Katsu Don,5.80,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-026,Salmon Don,6.30,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_1_2026-11-01_19-38-53.jpg; photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-027,Ebi Tempura Don,5.80,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-028,Value Meal Chicken Rice,3.00,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-tengsheng-029,Value Meal Chicken Katsu Rice,3.00,The Terrace,Teng Sheng Japanese & Korean Cuisine,Japanese / Korean,,,photo_2_2026-11-01_19-38-53.jpg
+tt-sichuan-001,Spicy Crispy Chicken,12.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg
+tt-sichuan-002,Hot Boiled Fish Fillet,14.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg
+tt-sichuan-003,Hunan Style Stir Fried Beef,12.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg
+tt-sichuan-004,Dry Pot Cauliflower,8.80,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg
+tt-sichuan-005,Economic Fried Bee Hoon (Vegetarian),2.80,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,vegetarian,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-006,Seafood Bee Hoon,5.80,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg; photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-007,San Lou Hor Fun,4.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-008,Stir Fried Beef Hor Fun,4.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-009,Stir Fried Bee Hoon,3.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-010,Black Pepper Chicken Rice + Fried Egg,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-011,Black Pepper Beef Rice + Fried Egg,5.80,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-012,Ginger & Onion Pork Rice + Fried Egg,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-013,Kung Pao Chicken Rice + Fried Egg,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-014,Sweet & Sour Chicken Rice + Fried Egg,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-015,Egg Fried Rice,4.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-016,Shrimp Fried Rice,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-017,Black Pepper Pork Chop Fried Rice,6.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg; photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-018,Hot & Sour Sweet Potato Vermicelli with Fish Fillet,5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-019,Hot & Sour Sweet Potato Vermicelli with Beef,5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-020,Mala Beef Rice Noodles,5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-021,Beef Rice Noodles (Dry),5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-022,Noodle with Minced Pork (Dry),4.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg; photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-023,Scallion Oil Noodles (Dry),3.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-024,Sichuan Chilli Oil Wanton Ramen (4 pcs),5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-025,Mala Beef Noodles,5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-026,Sliced Noodles with Beef,5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-027,Shredded Pork & Pickled Vegetable Noodles,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-028,Seafood Fried Noodles,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-029,Minced Beef Noodles,6.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_3_2026-11-01_19-38-53.jpg; photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-030,Pork Intestines Noodles with Pickles Flavour,6.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-031,Diced Chicken Noodles with Hot Chilli,5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-032,Crispy Fried Pork Chop,5.00,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-033,Chinese Dumplings (Dry) (10 pcs),5.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-sichuan-034,Marinated Chicken with Chilli Oil Sauce,6.50,The Terrace,Mala and Sichuan Mixed Rice,Sichuan / Chinese,,,photo_4_2026-11-01_19-38-53.jpg
+tt-laojiemian-001,Mushroom Minced Meat Noodle,4.00,The Terrace,Lao Jie Mian,Chinese,,,photo_6_2026-11-01_19-38-53.jpg
+tt-laojiemian-002,Fish Ball Noodle,3.00,The Terrace,Lao Jie Mian,Chinese,,,photo_6_2026-11-01_19-38-53.jpg
+tt-laojiemian-003,Abalone Noodle,4.00,The Terrace,Lao Jie Mian,Chinese,,,photo_6_2026-11-01_19-38-53.jpg
+tt-laojiemian-004,Kolo Mee,4.30,The Terrace,Lao Jie Mian,Chinese,,,photo_6_2026-11-01_19-38-53.jpg
+tt-laojiemian-005,Char Siu Mee,4.80,The Terrace,Lao Jie Mian,Chinese,,,photo_6_2026-11-01_19-38-53.jpg
+tt-laojiemian-006,Bak Chor Mee,4.30,The Terrace,Lao Jie Mian,Chinese,,,photo_6_2026-11-01_19-38-53.jpg
