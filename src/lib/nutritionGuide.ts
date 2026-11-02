@@ -22,10 +22,5 @@ export function nutritionGuide(estimate?: NutritionEstimate) {
     protein: signal(estimate?.proteinG, t.proteinGreenMin, t.proteinRedBelow, false),
     fibre: signal(estimate?.fibreG, t.fibreGreenMin, t.fibreRedBelow, false),
   }
-  const tones = Object.values(signals).map((s) => s.tone)
-  const tone: GuideTone = sharing ? 'unknown' : tones.includes('red') ? 'red'
-    : tones.includes('unknown') ? 'unknown' : tones.includes('amber') ? 'amber' : 'green'
-  const label = sharing ? 'Sharing dish: assess your portion' : tone === 'red' ? 'Per-meal guide: concerns'
-    : tone === 'unknown' ? 'Incomplete estimated profile' : tone === 'amber' ? 'Mixed estimated profile' : 'Favourable estimated profile'
-  return { tone, label, signals, sharing }
+  return { signals, sharing }
 }
