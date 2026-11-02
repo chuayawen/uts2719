@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { DIETARY_LABELS, formatPrice } from '../lib/constants'
 import type { MenuItem } from '../types/menu'
+import { NutritionFacts } from './NutritionFacts'
 
 export interface FoodCardProps {
   item: MenuItem
@@ -48,6 +49,7 @@ export function FoodCard({ item, canteenName, highlighted = false, onSelect }: F
         <p className="mt-1 text-xs font-medium text-slate-500">
           {[item.cuisine, ...item.dietary.map((tag) => DIETARY_LABELS[tag])].filter(Boolean).join(', ')}
         </p>
+        <NutritionFacts estimate={item.nutrition} expanded={!onSelect} />
       </div>
     </>
   )
