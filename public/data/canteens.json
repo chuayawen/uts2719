@@ -76,5 +76,17 @@
       "coordinateNote": "NUS Campus Map record 59: Flavours@UTown, 2 College Avenue West, Level 2.",
       "checkedOn": "2026-11-01"
     }
+  },
+  {
+    "id": "frontier",
+    "name": "Frontier",
+    "location": "Faculty of Science, 10 Science Drive 2",
+    "coordinates": { "lat": 1.296741111, "lng": 103.7803196 },
+    "sources": {
+      "directory": "https://uci.nus.edu.sg/campus-life/campus-services/retail-dining/kent-ridge/",
+      "coordinates": "https://map.nus.edu.sg/search/ajax_auto?qword=Frontier&maxrows=20",
+      "coordinateNote": "NUS Campus Map Frontier entry at 10 Science Drive 2, Singapore 117543. Hours omitted because term/vacation and individual stall schedules differ.",
+      "checkedOn": "2026-11-02"
+    }
   }
 ]
