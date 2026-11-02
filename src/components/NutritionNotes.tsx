@@ -7,20 +7,27 @@ export function NutritionNotes() {
     <details className="mx-4 my-2 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-xs text-slate-600">
       <summary className="cursor-pointer font-medium text-nus-blue">About nutrition</summary>
       <div className="mt-3 space-y-3 leading-relaxed">
-        <p>Numbers marked ≈ are estimates per order, from supplied AI estimates or calculations using comparable HPB foods and assumed portions. They are not stall-verified. Portions, sauces and cooking oil may vary.</p>
-        <p>Colours help compare individual nutrients; there is no overall food rating. Green indicates lower sodium or higher protein/fibre, amber is the middle band, red indicates higher sodium or lower protein/fibre, and grey means unavailable data or a sharing order.</p>
-        <table className="w-full text-left text-[11px]">
-          <caption className="mb-1 text-left font-medium">Colour key — amounts per order</caption>
+        <p>≈ means “about”. Nutrition values are estimates for one order, based on AI estimates or similar foods in the Health Promotion Board (HPB) database. Stalls have not verified them. Portion size, sauces and cooking oil can change the actual amounts.</p>
+        <p>Use the colours to compare nutrients:</p>
+        <ul className="list-disc space-y-1 pl-4">
+          <li><strong>Green:</strong> less sodium, or more protein or fibre.</li>
+          <li><strong>Amber:</strong> between the green and red ranges.</li>
+          <li><strong>Red:</strong> more sodium, or less protein or fibre.</li>
+          <li><strong>Grey:</strong> missing information, or a dish meant for sharing.</li>
+        </ul>
+        <table className="w-full text-left text-xs [&_th]:py-1 [&_th]:pr-2 [&_td]:py-1 [&_td]:pr-2 [&_td]:align-top">
+          <caption className="mb-1 text-left font-medium">Amounts for one order</caption>
           <thead><tr><th scope="col">Nutrient</th><th scope="col">Green</th><th scope="col">Amber</th><th scope="col">Red</th></tr></thead>
           <tbody>
-            <tr><th scope="row">Sodium (mg)</th><td>≤{t.sodiumGreenMax}</td><td>&gt;{t.sodiumGreenMax}–{t.sodiumRedAbove}</td><td>&gt;{t.sodiumRedAbove}</td></tr>
-            <tr><th scope="row">Protein (g)</th><td>≥{t.proteinGreenMin}</td><td>{t.proteinRedBelow}–&lt;{t.proteinGreenMin}</td><td>&lt;{t.proteinRedBelow}</td></tr>
-            <tr><th scope="row">Fibre (g)</th><td>≥{t.fibreGreenMin}</td><td>{t.fibreRedBelow}–&lt;{t.fibreGreenMin}</td><td>&lt;{t.fibreRedBelow}</td></tr>
+            <tr><th scope="row">Sodium (mg)</th><td>{t.sodiumGreenMax} or less</td><td>Over {t.sodiumGreenMax} to {t.sodiumRedAbove.toLocaleString('en-SG')}</td><td>Over {t.sodiumRedAbove.toLocaleString('en-SG')}</td></tr>
+            <tr><th scope="row">Protein (g)</th><td>{t.proteinGreenMin} or more</td><td>{t.proteinRedBelow} to under {t.proteinGreenMin}</td><td>Under {t.proteinRedBelow}</td></tr>
+            <tr><th scope="row">Fibre (g)</th><td>{t.fibreGreenMin} or more</td><td>{t.fibreRedBelow} to under {t.fibreGreenMin}</td><td>Under {t.fibreRedBelow}</td></tr>
           </tbody>
         </table>
-        <p>These app-defined bands use approximate adult meal shares of WHO daily guidance: under 2,000 mg sodium, at least 25 g fibre and roughly 50–75 g protein at 2,000 kcal. They are not official meal cut-offs or HPB certification. A side or snack need not provide a whole meal's nutrients; adjust sharing orders to your portion. Estimates near a boundary may change colour with serving size.</p>
-        <p>Colours cover only sodium, protein and fibre. Total fat does not identify saturated or trans fat, and macros cannot establish how processed the ingredients are. Consider your portion, other foods and individual needs when choosing.</p>
-        <a className="inline-block text-nus-blue underline" href="https://www.who.int/news-room/fact-sheets/detail/healthy-diet" target="_blank" rel="noreferrer">WHO healthy diet reference</a>
+        <p>These ranges are a rough reference for adults, informed by World Health Organization (WHO) daily guidance. They are set by this app, not official WHO limits for a meal or an HPB certification.</p>
+        <p>Consider your portion and the rest of your meals. A snack does not need to provide a whole meal’s nutrients. For shared dishes, consider only the amount you eat. A different serving size may change the colour.</p>
+        <p>The colours do not rate a food’s overall healthiness. They cover only sodium, protein and fibre. Total fat does not tell us how much saturated or trans fat a food contains, and nutrition numbers do not tell us how processed it is.</p>
+        <a className="inline-block text-nus-blue underline" href="https://www.who.int/news-room/fact-sheets/detail/healthy-diet" target="_blank" rel="noreferrer">Read the WHO healthy eating advice</a>
       </div>
     </details>
   )
