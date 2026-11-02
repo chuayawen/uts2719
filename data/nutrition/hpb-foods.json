@@ -1,0 +1,2700 @@
+{
+  "F05090006": {
+    "id": "F05090006",
+    "name": "Cooked white rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05090006",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 200,
+    "defaultPortion": "1 bowl(s) = 200g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 130,
+      "protein": 2.69,
+      "carbohydrate": 28.2,
+      "fat": 0.28,
+      "sodium": 1,
+      "dietaryFibre": 0.4
+    }
+  },
+  "F05090001": {
+    "id": "F05090001",
+    "name": "Cooked brown rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05090001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 200,
+    "defaultPortion": "1 bowl(s) = 200g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 123,
+      "protein": 2.74,
+      "carbohydrate": 25.6,
+      "fat": 0.97,
+      "sodium": 4,
+      "dietaryFibre": 1.6
+    }
+  },
+  "F05100154": {
+    "id": "F05100154",
+    "name": "Steamed chicken rice (rice only)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100154",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 220,
+    "defaultPortion": "1 plate(s) = 220g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 173,
+      "protein": 3.41,
+      "carbohydrate": 31.08,
+      "fat": 3.55,
+      "sodium": 385,
+      "dietaryFibre": 1.47
+    }
+  },
+  "F05100112": {
+    "id": "F05100112",
+    "name": "Roasted chicken rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100112",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 363,
+    "defaultPortion": "1 plate(s) = 363g",
+    "ediblePercent": 99.45,
+    "per100gEdible": {
+      "energy": 178,
+      "protein": 8.22,
+      "carbohydrate": 23.3,
+      "fat": 5.8,
+      "sodium": 294,
+      "dietaryFibre": -1
+    }
+  },
+  "F05100133": {
+    "id": "F05100133",
+    "name": "Steamed chicken rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100133",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 346,
+    "defaultPortion": "1 plate(s) = 346g",
+    "ediblePercent": 93.35,
+    "per100gEdible": {
+      "energy": 147,
+      "protein": 5.95,
+      "carbohydrate": 21.88,
+      "fat": 3.6,
+      "sodium": 380,
+      "dietaryFibre": 1.57
+    }
+  },
+  "F05100013": {
+    "id": "F05100013",
+    "name": "Char siew rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100013",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 353,
+    "defaultPortion": "1 plate(s) = 353g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 170,
+      "protein": 8.82,
+      "carbohydrate": 24.71,
+      "fat": 3.5,
+      "sodium": 236,
+      "dietaryFibre": 2.39
+    }
+  },
+  "F05100114": {
+    "id": "F05100114",
+    "name": "Roasted pork rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100114",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 363,
+    "defaultPortion": "1 plate(s) = 363g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 202,
+      "protein": 7.82,
+      "carbohydrate": 27.8,
+      "fat": 6.6,
+      "sodium": 238,
+      "dietaryFibre": 0.78
+    }
+  },
+  "F05100113": {
+    "id": "F05100113",
+    "name": "Roasted duck rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100113",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 411,
+    "defaultPortion": "1 plate(s) = 411g",
+    "ediblePercent": 98.05,
+    "per100gEdible": {
+      "energy": 169,
+      "protein": 8.22,
+      "carbohydrate": 22.17,
+      "fat": 5.15,
+      "sodium": 159,
+      "dietaryFibre": 0.69
+    }
+  },
+  "F11010013": {
+    "id": "F11010013",
+    "name": "Braised chicken breast, without skin",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11010013",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 90,
+    "defaultPortion": "1 palm-sized piece(s) = 90g",
+    "ediblePercent": 75,
+    "per100gEdible": {
+      "energy": 157,
+      "protein": 32.06,
+      "carbohydrate": 0,
+      "fat": 3.24,
+      "sodium": 47,
+      "dietaryFibre": 0
+    }
+  },
+  "F11010020": {
+    "id": "F11010020",
+    "name": "Braised chicken wing, with skin",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11010020",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 piece(s) = 100g",
+    "ediblePercent": 57,
+    "per100gEdible": {
+      "energy": 249,
+      "protein": 22.78,
+      "carbohydrate": 0,
+      "fat": 16.82,
+      "sodium": 67,
+      "dietaryFibre": 0
+    }
+  },
+  "F11010014": {
+    "id": "F11010014",
+    "name": "Braised chicken drumstick, with skin",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11010014",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 133,
+    "defaultPortion": "1 piece(s) = 133g",
+    "ediblePercent": 61,
+    "per100gEdible": {
+      "energy": 204,
+      "protein": 25.32,
+      "carbohydrate": 0,
+      "fat": 10.64,
+      "sodium": 76,
+      "dietaryFibre": 0
+    }
+  },
+  "F11020041": {
+    "id": "F11020041",
+    "name": "Lemon chicken",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020041",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 347,
+      "protein": 17.1,
+      "carbohydrate": 17,
+      "fat": 23.4,
+      "sodium": 520,
+      "dietaryFibre": 0.8
+    }
+  },
+  "F06100044": {
+    "id": "F06100044",
+    "name": "Steamed spare ribs",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100044",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 101,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 101g",
+    "ediblePercent": 63,
+    "per100gEdible": {
+      "energy": 202,
+      "protein": 14,
+      "carbohydrate": 7.18,
+      "fat": 13.08,
+      "sodium": 412,
+      "dietaryFibre": 2.36
+    }
+  },
+  "F11040009": {
+    "id": "F11040009",
+    "name": "Roast duck",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11040009",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 81,
+    "defaultPortion": "1 portion(s) = 81g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 232,
+      "protein": 24.2,
+      "carbohydrate": 1.91,
+      "fat": 13.9,
+      "sodium": 301,
+      "dietaryFibre": 1.04
+    }
+  },
+  "F01050005": {
+    "id": "F01050005",
+    "name": "Fried egg",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01050005",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 39,
+    "defaultPortion": "1 piece(s) = 39g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 234,
+      "protein": 15.75,
+      "carbohydrate": 1.22,
+      "fat": 18.15,
+      "sodium": 237,
+      "dietaryFibre": 1.23
+    }
+  },
+  "F01050001": {
+    "id": "F01050001",
+    "name": "Braised egg",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01050001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 36,
+    "defaultPortion": "1 whole = 36g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 193,
+      "protein": 16.6,
+      "carbohydrate": 1.6,
+      "fat": 13.35,
+      "sodium": 412,
+      "dietaryFibre": -1
+    }
+  },
+  "F01050013": {
+    "id": "F01050013",
+    "name": "Scrambled egg",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01050013",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 45,
+    "defaultPortion": "1 piece(s) = 45g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 149,
+      "protein": 9.99,
+      "carbohydrate": 1.61,
+      "fat": 10.98,
+      "sodium": 145,
+      "dietaryFibre": 0
+    }
+  },
+  "F01050003": {
+    "id": "F01050003",
+    "name": "Egg fuyong",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01050003",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 373,
+    "defaultPortion": "1 plate(s) = 373g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 272,
+      "protein": 10.46,
+      "carbohydrate": 2.11,
+      "fat": 24.64,
+      "sodium": 426,
+      "dietaryFibre": 1.76
+    }
+  },
+  "F01060005": {
+    "id": "F01060005",
+    "name": "Salted egg yolk",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01060005",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 17,
+    "defaultPortion": "1 whole = 17g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 568,
+      "protein": 22.8,
+      "carbohydrate": 0,
+      "fat": 53,
+      "sodium": 307,
+      "dietaryFibre": -1
+    }
+  },
+  "F14080041": {
+    "id": "F14080041",
+    "name": "Stir fried cabbage",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080041",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 176,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 176g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 134,
+      "protein": 3.87,
+      "carbohydrate": 3.38,
+      "fat": 11.2,
+      "sodium": 305,
+      "dietaryFibre": 2.22
+    }
+  },
+  "F14080052": {
+    "id": "F14080052",
+    "name": "Stir fried mixed vegetables",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080052",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 61,
+      "protein": 2.3,
+      "carbohydrate": 2.57,
+      "fat": 4.6,
+      "sodium": 268,
+      "dietaryFibre": 2.17
+    }
+  },
+  "F14080037": {
+    "id": "F14080037",
+    "name": "Stir fried bok choy",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080037",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 58,
+      "protein": 1.63,
+      "carbohydrate": 1.6,
+      "fat": 4.9,
+      "sodium": 181,
+      "dietaryFibre": 0.93
+    }
+  },
+  "F14080048": {
+    "id": "F14080048",
+    "name": "Stir fried kailan",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080048",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 75,
+      "protein": 1.73,
+      "carbohydrate": 3.7,
+      "fat": 5.9,
+      "sodium": 211,
+      "dietaryFibre": 0.75
+    }
+  },
+  "F14080026": {
+    "id": "F14080026",
+    "name": "Sambal kangkong",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080026",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 132,
+      "protein": 3.1,
+      "carbohydrate": 6.6,
+      "fat": 10.3,
+      "sodium": 728,
+      "dietaryFibre": 2.2
+    }
+  },
+  "F14080001": {
+    "id": "F14080001",
+    "name": "Achar",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 30,
+    "defaultPortion": "1 tablespoon(s) = 30g",
+    "ediblePercent": 90,
+    "per100gEdible": {
+      "energy": 106,
+      "protein": 1.9,
+      "carbohydrate": 23,
+      "fat": 2,
+      "sodium": 603,
+      "dietaryFibre": 1.9
+    }
+  },
+  "F09040003": {
+    "id": "F09040003",
+    "name": "Plain tofu",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F09040003",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 85,
+    "defaultPortion": "1 block(s) = 85g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 72,
+      "protein": 6.6,
+      "carbohydrate": 1.6,
+      "fat": 4.2,
+      "sodium": 59,
+      "dietaryFibre": 0.1
+    }
+  },
+  "F09050004": {
+    "id": "F09050004",
+    "name": "Fried tau kwa",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F09050004",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 111,
+    "defaultPortion": "1 piece(s) = 111g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 147,
+      "protein": 16.76,
+      "carbohydrate": 0.66,
+      "fat": 8.63,
+      "sodium": 278,
+      "dietaryFibre": 1.7
+    }
+  },
+  "F09050001": {
+    "id": "F09050001",
+    "name": "Agedashi tofu",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F09050001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2024,
+    "defaultWeightG": 85,
+    "defaultPortion": "1 piece(s) = 85g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 92,
+      "protein": 2.9,
+      "carbohydrate": 8.93,
+      "fat": 4.96,
+      "sodium": 489,
+      "dietaryFibre": 0.41
+    }
+  },
+  "F14080061": {
+    "id": "F14080061",
+    "name": "Vegetable tempura",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080061",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 26,
+    "defaultPortion": "1 piece(s) = 26g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 255,
+      "protein": 3.17,
+      "carbohydrate": 22.45,
+      "fat": 16.94,
+      "sodium": 67,
+      "dietaryFibre": 2.37
+    }
+  },
+  "F03020002": {
+    "id": "F03020002",
+    "name": "Battered fish fillet",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03020002",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 235,
+    "defaultPortion": "1 piece(s) = 235g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 239,
+      "protein": 9.92,
+      "carbohydrate": 14.54,
+      "fat": 15.5,
+      "sodium": 517,
+      "dietaryFibre": 0.62
+    }
+  },
+  "F03010037": {
+    "id": "F03010037",
+    "name": "Steamed tilapia",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03010037",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 90,
+    "defaultPortion": "1 palm-sized piece(s) = 90g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 136,
+      "protein": 22,
+      "carbohydrate": 0,
+      "fat": 5.2,
+      "sodium": 85,
+      "dietaryFibre": 0
+    }
+  },
+  "F03020033": {
+    "id": "F03020033",
+    "name": "Teriyaki salmon fillet",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03020033",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 165,
+    "defaultPortion": "1 piece(s) = 165g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 246,
+      "protein": 21.1,
+      "carbohydrate": 2.5,
+      "fat": 16.92,
+      "sodium": 359,
+      "dietaryFibre": 0.05
+    }
+  },
+  "F03010007": {
+    "id": "F03010007",
+    "name": "Baked saba mackerel",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03010007",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 90,
+    "defaultPortion": "1 palm-sized piece(s) = 90g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 262,
+      "protein": 23.85,
+      "carbohydrate": 0,
+      "fat": 17.81,
+      "sodium": 83,
+      "dietaryFibre": 0
+    }
+  },
+  "F03050007": {
+    "id": "F03050007",
+    "name": "Boiled black tiger prawn",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03050007",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 55,
+    "defaultPortion": "1 whole = 55g",
+    "ediblePercent": 50,
+    "per100gEdible": {
+      "energy": 77,
+      "protein": 17.81,
+      "carbohydrate": -1,
+      "fat": 0.74,
+      "sodium": 691,
+      "dietaryFibre": 0
+    }
+  },
+  "F06100016": {
+    "id": "F06100016",
+    "name": "Gyoza",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100016",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 19,
+    "defaultPortion": "1 piece(s) = 19g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 185,
+      "protein": 8.44,
+      "carbohydrate": 20.2,
+      "fat": 7.7,
+      "sodium": 424,
+      "dietaryFibre": 0.8
+    }
+  },
+  "F11020031": {
+    "id": "F11020031",
+    "name": "Fried chicken cutlet",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020031",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 203,
+    "defaultPortion": "1 piece(s) = 203g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 268,
+      "protein": 19.26,
+      "carbohydrate": 10.87,
+      "fat": 16.43,
+      "sodium": 527,
+      "dietaryFibre": 0.4
+    }
+  },
+  "F11070003": {
+    "id": "F11070003",
+    "name": "Chicken nugget",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11070003",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 20,
+    "defaultPortion": "1 piece(s) = 20g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 288,
+      "protein": 13.9,
+      "carbohydrate": 20.8,
+      "fat": 16.7,
+      "sodium": 649,
+      "dietaryFibre": 0.3
+    }
+  },
+  "F11070004": {
+    "id": "F11070004",
+    "name": "Chicken patty",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11070004",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 76,
+    "defaultPortion": "1 piece(s) = 76g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 206,
+      "protein": 18,
+      "carbohydrate": 7.6,
+      "fat": 11.5,
+      "sodium": 243,
+      "dietaryFibre": 1.3
+    }
+  },
+  "F06030026": {
+    "id": "F06030026",
+    "name": "Grilled beef fillet",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06030026",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 80,
+    "defaultPortion": "1 whole = 80g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 203,
+      "protein": 30.8,
+      "carbohydrate": 0,
+      "fat": 8.8,
+      "sodium": 48,
+      "dietaryFibre": 0
+    }
+  },
+  "F06090008": {
+    "id": "F06090008",
+    "name": "Grilled pork butterfly steak",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06090008",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 120,
+    "defaultPortion": "1 whole = 120g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 197,
+      "protein": 30.6,
+      "carbohydrate": 0,
+      "fat": 8.2,
+      "sodium": 45,
+      "dietaryFibre": 0
+    }
+  },
+  "F11020034": {
+    "id": "F11020034",
+    "name": "Ginger chicken",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020034",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 99.34,
+    "per100gEdible": {
+      "energy": 170,
+      "protein": 12.05,
+      "carbohydrate": 5.16,
+      "fat": 11.05,
+      "sodium": 435,
+      "dietaryFibre": 1.09
+    }
+  },
+  "F06100046": {
+    "id": "F06100046",
+    "name": "Stir fried pork with green onion",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100046",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 213,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 213g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 126,
+      "protein": 12.35,
+      "carbohydrate": 4.17,
+      "fat": 6.45,
+      "sodium": 494,
+      "dietaryFibre": 1.09
+    }
+  },
+  "F03020031": {
+    "id": "F03020031",
+    "name": "Stir fried fish with ginger and scallion",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03020031",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 108,
+      "protein": 7.96,
+      "carbohydrate": 2.95,
+      "fat": 7.16,
+      "sodium": 334,
+      "dietaryFibre": 0.66
+    }
+  },
+  "F11020046": {
+    "id": "F11020046",
+    "name": "Sambal chicken",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020046",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 69,
+    "per100gEdible": {
+      "energy": 206,
+      "protein": 22.88,
+      "carbohydrate": 1.4,
+      "fat": 12.09,
+      "sodium": 277,
+      "dietaryFibre": 1.57
+    }
+  },
+  "F03020022": {
+    "id": "F03020022",
+    "name": "Sambal batang fish",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03020022",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2024,
+    "defaultWeightG": 113,
+    "defaultPortion": "1 whole = 113g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 168,
+      "protein": 26.29,
+      "carbohydrate": 0.5,
+      "fat": 6.74,
+      "sodium": 385,
+      "dietaryFibre": 1.56
+    }
+  },
+  "F03060023": {
+    "id": "F03060023",
+    "name": "Sambal prawns",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03060023",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2026,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 85.7,
+    "per100gEdible": {
+      "energy": 122,
+      "protein": 9.2,
+      "carbohydrate": 4.18,
+      "fat": 7.6,
+      "sodium": 500,
+      "dietaryFibre": 1.25
+    }
+  },
+  "F03060024": {
+    "id": "F03060024",
+    "name": "Sambal sotong",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03060024",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 115,
+      "protein": 12.3,
+      "carbohydrate": 4.8,
+      "fat": 5.2,
+      "sodium": 888,
+      "dietaryFibre": 2.3
+    }
+  },
+  "F11020050": {
+    "id": "F11020050",
+    "name": "Sweet and sour chicken",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020050",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 204,
+      "protein": 10.9,
+      "carbohydrate": 16.1,
+      "fat": 10.5,
+      "sodium": 303,
+      "dietaryFibre": 0.1
+    }
+  },
+  "F06100049": {
+    "id": "F06100049",
+    "name": "Sweet and sour pork",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100049",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 310,
+      "protein": 13.03,
+      "carbohydrate": 20.65,
+      "fat": 19.45,
+      "sodium": 514,
+      "dietaryFibre": 0.75
+    }
+  },
+  "F03020032": {
+    "id": "F03020032",
+    "name": "Sweet and sour fish",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03020032",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 352,
+      "protein": 9.77,
+      "carbohydrate": 18.6,
+      "fat": 26.45,
+      "sodium": 786,
+      "dietaryFibre": 0.83
+    }
+  },
+  "F03060036": {
+    "id": "F03060036",
+    "name": "Sweet and sour prawn",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03060036",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 156,
+      "protein": 7.44,
+      "carbohydrate": 13.31,
+      "fat": 8.12,
+      "sodium": 80,
+      "dietaryFibre": 2.87
+    }
+  },
+  "F06100040": {
+    "id": "F06100040",
+    "name": "Salted egg pork rib",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100040",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2018,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 310,
+      "protein": 16.81,
+      "carbohydrate": 12,
+      "fat": 21.59,
+      "sodium": 530,
+      "dietaryFibre": 1.81
+    }
+  },
+  "F05030004": {
+    "id": "F05030004",
+    "name": "Chapati",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05030004",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 133,
+    "defaultPortion": "1 piece(s) = 133g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 326,
+      "protein": 8.22,
+      "carbohydrate": 47.06,
+      "fat": 10.6,
+      "sodium": 278,
+      "dietaryFibre": 4.74
+    }
+  },
+  "F05030010": {
+    "id": "F05030010",
+    "name": "Plain prata",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05030010",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 71,
+    "defaultPortion": "1 piece(s) = 71g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 347,
+      "protein": 8.88,
+      "carbohydrate": 49.92,
+      "fat": 12,
+      "sodium": 571,
+      "dietaryFibre": 2.14
+    }
+  },
+  "F05020090": {
+    "id": "F05020090",
+    "name": "Prata (egg)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05020090",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 119,
+    "defaultPortion": "1 piece(s) = 119g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 266,
+      "protein": 10.95,
+      "carbohydrate": 28.01,
+      "fat": 11.05,
+      "sodium": 420,
+      "dietaryFibre": 5.5
+    }
+  },
+  "F05020001": {
+    "id": "F05020001",
+    "name": "Aloo paratha",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05020001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 167,
+    "defaultPortion": "1 piece(s) = 167g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 226,
+      "protein": 6.35,
+      "carbohydrate": 35.25,
+      "fat": 6.63,
+      "sodium": 424,
+      "dietaryFibre": 4.39
+    }
+  },
+  "F05100082": {
+    "id": "F05100082",
+    "name": "Nasi briyani (vegetable)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100082",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 518,
+    "defaultPortion": "1 plate(s) = 518g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 129,
+      "protein": 3.86,
+      "carbohydrate": 19.14,
+      "fat": 4.15,
+      "sodium": 339,
+      "dietaryFibre": 1.42
+    }
+  },
+  "F09010009": {
+    "id": "F09010009",
+    "name": "Dhal curry",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F09010009",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 93,
+      "protein": 3.79,
+      "carbohydrate": 6.43,
+      "fat": 5,
+      "sodium": 375,
+      "dietaryFibre": 3.83
+    }
+  },
+  "F09010006": {
+    "id": "F09010006",
+    "name": "Chana masala",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F09010006",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2026,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 99,
+      "protein": 4.25,
+      "carbohydrate": 9.24,
+      "fat": 4.95,
+      "sodium": 472,
+      "dietaryFibre": 3.85
+    }
+  },
+  "F01040002": {
+    "id": "F01040002",
+    "name": "Paneer butter masala",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01040002",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 428,
+    "defaultPortion": "1 bowl(s) = 428g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 218,
+      "protein": 6.32,
+      "carbohydrate": 5.83,
+      "fat": 18.76,
+      "sodium": 341,
+      "dietaryFibre": 1.55
+    }
+  },
+  "F14080010": {
+    "id": "F14080010",
+    "name": "Curry vegetables",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080010",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 267,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 267g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 83,
+      "protein": 2.14,
+      "carbohydrate": 3.26,
+      "fat": 6.25,
+      "sodium": 419,
+      "dietaryFibre": 2.34
+    }
+  },
+  "F11020016": {
+    "id": "F11020016",
+    "name": "Chicken curry",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020016",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 347,
+    "defaultPortion": "1 bowl(s) = 347g",
+    "ediblePercent": 96.6,
+    "per100gEdible": {
+      "energy": 143,
+      "protein": 10.05,
+      "carbohydrate": 1.3,
+      "fat": 10.6,
+      "sodium": 365,
+      "dietaryFibre": 1.15
+    }
+  },
+  "F03020005": {
+    "id": "F03020005",
+    "name": "Fish curry",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03020005",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 96.71,
+    "per100gEdible": {
+      "energy": 102,
+      "protein": 6.21,
+      "carbohydrate": 2.32,
+      "fat": 7.05,
+      "sodium": 485,
+      "dietaryFibre": 1.98
+    }
+  },
+  "F06060011": {
+    "id": "F06060011",
+    "name": "Mutton curry",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06060011",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 302,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 302g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 185,
+      "protein": 13.21,
+      "carbohydrate": 1.81,
+      "fat": 13.88,
+      "sodium": 458,
+      "dietaryFibre": 1.47
+    }
+  },
+  "F03010017": {
+    "id": "F03010017",
+    "name": "Fried silver pomfret",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03010017",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 90,
+    "defaultPortion": "1 palm-sized piece(s) = 90g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 334,
+      "protein": 32.5,
+      "carbohydrate": 0,
+      "fat": 22.7,
+      "sodium": 206,
+      "dietaryFibre": 0
+    }
+  },
+  "F11020030": {
+    "id": "F11020030",
+    "name": "Fried chicken (3 pc)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020030",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 306,
+    "defaultPortion": "1 set(s) = 306g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 276,
+      "protein": 21.98,
+      "carbohydrate": 9.85,
+      "fat": 16.55,
+      "sodium": 425,
+      "dietaryFibre": 0.25
+    }
+  },
+  "F05100085": {
+    "id": "F05100085",
+    "name": "Nasi lemak (chicken cutlet set)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100085",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 399,
+    "defaultPortion": "1 plate(s) = 399g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 227,
+      "protein": 10,
+      "carbohydrate": 20.52,
+      "fat": 11.22,
+      "sodium": 443,
+      "dietaryFibre": 1.91
+    }
+  },
+  "F05100049": {
+    "id": "F05100049",
+    "name": "Egg fried rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100049",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 303,
+    "defaultPortion": "1 plate(s) = 303g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 217,
+      "protein": 6.95,
+      "carbohydrate": 27.64,
+      "fat": 8.71,
+      "sodium": 323,
+      "dietaryFibre": 0.51
+    }
+  },
+  "F05100152": {
+    "id": "F05100152",
+    "name": "Yang chow fried rice",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100152",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 379,
+    "defaultPortion": "1 plate(s) = 379g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 198,
+      "protein": 7.4,
+      "carbohydrate": 25.29,
+      "fat": 7.43,
+      "sodium": 354,
+      "dietaryFibre": 0.36
+    }
+  },
+  "F05060096": {
+    "id": "F05060096",
+    "name": "Plain fried beehoon",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060096",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 238,
+    "defaultPortion": "1 plate(s) = 238g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 140,
+      "protein": 2.36,
+      "carbohydrate": 26.05,
+      "fat": 2.56,
+      "sodium": 435,
+      "dietaryFibre": 1.76
+    }
+  },
+  "F05060097": {
+    "id": "F05060097",
+    "name": "Plain fried yellow noodles",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060097",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 240,
+    "defaultPortion": "1 plate(s) = 240g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 141,
+      "protein": 4.5,
+      "carbohydrate": 22.7,
+      "fat": 3.6,
+      "sodium": 782,
+      "dietaryFibre": 1.1
+    }
+  },
+  "F06010001": {
+    "id": "F06010001",
+    "name": "Vegetarian beehoon with mock meat",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06010001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 295,
+    "defaultPortion": "1 plate(s) = 295g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 146,
+      "protein": 6.37,
+      "carbohydrate": 22.34,
+      "fat": 2.86,
+      "sodium": 478,
+      "dietaryFibre": 2.74
+    }
+  },
+  "F06010004": {
+    "id": "F06010004",
+    "name": "Vegetarian kway teow",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06010004",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2026,
+    "defaultWeightG": 410,
+    "defaultPortion": "1 plate(s) = 410g",
+    "ediblePercent": 99.4,
+    "per100gEdible": {
+      "energy": 153,
+      "protein": 3.05,
+      "carbohydrate": 21.3,
+      "fat": 6.15,
+      "sodium": 340,
+      "dietaryFibre": 1.55
+    }
+  },
+  "F05060009": {
+    "id": "F05060009",
+    "name": "Beef hor fun",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060009",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 682,
+    "defaultPortion": "1 plate(s) = 682g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 95,
+      "protein": 2.39,
+      "carbohydrate": 13.26,
+      "fat": 3.4,
+      "sodium": 313,
+      "dietaryFibre": 1.05
+    }
+  },
+  "F05060112": {
+    "id": "F05060112",
+    "name": "Seafood hor fun",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060112",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 676,
+    "defaultPortion": "1 plate(s) = 676g",
+    "ediblePercent": 99.7,
+    "per100gEdible": {
+      "energy": 85,
+      "protein": 2.47,
+      "carbohydrate": 12.25,
+      "fat": 2.8,
+      "sodium": 309,
+      "dietaryFibre": 0.61
+    }
+  },
+  "F05060120": {
+    "id": "F05060120",
+    "name": "Sliced fish hor fun",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060120",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2023,
+    "defaultWeightG": 707,
+    "defaultPortion": "1 plate(s) = 707g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 132,
+      "protein": 4.22,
+      "carbohydrate": 12.21,
+      "fat": 7.34,
+      "sodium": 283,
+      "dietaryFibre": 0.72
+    }
+  },
+  "F05060020": {
+    "id": "F05060020",
+    "name": "Char kway teow",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060020",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 480,
+    "defaultPortion": "1 plate(s) = 480g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 203,
+      "protein": 5.36,
+      "carbohydrate": 24.9,
+      "fat": 8.9,
+      "sodium": 439,
+      "dietaryFibre": 1.15
+    }
+  },
+  "F05060080": {
+    "id": "F05060080",
+    "name": "Mee goreng",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060080",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 465,
+    "defaultPortion": "1 plate(s) = 465g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 178,
+      "protein": 5.69,
+      "carbohydrate": 20.58,
+      "fat": 7.3,
+      "sodium": 656,
+      "dietaryFibre": 3.37
+    }
+  },
+  "F05060136": {
+    "id": "F05060136",
+    "name": "White bee hoon",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060136",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2024,
+    "defaultWeightG": 656,
+    "defaultPortion": "1 plate(s) = 656g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 98,
+      "protein": 3.15,
+      "carbohydrate": 12.15,
+      "fat": 4.05,
+      "sodium": 303,
+      "dietaryFibre": 0.51
+    }
+  },
+  "F05060064": {
+    "id": "F05060064",
+    "name": "Hokkien mee",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060064",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 549,
+    "defaultPortion": "1 plate(s) = 549g",
+    "ediblePercent": 99.45,
+    "per100gEdible": {
+      "energy": 149,
+      "protein": 5.4,
+      "carbohydrate": 13.4,
+      "fat": 7.95,
+      "sodium": 355,
+      "dietaryFibre": 1.16
+    }
+  },
+  "F05060067": {
+    "id": "F05060067",
+    "name": "Instant noodles (soup)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060067",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "NIP",
+    "dataYear": 2025,
+    "defaultWeightG": 524,
+    "defaultPortion": "1 bowl(s) = 524g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 78,
+      "protein": 1.69,
+      "carbohydrate": 10.94,
+      "fat": 3.03,
+      "sodium": 305,
+      "dietaryFibre": 0.86
+    }
+  },
+  "F14060009": {
+    "id": "F14060009",
+    "name": "Hashbrown",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14060009",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 50,
+    "defaultPortion": "1 piece(s) = 50g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 266,
+      "protein": 3.17,
+      "carbohydrate": 25.28,
+      "fat": 16.91,
+      "sodium": 498,
+      "dietaryFibre": 2.21
+    }
+  },
+  "F05100055": {
+    "id": "F05100055",
+    "name": "Fried carrot cake (white)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100055",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 321,
+    "defaultPortion": "1 plate(s) = 321g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 144,
+      "protein": 3.48,
+      "carbohydrate": 15.32,
+      "fat": 7.2,
+      "sodium": 490,
+      "dietaryFibre": 2.18
+    }
+  },
+  "F14060007": {
+    "id": "F14060007",
+    "name": "French fries",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14060007",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 115,
+    "defaultPortion": "1 medium packet(s) = 115g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 327,
+      "protein": 4.12,
+      "carbohydrate": 31.13,
+      "fat": 19.8,
+      "sodium": 193,
+      "dietaryFibre": 3.92
+    }
+  },
+  "F11020014": {
+    "id": "F11020014",
+    "name": "Chicken chop with sauce",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020014",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2026,
+    "defaultWeightG": 164,
+    "defaultPortion": "1 piece(s) = 164g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 205,
+      "protein": 23.2,
+      "carbohydrate": 1.8,
+      "fat": 11.7,
+      "sodium": 372,
+      "dietaryFibre": 0.7
+    }
+  },
+  "F08020013": {
+    "id": "F08020013",
+    "name": "Chicken burger with fries",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F08020013",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 340,
+    "defaultPortion": "1 set(s) = 340g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 275,
+      "protein": 9.06,
+      "carbohydrate": 24.12,
+      "fat": 15.51,
+      "sodium": 456,
+      "dietaryFibre": 2.44
+    }
+  },
+  "F08020019": {
+    "id": "F08020019",
+    "name": "Fish burger with fries",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F08020019",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 269,
+    "defaultPortion": "1 set(s) = 269g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 298,
+      "protein": 7.9,
+      "carbohydrate": 28.89,
+      "fat": 16.44,
+      "sodium": 392,
+      "dietaryFibre": 2.4
+    }
+  },
+  "F08020003": {
+    "id": "F08020003",
+    "name": "Beef burger with fries",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F08020003",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 388,
+    "defaultPortion": "1 set(s) = 388g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 266,
+      "protein": 10.68,
+      "carbohydrate": 18.3,
+      "fat": 16.51,
+      "sodium": 389,
+      "dietaryFibre": 2.6
+    }
+  },
+  "F05020068": {
+    "id": "F05020068",
+    "name": "Mushroom burger",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05020068",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 242,
+    "defaultPortion": "1 burger(s) = 242g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 278,
+      "protein": 8.65,
+      "carbohydrate": 23.79,
+      "fat": 16.4,
+      "sodium": 511,
+      "dietaryFibre": 2.88
+    }
+  },
+  "F05070009": {
+    "id": "F05070009",
+    "name": "Cooked egg noodles",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05070009",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 200,
+    "defaultPortion": "1 bowl(s) = 200g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 138,
+      "protein": 4.54,
+      "carbohydrate": 25.16,
+      "fat": 2.07,
+      "sodium": 5,
+      "dietaryFibre": 1.2
+    }
+  },
+  "F05060131": {
+    "id": "F05060131",
+    "name": "Thick beehoon",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060131",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 200,
+    "defaultPortion": "1 bowl(s) = 200g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 121,
+      "protein": 1.57,
+      "carbohydrate": 28,
+      "fat": 0.28,
+      "sodium": 7,
+      "dietaryFibre": 1.1
+    }
+  },
+  "F05060125": {
+    "id": "F05060125",
+    "name": "Suan la fen",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060125",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 662,
+    "defaultPortion": "1 bowl(s) = 662g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 66,
+      "protein": 1.4,
+      "carbohydrate": 10.3,
+      "fat": 2.18,
+      "sodium": 338,
+      "dietaryFibre": 2.4
+    }
+  },
+  "F05060029": {
+    "id": "F05060029",
+    "name": "Chicken macaroni soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060029",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 606,
+    "defaultPortion": "1 bowl(s) = 606g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 44,
+      "protein": 3.2,
+      "carbohydrate": 5.39,
+      "fat": 0.95,
+      "sodium": 250,
+      "dietaryFibre": 0.76
+    }
+  },
+  "F05060057": {
+    "id": "F05060057",
+    "name": "Fishball noodles (soup)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060057",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 798,
+    "defaultPortion": "1 bowl(s) = 798g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 64,
+      "protein": 4.2,
+      "carbohydrate": 9.72,
+      "fat": 0.75,
+      "sodium": 301,
+      "dietaryFibre": 0.59
+    }
+  },
+  "F05060056": {
+    "id": "F05060056",
+    "name": "Fishball noodles (dry)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060056",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 377,
+    "defaultPortion": "1 bowl(s) = 377g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 136,
+      "protein": 5.41,
+      "carbohydrate": 17.92,
+      "fat": 4.2,
+      "sodium": 455,
+      "dietaryFibre": 2.38
+    }
+  },
+  "F05060135": {
+    "id": "F05060135",
+    "name": "Wanton noodles (soup)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060135",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 678,
+    "defaultPortion": "1 bowl(s) = 678g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 93,
+      "protein": 7.28,
+      "carbohydrate": 10.96,
+      "fat": 2,
+      "sodium": 427,
+      "dietaryFibre": 1.05
+    }
+  },
+  "F05060134": {
+    "id": "F05060134",
+    "name": "Wanton noodles (dry)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060134",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 388,
+    "defaultPortion": "1 bowl(s) = 388g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 161,
+      "protein": 8.69,
+      "carbohydrate": 19.1,
+      "fat": 5.5,
+      "sodium": 403,
+      "dietaryFibre": -1
+    }
+  },
+  "F05060024": {
+    "id": "F05060024",
+    "name": "Chicken and mushroom noodles (soup)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060024",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 653,
+    "defaultPortion": "1 bowl(s) = 653g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 53,
+      "protein": 4.4,
+      "carbohydrate": 6.7,
+      "fat": 1,
+      "sodium": 273,
+      "dietaryFibre": 0.7
+    }
+  },
+  "F05060023": {
+    "id": "F05060023",
+    "name": "Chicken and mushroom noodles (dry)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060023",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 397,
+    "defaultPortion": "1 bowl(s) = 397g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 111,
+      "protein": 6.7,
+      "carbohydrate": 12.7,
+      "fat": 3.7,
+      "sodium": 428,
+      "dietaryFibre": 1.7
+    }
+  },
+  "F08010063": {
+    "id": "F08010063",
+    "name": "Yong tau foo (clear soup, 7 pieces, mixed)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F08010063",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 771,
+    "defaultPortion": "1 bowl(s) = 771g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 75,
+      "protein": 2.94,
+      "carbohydrate": 4.44,
+      "fat": 4.87,
+      "sodium": 359,
+      "dietaryFibre": 0.93
+    }
+  },
+  "F06100011": {
+    "id": "F06100011",
+    "name": "Carrot, potato and pork ribs soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100011",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 591,
+    "defaultPortion": "1 bowl(s) = 591g",
+    "ediblePercent": 93.07,
+    "per100gEdible": {
+      "energy": 48,
+      "protein": 3.3,
+      "carbohydrate": 5.64,
+      "fat": 1.1,
+      "sodium": 284,
+      "dietaryFibre": 1.27
+    }
+  },
+  "F06100031": {
+    "id": "F06100031",
+    "name": "Pork ribs and old cucumber soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100031",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2024,
+    "defaultWeightG": 450,
+    "defaultPortion": "1 bowl(s) = 450g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 44,
+      "protein": 5.07,
+      "carbohydrate": 1.65,
+      "fat": 1.94,
+      "sodium": 260,
+      "dietaryFibre": 0.97
+    }
+  },
+  "F06100033": {
+    "id": "F06100033",
+    "name": "Pork ribs and watercress soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100033",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2026,
+    "defaultWeightG": 652,
+    "defaultPortion": "1 bowl(s) = 652g",
+    "ediblePercent": 93.7,
+    "per100gEdible": {
+      "energy": 44,
+      "protein": 4.2,
+      "carbohydrate": 3.84,
+      "fat": 1.35,
+      "sodium": 207,
+      "dietaryFibre": 1.1
+    }
+  },
+  "F06100021": {
+    "id": "F06100021",
+    "name": "Lotus root and pork ribs soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100021",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 562,
+    "defaultPortion": "1 bowl(s) = 562g",
+    "ediblePercent": 94.61,
+    "per100gEdible": {
+      "energy": 63,
+      "protein": 5.37,
+      "carbohydrate": 5.73,
+      "fat": 1.75,
+      "sodium": 293,
+      "dietaryFibre": 1.47
+    }
+  },
+  "F06100032": {
+    "id": "F06100032",
+    "name": "Pork ribs and peanut soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100032",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 450,
+    "defaultPortion": "1 bowl(s) = 450g",
+    "ediblePercent": 95,
+    "per100gEdible": {
+      "energy": 87,
+      "protein": 9.16,
+      "carbohydrate": 1.05,
+      "fat": 5.01,
+      "sodium": 272,
+      "dietaryFibre": 0.41
+    }
+  },
+  "F11020036": {
+    "id": "F11020036",
+    "name": "Herbal chicken soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020036",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 633,
+    "defaultPortion": "1 bowl(s) = 633g",
+    "ediblePercent": 94.15,
+    "per100gEdible": {
+      "energy": 27,
+      "protein": 1.91,
+      "carbohydrate": 3.2,
+      "fat": 0.75,
+      "sodium": 300,
+      "dietaryFibre": -1
+    }
+  },
+  "F11020038": {
+    "id": "F11020038",
+    "name": "Korean ginseng chicken soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F11020038",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2024,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 77,
+      "protein": 9.25,
+      "carbohydrate": 2.39,
+      "fat": 3.31,
+      "sodium": 223,
+      "dietaryFibre": 1.06
+    }
+  },
+  "F06100043": {
+    "id": "F06100043",
+    "name": "Steamed minced pork with salted fish",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100043",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 214,
+      "protein": 20.5,
+      "carbohydrate": 0.7,
+      "fat": 14.4,
+      "sodium": 793,
+      "dietaryFibre": 0.9
+    }
+  },
+  "F06100001": {
+    "id": "F06100001",
+    "name": "Babi pongteh",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 204,
+      "protein": 17.44,
+      "carbohydrate": 2.98,
+      "fat": 13.56,
+      "sodium": 240,
+      "dietaryFibre": 1.88
+    }
+  },
+  "F06100035": {
+    "id": "F06100035",
+    "name": "Pork ribs with black bean sauce",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100035",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 52,
+    "per100gEdible": {
+      "energy": 176,
+      "protein": 15.69,
+      "carbohydrate": 2.38,
+      "fat": 11.56,
+      "sodium": 279,
+      "dietaryFibre": 1.51
+    }
+  },
+  "F10040001": {
+    "id": "F10040001",
+    "name": "Japanese curry",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F10040001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 165,
+    "defaultPortion": "1 bowl(s) = 165g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 96,
+      "protein": 1.8,
+      "carbohydrate": 9.59,
+      "fat": 5.2,
+      "sodium": 452,
+      "dietaryFibre": 1.76
+    }
+  },
+  "F05100066": {
+    "id": "F05100066",
+    "name": "Korean chicken bulgogi (with rice)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100066",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 493,
+    "defaultPortion": "1 set(s) = 493g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 132,
+      "protein": 8.3,
+      "carbohydrate": 14.6,
+      "fat": 4.49,
+      "sodium": 271,
+      "dietaryFibre": 2.4
+    }
+  },
+  "F05100069": {
+    "id": "F05100069",
+    "name": "Korean pork bulgogi (with rice)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100069",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2018,
+    "defaultWeightG": 412,
+    "defaultPortion": "1 set(s) = 412g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 160,
+      "protein": 7.95,
+      "carbohydrate": 18.39,
+      "fat": 6.07,
+      "sodium": 237,
+      "dietaryFibre": 0.71
+    }
+  },
+  "F05100006": {
+    "id": "F05100006",
+    "name": "Bibimbap (chicken)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100006",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2026,
+    "defaultWeightG": 475,
+    "defaultPortion": "1 bowl(s) = 475g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 133,
+      "protein": 6.05,
+      "carbohydrate": 18.81,
+      "fat": 3.75,
+      "sodium": 353,
+      "dietaryFibre": 1.7
+    }
+  },
+  "F14080017": {
+    "id": "F14080017",
+    "name": "Kimchi",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080017",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 15,
+    "defaultPortion": "1 tablespoon(s) = 15g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 43,
+      "protein": 2.1,
+      "carbohydrate": 8.8,
+      "fat": 0,
+      "sodium": 791,
+      "dietaryFibre": 3.2
+    }
+  },
+  "F14080018": {
+    "id": "F14080018",
+    "name": "Korean kimchi stew (kimchi jjigae)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14080018",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 615,
+    "defaultPortion": "1 set(s) = 615g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 36,
+      "protein": 2.5,
+      "carbohydrate": 3.5,
+      "fat": 1.34,
+      "sodium": 578,
+      "dietaryFibre": 1.2
+    }
+  },
+  "F06040001": {
+    "id": "F06040001",
+    "name": "Beef and radish soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06040001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 450,
+    "defaultPortion": "1 bowl(s) = 450g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 26,
+      "protein": 4.4,
+      "carbohydrate": 0.4,
+      "fat": 0.7,
+      "sodium": 149,
+      "dietaryFibre": 0.4
+    }
+  },
+  "F05100068": {
+    "id": "F05100068",
+    "name": "Korean gimbap (chicken)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100068",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2018,
+    "defaultWeightG": 275,
+    "defaultPortion": "1 roll(s) = 275g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 128,
+      "protein": 6.6,
+      "carbohydrate": 18,
+      "fat": 3.31,
+      "sodium": 463,
+      "dietaryFibre": 1.6
+    }
+  },
+  "F05060071": {
+    "id": "F05060071",
+    "name": "Korean japchae",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060071",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 114,
+      "protein": 5.7,
+      "carbohydrate": 14.1,
+      "fat": 3.87,
+      "sodium": 460,
+      "dietaryFibre": 2.7
+    }
+  },
+  "F05060042": {
+    "id": "F05060042",
+    "name": "Dan dan noodles",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05060042",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 516,
+    "defaultPortion": "1 bowl(s) = 516g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 150,
+      "protein": 3.66,
+      "carbohydrate": 15.01,
+      "fat": 8.15,
+      "sodium": 587,
+      "dietaryFibre": 1.09
+    }
+  },
+  "F06110007": {
+    "id": "F06110007",
+    "name": "Chicken sausage, with skin",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06110007",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 40,
+    "defaultPortion": "1 piece(s) = 40g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 181,
+      "protein": 16.66,
+      "carbohydrate": 3.05,
+      "fat": 11.43,
+      "sodium": 1542,
+      "dietaryFibre": 1.47
+    }
+  },
+  "F01010003": {
+    "id": "F01010003",
+    "name": "Sliced cheese",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01010003",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 17,
+    "defaultPortion": "1 slice(s) = 17g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 201,
+      "protein": 23.6,
+      "carbohydrate": 5.8,
+      "fat": 9.3,
+      "sodium": 1235,
+      "dietaryFibre": 0
+    }
+  },
+  "F10020001": {
+    "id": "F10020001",
+    "name": "Olive oil",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F10020001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 15,
+    "defaultPortion": "1 tablespoon(s) = 15g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 884,
+      "protein": 0,
+      "carbohydrate": 0,
+      "fat": 100,
+      "sodium": 2,
+      "dietaryFibre": 0
+    }
+  },
+  "F10050004": {
+    "id": "F10050004",
+    "name": "Teriyaki sauce",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F10050004",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 15,
+    "defaultPortion": "1 tablespoon(s) = 15g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 123,
+      "protein": 3.1,
+      "carbohydrate": 27.5,
+      "fat": 0.1,
+      "sodium": 3591,
+      "dietaryFibre": 0.6
+    }
+  },
+  "F10060005": {
+    "id": "F10060005",
+    "name": "Table salt",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F10060005",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2026,
+    "defaultWeightG": 5,
+    "defaultPortion": "1 teaspoon(s) = 5g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 0,
+      "protein": 0,
+      "carbohydrate": 0,
+      "fat": 0,
+      "sodium": 38800,
+      "dietaryFibre": 0
+    }
+  },
+  "F06060003": {
+    "id": "F06060003",
+    "name": "Chinese mutton soup",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06060003",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 450,
+    "defaultPortion": "1 bowl(s) = 450g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 73,
+      "protein": 6.8,
+      "carbohydrate": 0,
+      "fat": 5.1,
+      "sodium": 274,
+      "dietaryFibre": 0
+    }
+  },
+  "F14040004": {
+    "id": "F14040004",
+    "name": "Boiled cauliflower",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14040004",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 60,
+    "per100gEdible": {
+      "energy": 23,
+      "protein": 1.84,
+      "carbohydrate": 4.11,
+      "fat": 0.45,
+      "sodium": 15,
+      "dietaryFibre": 2.3
+    }
+  },
+  "F14030001": {
+    "id": "F14030001",
+    "name": "Boiled button mushroom",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14030001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 156,
+    "defaultPortion": "1 cup(s) = 156g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 28,
+      "protein": 2.17,
+      "carbohydrate": 5.29,
+      "fat": 0.47,
+      "sodium": 2,
+      "dietaryFibre": 2.2
+    }
+  },
+  "F14040060": {
+    "id": "F14040060",
+    "name": "Stewed tomato",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F14040060",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 101,
+    "defaultPortion": "1 cup(s) = 101g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 79,
+      "protein": 1.96,
+      "carbohydrate": 13.05,
+      "fat": 2.68,
+      "sodium": 455,
+      "dietaryFibre": 1.7
+    }
+  },
+  "F05100065": {
+    "id": "F05100065",
+    "name": "Korean beef bulgogi (with rice)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100065",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 561,
+    "defaultPortion": "1 set(s) = 561g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 189,
+      "protein": 7.31,
+      "carbohydrate": 16.26,
+      "fat": 10.55,
+      "sodium": 351,
+      "dietaryFibre": 1.98
+    }
+  },
+  "F06040024": {
+    "id": "F06040024",
+    "name": "Korean beef bulgogi (meat only)",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06040024",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 190,
+    "defaultPortion": "1 set(s) = 190g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 320,
+      "protein": 15.73,
+      "carbohydrate": 9.55,
+      "fat": 24.36,
+      "sodium": 493,
+      "dietaryFibre": -1
+    }
+  },
+  "F03060007": {
+    "id": "F03060007",
+    "name": "Ebi tempura",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03060007",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2024,
+    "defaultWeightG": 28,
+    "defaultPortion": "1 piece(s) = 28g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 261,
+      "protein": 10.65,
+      "carbohydrate": 16.61,
+      "fat": 16.87,
+      "sodium": 385,
+      "dietaryFibre": 0.76
+    }
+  },
+  "F06100042": {
+    "id": "F06100042",
+    "name": "Steamed minced pork with mushroom",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100042",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 100,
+    "defaultPortion": "1 scoop(s) (serving spoon) = 100g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 210,
+      "protein": 13.5,
+      "carbohydrate": 1.93,
+      "fat": 16.46,
+      "sodium": 493,
+      "dietaryFibre": 2.05
+    }
+  },
+  "F05100125": {
+    "id": "F05100125",
+    "name": "Sayur lodeh with lontong",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100125",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Derived",
+    "dataYear": 2026,
+    "defaultWeightG": 553,
+    "defaultPortion": "1 bowl(s) = 553g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 80,
+      "protein": 2.83,
+      "carbohydrate": 7.24,
+      "fat": 4.15,
+      "sodium": 265,
+      "dietaryFibre": 1.51
+    }
+  },
+  "F09010002": {
+    "id": "F09010002",
+    "name": "Assam petai",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F09010002",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 15,
+    "defaultPortion": "1 tablespoon(s) = 15g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 85,
+      "protein": 6.3,
+      "carbohydrate": 3.3,
+      "fat": 5.1,
+      "sodium": 245,
+      "dietaryFibre": 5.32
+    }
+  },
+  "F05100148": {
+    "id": "F05100148",
+    "name": "Unagi don",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05100148",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 344,
+    "defaultPortion": "1 bowl(s) = 344g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 182,
+      "protein": 6.88,
+      "carbohydrate": 26.53,
+      "fat": 5.36,
+      "sodium": 269,
+      "dietaryFibre": 1.48
+    }
+  },
+  "F06100027": {
+    "id": "F06100027",
+    "name": "Pork and chives dumpling",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F06100027",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2025,
+    "defaultWeightG": 25,
+    "defaultPortion": "1 piece(s) = 25g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 198,
+      "protein": 8.35,
+      "carbohydrate": 17.7,
+      "fat": 10,
+      "sodium": 359,
+      "dietaryFibre": 2.01
+    }
+  },
+  "F05040011": {
+    "id": "F05040011",
+    "name": "Rice flour",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F05040011",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 158,
+    "defaultPortion": "1 cup(s) = 158g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 366,
+      "protein": 5.95,
+      "carbohydrate": 80.13,
+      "fat": 1.42,
+      "sodium": 0,
+      "dietaryFibre": 2.4
+    }
+  },
+  "F10050001": {
+    "id": "F10050001",
+    "name": "Hoisin sauce",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F10050001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2010,
+    "defaultWeightG": 15,
+    "defaultPortion": "1 tablespoon(s) = 15g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 159,
+      "protein": 2.5,
+      "carbohydrate": 30.7,
+      "fat": 2.95,
+      "sodium": 2036,
+      "dietaryFibre": 0.79
+    }
+  },
+  "F09030008": {
+    "id": "F09030008",
+    "name": "Roasted peanut, salted",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F09030008",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 30,
+    "defaultPortion": "1 handful(s) = 30g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 599,
+      "protein": 28.03,
+      "carbohydrate": 15.26,
+      "fat": 52.5,
+      "sodium": 320,
+      "dietaryFibre": 9.4
+    }
+  },
+  "F03060019": {
+    "id": "F03060019",
+    "name": "Prawn fritter",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F03060019",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Lab Analysis",
+    "dataYear": 2026,
+    "defaultWeightG": 97,
+    "defaultPortion": "1 piece(s) = 97g",
+    "ediblePercent": 97.6,
+    "per100gEdible": {
+      "energy": 297,
+      "protein": 9.45,
+      "carbohydrate": 31.1,
+      "fat": 15,
+      "sodium": 485,
+      "dietaryFibre": 1.8
+    }
+  },
+  "F01070001": {
+    "id": "F01070001",
+    "name": "Butter, salted",
+    "url": "https://pphtpc.hpb.gov.sg/web/sgfoodid/tools/food-search/details/F01070001",
+    "accessedOn": "2026-11-03",
+    "sourceOfData": "Borrowed",
+    "dataYear": 2025,
+    "defaultWeightG": 15,
+    "defaultPortion": "1 tablespoon(s) = 15g",
+    "ediblePercent": 100,
+    "per100gEdible": {
+      "energy": 721,
+      "protein": 0.7,
+      "carbohydrate": 0.7,
+      "fat": 80.8,
+      "sodium": 610,
+      "dietaryFibre": 0
+    }
+  }
+}

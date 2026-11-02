@@ -44,6 +44,8 @@ export function mergeNutritionEstimates(menuCsv, estimatesCsv, sourceName) {
     current.nutrition_status = 'ai-estimate'
     current.nutrition_basis = 'per-order'
     current.nutrition_source = sourceName.trim()
+    // A later supplied estimate replaces, rather than inherits, our reference recipe attribution.
+    for (const column of ['nutrition_method', 'nutrition_assumptions', 'nutrition_references']) current[column] = ''
   }
   const fields = [...menu.headers, ...nutritionColumns.filter((column) => !menu.headers.includes(column))]
   const csv = Papa.unparse({ fields, data: menu.rows.map((row) => fields.map((column) => row[column] ?? '')) }, { newline: '\n' }) + '\n'

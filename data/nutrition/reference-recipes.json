@@ -1,0 +1,6324 @@
+[
+  {
+    "id": "dk-sinkee-001",
+    "name": "Roasted Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05100112",
+        "grams": 363,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. One plate; no additional side orders."
+  },
+  {
+    "id": "dk-sinkee-002",
+    "name": "Roasted Chicken Rice Set with Vegetable & Half Egg",
+    "components": [
+      {
+        "foodId": "F05100112",
+        "grams": 363,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One HPB reference plate plus 70 g cooked mixed vegetables and half a 36 g braised egg. Set additions are assumed portions."
+  },
+  {
+    "id": "dk-sinkee-003",
+    "name": "Steamed Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05100133",
+        "grams": 346,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. One plate; no additional side orders."
+  },
+  {
+    "id": "dk-sinkee-004",
+    "name": "Steamed Chicken Rice Set with Vegetable & Half Egg",
+    "components": [
+      {
+        "foodId": "F05100133",
+        "grams": 346,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One HPB reference plate plus 70 g cooked mixed vegetables and half a 36 g braised egg. Set additions are assumed portions."
+  },
+  {
+    "id": "dk-sinkee-005",
+    "name": "Char Siew Rice",
+    "components": [
+      {
+        "foodId": "F05100013",
+        "grams": 353,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. One plate; no additional side orders."
+  },
+  {
+    "id": "dk-sinkee-006",
+    "name": "Char Siew Rice Set with Vegetable & Half Egg",
+    "components": [
+      {
+        "foodId": "F05100013",
+        "grams": 353,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One HPB reference plate plus 70 g cooked mixed vegetables and half a 36 g braised egg. Set additions are assumed portions."
+  },
+  {
+    "id": "dk-sinkee-007",
+    "name": "Roasted Pork Rice",
+    "components": [
+      {
+        "foodId": "F05100114",
+        "grams": 363,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. One plate; no additional side orders."
+  },
+  {
+    "id": "dk-sinkee-008",
+    "name": "Roasted Pork Rice Set with Vegetable & Half Egg",
+    "components": [
+      {
+        "foodId": "F05100114",
+        "grams": 363,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One HPB reference plate plus 70 g cooked mixed vegetables and half a 36 g braised egg. Set additions are assumed portions."
+  },
+  {
+    "id": "dk-jitos-001",
+    "name": "Vegetarian Briyani Set",
+    "components": [
+      {
+        "foodId": "F05100082",
+        "grams": 518,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Vegetarian biryani analogue includes its sides; no extra rice added."
+  },
+  {
+    "id": "dk-jitos-002",
+    "name": "Maharaja Thali Set",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05030004",
+        "grams": 60,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010009",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010006",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080010",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01040002",
+        "grams": 70,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Maharaja thali scenario: 220 g rice, one 60 g chapati, 100 g each dhal/chana/vegetable curry and 70 g paneer curry. Contents and portions are unconfirmed."
+  },
+  {
+    "id": "dk-jitos-003",
+    "name": "Student Thali Set",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05030004",
+        "grams": 60,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010009",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080010",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Student thali scenario: 200 g rice, one 60 g chapati, 100 g dhal and 100 g vegetable curry. Contents and portions are unconfirmed."
+  },
+  {
+    "id": "dk-jitos-004",
+    "name": "Chapati Set",
+    "components": [
+      {
+        "foodId": "F05030004",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010009",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010006",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes two 60 g chapatis, 100 g dhal and 80 g chana. HPB chapati composition scaled to smaller assumed canteen pieces."
+  },
+  {
+    "id": "dk-jitos-005",
+    "name": "Roti Prata Set",
+    "components": [
+      {
+        "foodId": "F05030010",
+        "grams": 142,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010009",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes two HPB 71 g plain pratas plus 80 g dhal curry."
+  },
+  {
+    "id": "dk-jitos-006",
+    "name": "Aloo Paratha",
+    "components": [
+      {
+        "foodId": "F05020001",
+        "grams": 167,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. One paratha, excluding unlisted curry or sides."
+  },
+  {
+    "id": "dk-jitos-007",
+    "name": "Paneer Paratha",
+    "components": [
+      {
+        "foodId": "F05020001",
+        "grams": 140,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01040002",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Paneer paratha proxy: 140 g aloo paratha plus 40 g paneer curry as a filling analogue. Not a vendor recipe."
+  },
+  {
+    "id": "dk-jitos-008",
+    "name": "Gobi Paratha",
+    "components": [
+      {
+        "foodId": "F05020001",
+        "grams": 140,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14040004",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Gobi paratha proxy: 140 g aloo paratha plus 40 g cooked edible cauliflower. Not a vendor recipe."
+  },
+  {
+    "id": "dk-yongtaufoo-014",
+    "name": "Vegetarian Yong Tau Foo with Noodles (Dry) (5 pieces)",
+    "components": [
+      {
+        "foodId": "F05070009",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050004",
+        "grams": 60,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080037",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080041",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 26,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Dry vegetarian five-piece scenario: tofu 40 g, fried tau kwa 60 g, bok choy 40 g, cabbage 30 g and fried vegetable/bean-sheet proxy 26 g, with 200 g cooked base and 10 g sauce. Selected pieces may differ."
+  },
+  {
+    "id": "dk-yongtaufoo-015",
+    "name": "Vegetarian Yong Tau Foo with Rice (Dry) (5 pieces)",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050004",
+        "grams": 60,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080037",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080041",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 26,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Dry vegetarian five-piece scenario: tofu 40 g, fried tau kwa 60 g, bok choy 40 g, cabbage 30 g and fried vegetable/bean-sheet proxy 26 g, with 200 g cooked base and 10 g sauce. Selected pieces may differ."
+  },
+  {
+    "id": "dk-japanese-001",
+    "name": "Chicken Teriyaki Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-002",
+    "name": "Chicken Katsu Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020031",
+        "grams": 110,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-003",
+    "name": "Fish Fillet Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020002",
+        "grams": 110,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-004",
+    "name": "Chicken Katsu Curry Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020031",
+        "grams": 110,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-005",
+    "name": "Ebi Curry Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060007",
+        "grams": 84,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-006",
+    "name": "Chicken Karaage Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020030",
+        "grams": 110,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Karaage uses fried chicken composition as a breaded chicken proxy."
+  },
+  {
+    "id": "dk-japanese-007",
+    "name": "Salmon Teriyaki Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020033",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-008",
+    "name": "Beef Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06040024",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-009",
+    "name": "Chicken Tama Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-011",
+    "name": "Salmon Tama Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020033",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-016",
+    "name": "Yasai Croquette Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 104,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Croquette uses vegetable tempura composition as a fried vegetable proxy."
+  },
+  {
+    "id": "dk-japanese-017",
+    "name": "Tofu & Curry Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050001",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. "
+  },
+  {
+    "id": "dk-japanese-010",
+    "name": "Unatama Don",
+    "components": [
+      {
+        "foodId": "F05100148",
+        "grams": 344,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One HPB unagi rice bowl plus an assumed two-egg omelet (90 g scrambled egg proxy)."
+  },
+  {
+    "id": "dk-japanese-012",
+    "name": "Chicken & Salmon Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 65.0,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 9.75,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 3.25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020033",
+        "grams": 65.0,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Two toppings each at 65% of the single-topping scenario."
+  },
+  {
+    "id": "dk-japanese-013",
+    "name": "Chicken & Ebi Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 65.0,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 9.75,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 3.25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060007",
+        "grams": 54.6,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Two toppings each at 65% of the single-topping scenario."
+  },
+  {
+    "id": "dk-japanese-014",
+    "name": "Chicken & Fish Fillet Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 65.0,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 9.75,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 3.25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020002",
+        "grams": 71.5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Two toppings each at 65% of the single-topping scenario."
+  },
+  {
+    "id": "dk-japanese-015",
+    "name": "Fish Fillet & Curry Ebi Don",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020002",
+        "grams": 71.5,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060007",
+        "grams": 54.6,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Two toppings each at 65% of the single-topping scenario."
+  },
+  {
+    "id": "dk-ahma-006",
+    "name": "Nasi Lemak Set with Chicken Cutlet & Fried Egg",
+    "components": [
+      {
+        "foodId": "F05100085",
+        "grams": 399,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Cutlet-and-egg set analogue; the reference already includes the egg."
+  },
+  {
+    "id": "dk-ahma-007",
+    "name": "Fried Bee Hoon Set",
+    "components": [
+      {
+        "foodId": "F05060096",
+        "grams": 238,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020002",
+        "grams": 50,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 238 g fried bee hoon, 70 g vegetables and 50 g fishcake represented by battered fish. Actual selected sides may differ."
+  },
+  {
+    "id": "dk-ahma-008",
+    "name": "Fried Rice Set with Egg, Vegetables & Popcorn Chicken",
+    "components": [
+      {
+        "foodId": "F05100049",
+        "grams": 303,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11070003",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Egg fried rice already includes egg; adds 70 g vegetables and 80 g nugget composition as a popcorn chicken proxy."
+  },
+  {
+    "id": "dk-ahma-009",
+    "name": "Fried Bee Hoon with Hashbrown & Vegetables",
+    "components": [
+      {
+        "foodId": "F05060096",
+        "grams": 238,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14060009",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One HPB plain fried noodle portion, one 50 g hashbrown and 70 g cooked vegetables."
+  },
+  {
+    "id": "dk-ahma-010",
+    "name": "Fried Noodles with Hashbrown & Vegetables",
+    "components": [
+      {
+        "foodId": "F05060097",
+        "grams": 240,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14060009",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One HPB plain fried noodle portion, one 50 g hashbrown and 70 g cooked vegetables."
+  },
+  {
+    "id": "dk-ahma-011",
+    "name": "Fried Carrot Cake Set with Egg & Vegetables",
+    "components": [
+      {
+        "foodId": "F05100055",
+        "grams": 321,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "HPB white fried carrot cake already contains egg; adds 70 g vegetables, without counting the egg twice."
+  },
+  {
+    "id": "dk-stirfry-001",
+    "name": "Ginger & Onion Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020034",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked chicken dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-002",
+    "name": "Ginger & Onion Pork Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100046",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked pork dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-003",
+    "name": "Ginger & Onion Beef Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked beef dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-004",
+    "name": "Ginger & Onion Fish Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020031",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked fish dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-005",
+    "name": "Ginger & Onion Prawn Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03050007",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked prawn dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-006",
+    "name": "Gong Bao Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09030008",
+        "grams": 12,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked chicken dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-007",
+    "name": "Gong Bao Pork Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06090008",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09030008",
+        "grams": 12,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked pork dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-008",
+    "name": "Gong Bao Beef Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09030008",
+        "grams": 12,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked beef dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-009",
+    "name": "Gong Bao Fish Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010037",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09030008",
+        "grams": 12,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked fish dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-010",
+    "name": "Gong Bao Prawn Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03050007",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09030008",
+        "grams": 12,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked prawn dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-011",
+    "name": "Salted Egg Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020031",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01070001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked chicken dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-012",
+    "name": "Salted Egg Pork Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100040",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked pork dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-013",
+    "name": "Salted Egg Beef Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01070001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked beef dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-014",
+    "name": "Salted Egg Fish Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020002",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01070001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked fish dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-015",
+    "name": "Salted Egg Prawn Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060019",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01070001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked prawn dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-016",
+    "name": "Sambal Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020046",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked chicken dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-017",
+    "name": "Sambal Pork Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06090008",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked pork dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-018",
+    "name": "Sambal Beef Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked beef dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-019",
+    "name": "Sambal Fish Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020022",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked fish dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-020",
+    "name": "Sambal Prawn Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060023",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked prawn dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-021",
+    "name": "Sweet & Sour Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020050",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked chicken dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-022",
+    "name": "Sweet & Sour Pork Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100049",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked pork dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-023",
+    "name": "Sweet & Sour Beef Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050001",
+        "grams": 25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14040060",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked beef dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-024",
+    "name": "Sweet & Sour Fish Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020032",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked fish dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-025",
+    "name": "Sweet & Sour Prawn Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060036",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single rice meal: 200 g rice plus assumed 120 g cooked prawn dish. Sauce/peanut/butter proxies are included when listed; no extra fried egg assumed."
+  },
+  {
+    "id": "dk-stirfry-026",
+    "name": "Scrambled Egg Hor Fun (No Meat)",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 400,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "No-meat hor fun analogue: 400 g vegetarian kway teow plus a 90 g scrambled egg proxy."
+  },
+  {
+    "id": "dk-stirfry-027",
+    "name": "Classic Scrambled Egg Hor Fun",
+    "components": [
+      {
+        "foodId": "F05060112",
+        "grams": 676,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Classic gravy hor fun uses seafood hor fun as an analogue, plus one egg. Actual protein mix is unconfirmed."
+  },
+  {
+    "id": "dk-stirfry-028",
+    "name": "Beef Scrambled Egg Hor Fun",
+    "components": [
+      {
+        "foodId": "F05060009",
+        "grams": 682,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Beef gravy hor fun reference plus an assumed 45 g scrambled egg."
+  },
+  {
+    "id": "dk-stirfry-029",
+    "name": "Char Kway Teow",
+    "components": [
+      {
+        "foodId": "F05060020",
+        "grams": 480,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. "
+  },
+  {
+    "id": "dk-stirfry-030",
+    "name": "Moonlight Hor Fun",
+    "components": [
+      {
+        "foodId": "F05060020",
+        "grams": 400,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Dry stir-fried rice noodle proxy plus one egg for moonlight hor fun; noodle shape and recipe differ."
+  },
+  {
+    "id": "dk-stirfry-031",
+    "name": "Stir-Fried Beef Hor Fun",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 350,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Dry beef hor fun proxy: 350 g vegetarian stir-fried rice noodles and 100 g cooked beef."
+  },
+  {
+    "id": "dk-stirfry-032",
+    "name": "Yangzhou Fried Rice",
+    "components": [
+      {
+        "foodId": "F05100152",
+        "grams": 379,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. "
+  },
+  {
+    "id": "dk-stirfry-033",
+    "name": "Egg Fried Rice",
+    "components": [
+      {
+        "foodId": "F05100049",
+        "grams": 303,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. "
+  },
+  {
+    "id": "dk-stirfry-034",
+    "name": "Sambal Fried Rice",
+    "components": [
+      {
+        "foodId": "F05100049",
+        "grams": 303,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F11020046",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sambal fried rice proxy: one egg fried rice reference plus 30 g sambal chicken as a seasoned sambal mixture analogue, not a verified ingredient claim."
+  },
+  {
+    "id": "dk-stirfry-035",
+    "name": "Scrambled Egg and Tomato",
+    "components": [
+      {
+        "foodId": "F01050013",
+        "grams": 180,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14040060",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: four-egg proxy (180 g), 150 g stewed tomato and 5 g additional oil. Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-036",
+    "name": "Fu Rong Egg",
+    "components": [
+      {
+        "foodId": "F01050003",
+        "grams": 300,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing omelet dish, excluding rice: assumes 300 g egg fuyong; whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-037",
+    "name": "Stir-Fried Kangkong",
+    "components": [
+      {
+        "foodId": "F14080037",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: 250 g stir-fried bok choy used as a leafy-vegetable proxy for plain kangkong, plus 5 g oil."
+  },
+  {
+    "id": "dk-stirfry-038",
+    "name": "Sambal Kangkong",
+    "components": [
+      {
+        "foodId": "F14080026",
+        "grams": 250,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g sambal kangkong; whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-039",
+    "name": "Ginger and Onion Chicken / Pork",
+    "components": [
+      {
+        "foodId": "F11020034",
+        "grams": 250,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish. Assumes chicken option, not pork. Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-040",
+    "name": "Ginger and Onion Fish / Beef",
+    "components": [
+      {
+        "foodId": "F03020031",
+        "grams": 250,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish. Assumes fish option, not beef. Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-041",
+    "name": "Gong Bao Chicken / Pork",
+    "components": [
+      {
+        "foodId": "F11010013",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09030008",
+        "grams": 12,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish. Assumes chicken option, not pork. Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-042",
+    "name": "Sweet & Sour Pork",
+    "components": [
+      {
+        "foodId": "F06100049",
+        "grams": 250,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish.  Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-043",
+    "name": "Sweet & Sour Fish",
+    "components": [
+      {
+        "foodId": "F03020032",
+        "grams": 250,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish.  Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-044",
+    "name": "Sweet & Sour Prawn",
+    "components": [
+      {
+        "foodId": "F03060036",
+        "grams": 250,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish.  Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-045",
+    "name": "Salted Egg Chicken / Pork",
+    "components": [
+      {
+        "foodId": "F11020031",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01070001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish. Assumes chicken option, not pork. Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-046",
+    "name": "Salted Egg Fish",
+    "components": [
+      {
+        "foodId": "F03020002",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01070001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish.  Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-047",
+    "name": "Salted Egg Prawn",
+    "components": [
+      {
+        "foodId": "F03060019",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01070001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish.  Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-050",
+    "name": "Sambal Prawn / Fish",
+    "components": [
+      {
+        "foodId": "F03060023",
+        "grams": 250,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing dish, excluding rice: assumes 250 g cooked protein dish. Assumes prawn option, not fish. Whole order, not one diner."
+  },
+  {
+    "id": "dk-stirfry-048",
+    "name": "Scrambled Egg Beef",
+    "components": [
+      {
+        "foodId": "F01050013",
+        "grams": 180,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing scrambled egg dish, excluding rice: four-egg proxy plus 120 g cooked beef, 10 g sauce and 5 g oil."
+  },
+  {
+    "id": "dk-stirfry-049",
+    "name": "Scrambled Egg Prawn",
+    "components": [
+      {
+        "foodId": "F01050013",
+        "grams": 180,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03050007",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing scrambled egg dish, excluding rice: four-egg proxy plus 120 g cooked prawn, 10 g sauce and 5 g oil."
+  },
+  {
+    "id": "dk-western-001",
+    "name": "Chicken Chop with 2 Sides",
+    "components": [
+      {
+        "foodId": "F11020014",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14060007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 150 g cooked main, with two available sides chosen as 80 g fries and 100 g rice. Dory uses steamed tilapia; beef patty uses cooked beef as proxies. Other side choices change the estimate."
+  },
+  {
+    "id": "dk-western-002",
+    "name": "Chicken Cutlet with 2 Sides",
+    "components": [
+      {
+        "foodId": "F11020031",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14060007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 150 g cooked main, with two available sides chosen as 80 g fries and 100 g rice. Dory uses steamed tilapia; beef patty uses cooked beef as proxies. Other side choices change the estimate."
+  },
+  {
+    "id": "dk-western-003",
+    "name": "Grilled Dory Fish with 2 Sides",
+    "components": [
+      {
+        "foodId": "F03010037",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14060007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 150 g cooked main, with two available sides chosen as 80 g fries and 100 g rice. Dory uses steamed tilapia; beef patty uses cooked beef as proxies. Other side choices change the estimate."
+  },
+  {
+    "id": "dk-western-004",
+    "name": "Battered Fish with 2 Sides",
+    "components": [
+      {
+        "foodId": "F03020002",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14060007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 150 g cooked main, with two available sides chosen as 80 g fries and 100 g rice. Dory uses steamed tilapia; beef patty uses cooked beef as proxies. Other side choices change the estimate."
+  },
+  {
+    "id": "dk-western-005",
+    "name": "Beef Patty with 2 Sides",
+    "components": [
+      {
+        "foodId": "F06030026",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14060007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 150 g cooked main, with two available sides chosen as 80 g fries and 100 g rice. Dory uses steamed tilapia; beef patty uses cooked beef as proxies. Other side choices change the estimate."
+  },
+  {
+    "id": "dk-western-006",
+    "name": "Classic Chicken Cutlet Burger with Fries",
+    "components": [
+      {
+        "foodId": "F08020013",
+        "grams": 340,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "One comparable HPB burger-and-fries set; Ramly-style variants add a one-egg wrap proxy. Sauce and patty size may differ."
+  },
+  {
+    "id": "dk-western-007",
+    "name": "Classic Battered Fish Burger with Fries",
+    "components": [
+      {
+        "foodId": "F08020019",
+        "grams": 269,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "One comparable HPB burger-and-fries set; Ramly-style variants add a one-egg wrap proxy. Sauce and patty size may differ."
+  },
+  {
+    "id": "dk-western-008",
+    "name": "Classic Beef Burger with Fries",
+    "components": [
+      {
+        "foodId": "F08020003",
+        "grams": 388,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "One comparable HPB burger-and-fries set; Ramly-style variants add a one-egg wrap proxy. Sauce and patty size may differ."
+  },
+  {
+    "id": "dk-western-009",
+    "name": "Ramly Style Chicken Cutlet Burger with Fries",
+    "components": [
+      {
+        "foodId": "F08020013",
+        "grams": 340,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One comparable HPB burger-and-fries set; Ramly-style variants add a one-egg wrap proxy. Sauce and patty size may differ."
+  },
+  {
+    "id": "dk-western-010",
+    "name": "Ramly Style Battered Fish Burger with Fries",
+    "components": [
+      {
+        "foodId": "F08020019",
+        "grams": 269,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One comparable HPB burger-and-fries set; Ramly-style variants add a one-egg wrap proxy. Sauce and patty size may differ."
+  },
+  {
+    "id": "dk-western-011",
+    "name": "Ramly Style Beef Burger with Fries",
+    "components": [
+      {
+        "foodId": "F08020003",
+        "grams": 388,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "One comparable HPB burger-and-fries set; Ramly-style variants add a one-egg wrap proxy. Sauce and patty size may differ."
+  },
+  {
+    "id": "dk-western-012",
+    "name": "Sauteed Mushroom Ramly Burger with Fries",
+    "components": [
+      {
+        "foodId": "F05020068",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14060007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g mushroom burger and 80 g fries. Ramly variant adds a 45 g egg-wrap proxy."
+  },
+  {
+    "id": "dk-western-013",
+    "name": "Sauteed Mushroom Classic Burger with Fries",
+    "components": [
+      {
+        "foodId": "F05020068",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14060007",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g mushroom burger and 80 g fries. Ramly variant adds a 45 g egg-wrap proxy."
+  },
+  {
+    "id": "fr-chicken-001",
+    "name": "Roasted / Steamed Chicken Rice & Noodles",
+    "components": [
+      {
+        "foodId": "F05100112",
+        "grams": 363,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Assumes roasted chicken with rice; steamed chicken or noodles differ."
+  },
+  {
+    "id": "fr-chicken-002",
+    "name": "Roasted / Steamed / Braised Chicken Wing Rice & Noodles",
+    "components": [
+      {
+        "foodId": "F05100154",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010020",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes rice and 80 g edible braised chicken wing with 10 g sauce; excludes bones. Roasted/steamed options differ."
+  },
+  {
+    "id": "fr-chicken-003",
+    "name": "Roasted / Steamed Chicken Drumstick Rice & Noodles",
+    "components": [
+      {
+        "foodId": "F05100154",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010014",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes rice and 100 g edible braised drumstick as a steamed chicken proxy; excludes bones. Roasted option differs."
+  },
+  {
+    "id": "fr-chicken-004",
+    "name": "Roasted Pork Rice / Noodles",
+    "components": [
+      {
+        "foodId": "F05100114",
+        "grams": 363,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Assumes rice option."
+  },
+  {
+    "id": "fr-chicken-005",
+    "name": "Char Siew Rice / Noodles",
+    "components": [
+      {
+        "foodId": "F05100013",
+        "grams": 353,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Assumes rice option."
+  },
+  {
+    "id": "fr-chicken-006",
+    "name": "Lemon Chicken Cutlet Rice / Noodles",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020041",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g rice and 120 g lemon chicken. Noodle option differs."
+  },
+  {
+    "id": "fr-chicken-007",
+    "name": "Pork Rib Rice / Noodles",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100044",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g rice and 120 g edible steamed pork ribs, excluding bones. Noodle option differs."
+  },
+  {
+    "id": "fr-chicken-008",
+    "name": "Chicken Brown Rice",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g brown rice, 100 g cooked skinless chicken, 40 g vegetables and 15 g sauce."
+  },
+  {
+    "id": "fr-chicken-009",
+    "name": "Roast Duck Rice / Noodles",
+    "components": [
+      {
+        "foodId": "F05100113",
+        "grams": 411,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Assumes rice option."
+  },
+  {
+    "id": "fr-chicken-010",
+    "name": "Duck Drumstick Rice / Noodles",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11040009",
+        "grams": 130,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes rice with 130 g edible roast duck drumstick meat/skin, excluding bones. Noodle option differs."
+  },
+  {
+    "id": "fr-chicken-011",
+    "name": "Meat, Rice / Noodles, Vegetables & Soup Set",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes chicken and rice option, 80 g vegetables, 15 g sauce and 200 g soup water seasoned with 1 g salt. Other meats/noodles differ.",
+    "addedWaterG": 200
+  },
+  {
+    "id": "fr-chicken-012",
+    "name": "Shredded Chicken Macaroni",
+    "components": [
+      {
+        "foodId": "F05060029",
+        "grams": 606,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. "
+  },
+  {
+    "id": "fr-chicken-013",
+    "name": "Mushroom, Vegetables & Egg Hor Fun",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 350,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14030001",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian noodle proxy: 350 g stir-fried kway teow, 50 g mushrooms and one egg, with 150 g added gravy water.",
+    "addedWaterG": 150
+  },
+  {
+    "id": "fr-chicken-014",
+    "name": "Rice / Noodles, Vegetables, Egg & Tofu Set",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050004",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes rice option, 80 g vegetables, one egg, 80 g fried tofu and 10 g sauce."
+  },
+  {
+    "id": "fr-chuanyang-001",
+    "name": "Vegetable Value Set with Egg, Fried Tofu & Cabbage",
+    "components": [
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050004",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080041",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes one egg, 100 g fried tofu and 100 g cabbage plus sauce. No rice included: this value set does not explicitly list rice."
+  },
+  {
+    "id": "fr-chuanyang-002",
+    "name": "Chicken Value Set with Tofu, Brinjal & Cabbage",
+    "components": [
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050004",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 100 g cooked meat, 70 g fried tofu and 100 g mixed vegetable proxy for brinjal/cabbage, plus 20 g sauce and 10 g oil. No unlisted rice added."
+  },
+  {
+    "id": "fr-chuanyang-003",
+    "name": "Beef Value Set with Tofu, Brinjal & Cabbage",
+    "components": [
+      {
+        "foodId": "F06030026",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050004",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 100 g cooked meat, 70 g fried tofu and 100 g mixed vegetable proxy for brinjal/cabbage, plus 20 g sauce and 10 g oil. No unlisted rice added."
+  },
+  {
+    "id": "fr-chuanyang-004",
+    "name": "Braised Beef / Intestine Noodles / Rice Noodles",
+    "components": [
+      {
+        "foodId": "F05060131",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes beef with rice noodles, not intestines or wheat noodles. Uses 220 g cooked noodles, 100 g beef, 50 g vegetables, 20 g sauce and 10 g oil; sauerkraut variant adds 50 g kimchi as a pickled-cabbage proxy.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-005",
+    "name": "Sauerkraut Beef / Intestine Noodles / Rice Noodles",
+    "components": [
+      {
+        "foodId": "F05060131",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 10,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 50,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes beef with rice noodles, not intestines or wheat noodles. Uses 220 g cooked noodles, 100 g beef, 50 g vegetables, 20 g sauce and 10 g oil; sauerkraut variant adds 50 g kimchi as a pickled-cabbage proxy.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-006",
+    "name": "Chilli Pickled Chicken Giblets Noodles / Rice Noodles",
+    "components": [
+      {
+        "foodId": "F05070009",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Chicken giblets proxy uses 80 g cooked chicken breast with 220 g noodles, 50 g pickled cabbage proxy, sauce and oil; organ-meat composition may differ.",
+    "addedWaterG": 250
+  },
+  {
+    "id": "fr-chuanyang-007",
+    "name": "Minced Meat with Beans Noodles / Rice Noodles",
+    "components": [
+      {
+        "foodId": "F05070009",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100042",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes wheat noodles with minced pork, not rice noodles: 220 g noodles, 100 g prepared minced pork, 70 g vegetable/bean proxy, sauce and oil."
+  },
+  {
+    "id": "fr-chuanyang-008",
+    "name": "You Po Noodles",
+    "components": [
+      {
+        "foodId": "F05070009",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 20,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "You po dry noodle scenario: 250 g cooked noodles, 80 g vegetables, 20 g oil and 20 g sauce. Seasoning heat is not independently quantified."
+  },
+  {
+    "id": "fr-chuanyang-009",
+    "name": "Hot & Sour Sweet Potato Noodles",
+    "components": [
+      {
+        "foodId": "F05060125",
+        "grams": 662,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Suan la fen is the hot-and-sour glass noodle analogue."
+  },
+  {
+    "id": "fr-chuanyang-010",
+    "name": "Egg Noodles in Clear Soup",
+    "components": [
+      {
+        "foodId": "F05070009",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 2,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked noodles, one egg, 50 g vegetables and clear broth represented by 300 g water and 2 g salt.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-011",
+    "name": "Stir-Fried Noodles with Beef",
+    "components": [
+      {
+        "foodId": "F05060097",
+        "grams": 280,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 280 g prepared fried noodles and 70 g vegetables, plus 80 g cooked meat where named and one egg only where named."
+  },
+  {
+    "id": "fr-chuanyang-012",
+    "name": "Stir-Fried Noodles with Pork & Egg",
+    "components": [
+      {
+        "foodId": "F05060097",
+        "grams": 280,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06090008",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 280 g prepared fried noodles and 70 g vegetables, plus 80 g cooked meat where named and one egg only where named."
+  },
+  {
+    "id": "fr-chuanyang-013",
+    "name": "Stir-Fried Noodles with Chicken",
+    "components": [
+      {
+        "foodId": "F05060097",
+        "grams": 280,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 280 g prepared fried noodles and 70 g vegetables, plus 80 g cooked meat where named and one egg only where named."
+  },
+  {
+    "id": "fr-chuanyang-014",
+    "name": "Stir-Fried Noodles with Egg",
+    "components": [
+      {
+        "foodId": "F05060097",
+        "grams": 280,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 280 g prepared fried noodles and 70 g vegetables, plus 80 g cooked meat where named and one egg only where named."
+  },
+  {
+    "id": "fr-chuanyang-015",
+    "name": "Mala Grilled Fish",
+    "components": [
+      {
+        "foodId": "F03010037",
+        "grams": 400,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 25,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing whole-fish scenario: assumes 400 g edible cooked tilapia (roughly 1 kg whole fish before bones), 250 g vegetables, 40 g retained oil and 25 g sauce. mala seasoning uses the listed proxies. Full sharing order, excluding rice; not one diner.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-016",
+    "name": "Green Pepper Grilled Fish",
+    "components": [
+      {
+        "foodId": "F03010037",
+        "grams": 400,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 25,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing whole-fish scenario: assumes 400 g edible cooked tilapia (roughly 1 kg whole fish before bones), 250 g vegetables, 40 g retained oil and 25 g sauce. green pepper seasoning uses the listed proxies. Full sharing order, excluding rice; not one diner.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-017",
+    "name": "Sauerkraut Grilled Fish",
+    "components": [
+      {
+        "foodId": "F03010037",
+        "grams": 400,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing whole-fish scenario: assumes 400 g edible cooked tilapia (roughly 1 kg whole fish before bones), 250 g vegetables, 40 g retained oil and 25 g sauce. sauerkraut seasoning uses the listed proxies. Full sharing order, excluding rice; not one diner.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-018",
+    "name": "Tomato Grilled Fish",
+    "components": [
+      {
+        "foodId": "F03010037",
+        "grams": 400,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14040060",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing whole-fish scenario: assumes 400 g edible cooked tilapia (roughly 1 kg whole fish before bones), 250 g vegetables, 40 g retained oil and 25 g sauce. tomato seasoning uses the listed proxies. Full sharing order, excluding rice; not one diner.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-019",
+    "name": "Lamb Rib Stew (Regular)",
+    "components": [
+      {
+        "foodId": "F06060003",
+        "grams": 450,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Lamb rib stew proxy uses Chinese mutton soup plus retained oil. Large is assumed 1.7 times regular because no measured weights were provided; whole order, excluding rice."
+  },
+  {
+    "id": "fr-chuanyang-020",
+    "name": "Lamb Rib Stew (Large)",
+    "components": [
+      {
+        "foodId": "F06060003",
+        "grams": 765.0,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 13.6,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Lamb rib stew proxy uses Chinese mutton soup plus retained oil. Large is assumed 1.7 times regular because no measured weights were provided; whole order, excluding rice."
+  },
+  {
+    "id": "fr-chuanyang-021",
+    "name": "Sichuan Style Boiled Beef",
+    "components": [
+      {
+        "foodId": "F06030026",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing Sichuan boiled dish scenario: 250 g cooked edible meat/fish, 150 g vegetables, 30 g retained oil, 25 g sauce and 1 g salt in 300 g broth water. Pork belly uses braised pork as a proxy; fat content may differ. Whole order, excluding rice.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-022",
+    "name": "Sichuan Style Boiled Fish",
+    "components": [
+      {
+        "foodId": "F03010037",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing Sichuan boiled dish scenario: 250 g cooked edible meat/fish, 150 g vegetables, 30 g retained oil, 25 g sauce and 1 g salt in 300 g broth water. Pork belly uses braised pork as a proxy; fat content may differ. Whole order, excluding rice.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-chuanyang-023",
+    "name": "Sichuan Style Boiled Pork Belly",
+    "components": [
+      {
+        "foodId": "F06100001",
+        "grams": 250,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 25,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Sharing Sichuan boiled dish scenario: 250 g cooked edible meat/fish, 150 g vegetables, 30 g retained oil, 25 g sauce and 1 g salt in 300 g broth water. Pork belly uses braised pork as a proxy; fat content may differ. Whole order, excluding rice.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-nasi-001",
+    "name": "Nasi Kukus Set - Fried Drumstick",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020030",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-002",
+    "name": "Nasi Dagang Set - Fried Drumstick",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020030",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-003",
+    "name": "Nasi Kukus Set - Fried Pomfret Fish",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010017",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-004",
+    "name": "Nasi Dagang Set - Fried Pomfret Fish",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010017",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-005",
+    "name": "Nasi Kukus Set - Curry Chicken",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020016",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-006",
+    "name": "Nasi Dagang Set - Curry Chicken",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020016",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-007",
+    "name": "Nasi Kukus Set - Sambal Assam Sotong",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060024",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-008",
+    "name": "Nasi Dagang Set - Sambal Assam Sotong",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060024",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-009",
+    "name": "Nasi Kukus Set - Sambal Assam Prawn",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060023",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-010",
+    "name": "Nasi Dagang Set - Sambal Assam Prawn",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060023",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-011",
+    "name": "Nasi Kukus Set - Curry Mutton",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06060011",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-012",
+    "name": "Nasi Dagang Set - Curry Mutton",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06060011",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-013",
+    "name": "Nasi Kukus Set - Curry Fish",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020005",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-nasi-014",
+    "name": "Nasi Dagang Set - Curry Fish",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020005",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050001",
+        "grams": 18,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080001",
+        "grams": 40,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 220 g cooked rice, 150 g edible prepared main, half an egg and 40 g achar. Dagang uses brown rice as a red steamed rice proxy; coconut enrichment, if present, is unquantified. Fried drumstick uses breaded fried chicken composition; fish/shells excluded."
+  },
+  {
+    "id": "fr-miniwok-001",
+    "name": "Sambal Petai Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020046",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010002",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single meal: 200 g rice, 120 g prepared sambal protein scenario and 30 g assam petai."
+  },
+  {
+    "id": "fr-miniwok-002",
+    "name": "Sambal Petai Pork Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06090008",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010002",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single meal: 200 g rice, 120 g prepared sambal protein scenario and 30 g assam petai."
+  },
+  {
+    "id": "fr-miniwok-003",
+    "name": "Sambal Petai Sliced Fish Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020022",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010002",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single meal: 200 g rice, 120 g prepared sambal protein scenario and 30 g assam petai."
+  },
+  {
+    "id": "fr-miniwok-004",
+    "name": "Sambal Petai Beef Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 8,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010002",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single meal: 200 g rice, 120 g prepared sambal protein scenario and 30 g assam petai."
+  },
+  {
+    "id": "fr-miniwok-005",
+    "name": "Sambal Petai Sotong Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060024",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09010002",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Single meal: 200 g rice, 120 g prepared sambal protein scenario and 30 g assam petai."
+  },
+  {
+    "id": "fr-miniwok-006",
+    "name": "Hor Fun in Egg Gravy",
+    "components": [
+      {
+        "foodId": "F05060112",
+        "grams": 676,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Egg-gravy hor fun uses seafood gravy hor fun as a comparable dish."
+  },
+  {
+    "id": "fr-miniwok-007",
+    "name": "Seafood White Bee Hoon",
+    "components": [
+      {
+        "foodId": "F05060136",
+        "grams": 656,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. "
+  },
+  {
+    "id": "fr-miniwok-008",
+    "name": "KL Hokkien Mee",
+    "components": [
+      {
+        "foodId": "F05060064",
+        "grams": 549,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "KL Hokkien mee proxy uses HPB Hokkien mee plus 15 g dark sweet-savoury sauce; regional recipes differ."
+  },
+  {
+    "id": "fr-miniwok-009",
+    "name": "San Lao Hor Fun",
+    "components": [
+      {
+        "foodId": "F05060120",
+        "grams": 707,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. San lao hor fun uses sliced fish gravy hor fun as the analogue."
+  },
+  {
+    "id": "fr-miniwok-010",
+    "name": "Fried Beef Hor Fun (Dry)",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 350,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Dry beef hor fun proxy: 350 g vegetarian stir-fried rice noodles plus 100 g cooked beef."
+  },
+  {
+    "id": "fr-miniwok-011",
+    "name": "Mee Goreng",
+    "components": [
+      {
+        "foodId": "F05060080",
+        "grams": 465,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. "
+  },
+  {
+    "id": "fr-miniwok-012",
+    "name": "Sin Chew Bee Hoon",
+    "components": [
+      {
+        "foodId": "F05060096",
+        "grams": 280,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03050007",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100042",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Singapore-style fried bee hoon proxy: 280 g plain fried bee hoon, 30 g edible prawn, 40 g prepared minced pork and one egg."
+  },
+  {
+    "id": "fr-miniwok-013",
+    "name": "Fried Hor Fun",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 410,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Plain stir-fried rice noodle analogue; toppings unspecified."
+  },
+  {
+    "id": "fr-miniwok-014",
+    "name": "Mui Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100042",
+        "grams": 60,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Mui rice scenario: 200 g rice, 100 g vegetables, 60 g prepared minced pork and egg, in 150 g gravy water with sauce.",
+    "addedWaterG": 150
+  },
+  {
+    "id": "fr-miniwok-015",
+    "name": "Fried Egg Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 10,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Fried egg with rice: assumes 200 g plain rice, one fried egg and 10 g sauce. This is not egg fried rice."
+  },
+  {
+    "id": "fr-miniwok-016",
+    "name": "Vegetable Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g white rice and 150 g prepared vegetables. Kangkong uses sambal kangkong as the available prepared analogue."
+  },
+  {
+    "id": "fr-miniwok-017",
+    "name": "Fried Kang Kong Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080026",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g white rice and 150 g prepared vegetables. Kangkong uses sambal kangkong as the available prepared analogue."
+  },
+  {
+    "id": "fr-miniwok-018",
+    "name": "Fried Xiao Bai Cai Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080037",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g white rice and 150 g prepared vegetables. Kangkong uses sambal kangkong as the available prepared analogue."
+  },
+  {
+    "id": "fr-miniwok-019",
+    "name": "Fried Baby Kailan Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080048",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g white rice and 150 g prepared vegetables. Kangkong uses sambal kangkong as the available prepared analogue."
+  },
+  {
+    "id": "fr-miniwok-020",
+    "name": "Vegetarian Hor Fun (Dry)",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 410,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. "
+  },
+  {
+    "id": "fr-miniwok-021",
+    "name": "Vegetarian Hor Fun in Egg Gravy",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 350,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 45,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian egg-gravy hor fun scenario: 350 g vegetarian fried noodles, one egg and 150 g gravy water with 1 g salt.",
+    "addedWaterG": 150
+  },
+  {
+    "id": "fr-xuji-032",
+    "name": "Yong Tau Foo Set A with Rice",
+    "components": [
+      {
+        "foodId": "F08010063",
+        "grams": 660,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes six mixed yong tau foo pieces in clear soup (6/7 of HPB seven-piece soup by weight, rounded to 660 g), plus 200 g cooked base. Set piece mix/count and dry or soup choice are unconfirmed."
+  },
+  {
+    "id": "fr-xuji-033",
+    "name": "Yong Tau Foo Set B with Noodles",
+    "components": [
+      {
+        "foodId": "F08010063",
+        "grams": 660,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05070009",
+        "grams": 200,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes six mixed yong tau foo pieces in clear soup (6/7 of HPB seven-piece soup by weight, rounded to 660 g), plus 200 g cooked base. Set piece mix/count and dry or soup choice are unconfirmed."
+  },
+  {
+    "id": "fr-xuji-034",
+    "name": "Yong Tau Foo Set C with Bee Hoon",
+    "components": [
+      {
+        "foodId": "F08010063",
+        "grams": 660,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05060131",
+        "grams": 200,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes six mixed yong tau foo pieces in clear soup (6/7 of HPB seven-piece soup by weight, rounded to 660 g), plus 200 g cooked base. Set piece mix/count and dry or soup choice are unconfirmed."
+  },
+  {
+    "id": "fr-soup-001",
+    "name": "ABC Pork Ribs Soup",
+    "components": [
+      {
+        "foodId": "F06100011",
+        "grams": 591,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Soup only; no unlisted rice added."
+  },
+  {
+    "id": "fr-soup-002",
+    "name": "White Radish Pork Ribs Soup",
+    "components": [
+      {
+        "foodId": "F06100031",
+        "grams": 450,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. White radish uses old cucumber pork ribs soup as a similar clear vegetable/pork soup proxy. Soup only; no unlisted rice added."
+  },
+  {
+    "id": "fr-soup-003",
+    "name": "Watercress Pork Ribs Soup",
+    "components": [
+      {
+        "foodId": "F06100033",
+        "grams": 652,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Soup only; no unlisted rice added."
+  },
+  {
+    "id": "fr-soup-004",
+    "name": "Old Cucumber Pork Ribs Soup",
+    "components": [
+      {
+        "foodId": "F06100031",
+        "grams": 450,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Soup only; no unlisted rice added."
+  },
+  {
+    "id": "fr-soup-006",
+    "name": "Herbal Chicken Soup",
+    "components": [
+      {
+        "foodId": "F11020036",
+        "grams": 633,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Soup only; no unlisted rice added."
+  },
+  {
+    "id": "fr-soup-005",
+    "name": "Lotus Root Peanut Pork Ribs Soup",
+    "components": [
+      {
+        "foodId": "F06100021",
+        "grams": 421.5,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F06100032",
+        "grams": 112.5,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "One soup bowl represented by a 75% lotus-root soup and 25% peanut soup blend; soup only, no rice."
+  },
+  {
+    "id": "fr-soup-007",
+    "name": "Salted Egg Yolk Minced Meat Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100042",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01060005",
+        "grams": 17,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g rice and 120 g steamed minced pork with one 17 g salted egg yolk."
+  },
+  {
+    "id": "fr-soup-008",
+    "name": "Salted Fish Minced Meat Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100043",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g rice and 120 g steamed minced pork with salted fish."
+  },
+  {
+    "id": "fr-soup-009",
+    "name": "Mui Choy Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Mui choy chicken rice proxy: 200 g rice, 120 g cooked chicken, 50 g pickled cabbage used for preserved vegetables, sauce and oil."
+  },
+  {
+    "id": "fr-soup-010",
+    "name": "Mushroom Chicken Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14030001",
+        "grams": 60,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g rice, 120 g cooked chicken, 60 g mushrooms, sauce and oil."
+  },
+  {
+    "id": "fr-soup-011",
+    "name": "Black Bean Sauce Pork Ribs Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100035",
+        "grams": 130,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g rice with 130 g edible black-bean ribs, excluding bone weight."
+  },
+  {
+    "id": "fr-soup-012",
+    "name": "Hakka Braised Pork with Mui Choy Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100001",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Hakka pork proxy: 200 g rice, 150 g braised pork and 50 g pickled cabbage as a mui choy proxy, with sauce. Actual pork belly may contain more fat."
+  },
+  {
+    "id": "fr-japanese-001",
+    "name": "Tori Katsu Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020031",
+        "grams": 110,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-002",
+    "name": "Yakiniku Beef Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06040024",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-003",
+    "name": "Salmon Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020033",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-004",
+    "name": "Flaming Cheese Tori Katsu Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020031",
+        "grams": 110,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01010003",
+        "grams": 34,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-005",
+    "name": "Ebi Furai Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060007",
+        "grams": 84,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-006",
+    "name": "Chicken Sausage Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06110007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-007",
+    "name": "Grilled Chicken Slices Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-008",
+    "name": "Yasai Vegetable Omelet Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 104,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Omelet uses a 90 g scrambled egg proxy. Cheese variant adds two 17 g cheese slices. Rice assumed plain, not fried."
+  },
+  {
+    "id": "fr-japanese-009",
+    "name": "Tori Katsu Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020031",
+        "grams": 110,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-010",
+    "name": "Yakiniku Beef Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06040024",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-011",
+    "name": "Salmon Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020033",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-012",
+    "name": "Flaming Cheese Omelet Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01010003",
+        "grams": 34,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-013",
+    "name": "Ebi Furai Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060007",
+        "grams": 84,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-014",
+    "name": "Gyoza Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100016",
+        "grams": 95,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-015",
+    "name": "Mackerel Curry Rice (Half fish)",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010007",
+        "grams": 110,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-016",
+    "name": "Fried Fish Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020002",
+        "grams": 110,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-017",
+    "name": "Assorted Tempura Vegetables Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 104,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry. Half-mackerel assumes 110 g edible flesh, excluding bones. Vegetable option uses prepared tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-018",
+    "name": "Chicken Sausage Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06110007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-019",
+    "name": "Grilled Chicken Slices Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-020",
+    "name": "Japanese Omelet Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01050013",
+        "grams": 90,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry; half-mackerel assumes 110 g edible flesh."
+  },
+  {
+    "id": "fr-japanese-021",
+    "name": "Yasai Vegetable Curry Rice",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 104,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10040001",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Curry adds 120 g HPB Japanese curry. Half-mackerel assumes 110 g edible flesh, excluding bones. Vegetable option uses prepared tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-022",
+    "name": "Tori Katsu Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020031",
+        "grams": 110,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-023",
+    "name": "Yakiniku Beef Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06040024",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-024",
+    "name": "Teriyaki Salmon Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020033",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-025",
+    "name": "Ebi Furai Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03060007",
+        "grams": 84,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-026",
+    "name": "Gyoza Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100016",
+        "grams": 95,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-027",
+    "name": "Mackerel Bento (Half fish)",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010007",
+        "grams": 110,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-028",
+    "name": "Fried Fish Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03020002",
+        "grams": 110,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-029",
+    "name": "Assorted Tempura Vegetables Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 104,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-030",
+    "name": "Grilled Chicken Slices Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050004",
+        "grams": 15,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-031",
+    "name": "Yasai Vegetable Bento",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080061",
+        "grams": 104,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g cooked white rice and 50 g vegetables, plus the cooked toppings listed below. Bento assumes 50 g vegetables; no extra egg or curry. Vegetable bento uses vegetable tempura as a proxy."
+  },
+  {
+    "id": "fr-japanese-032",
+    "name": "Chicken Curry Ramen",
+    "components": [
+      {
+        "foodId": "F05070009",
+        "grams": 220,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020016",
+        "grams": 140,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1.5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Chicken curry ramen scenario: 220 g cooked noodles, 140 g chicken curry, 50 g vegetables and 300 g broth water with 1.5 g salt.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-japanese-033",
+    "name": "Tantanmen",
+    "components": [
+      {
+        "foodId": "F05060042",
+        "grams": 516,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Dan dan noodles analogue; excludes any extra unlisted sides."
+  },
+  {
+    "id": "fr-noodles-001",
+    "name": "Wanton Soup (10 pcs)",
+    "components": [
+      {
+        "foodId": "F06100027",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1.5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 10 boiled pieces at 15 g each, with 300 g clear broth water and 1.5 g salt. HPB steamed pork/chive dumpling is a filling/wrapper proxy for wantons; no noodles included.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-noodles-002",
+    "name": "Wanton Soup (12 pcs)",
+    "components": [
+      {
+        "foodId": "F06100027",
+        "grams": 180,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1.5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 12 boiled pieces at 15 g each, with 300 g clear broth water and 1.5 g salt. HPB steamed pork/chive dumpling is a filling/wrapper proxy for wantons; no noodles included.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-noodles-003",
+    "name": "Dumpling Soup (5 pcs)",
+    "components": [
+      {
+        "foodId": "F06100027",
+        "grams": 125,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1.5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 5 boiled pieces at 25 g each, with 300 g clear broth water and 1.5 g salt. HPB steamed pork/chive dumpling is a filling/wrapper proxy for wantons; no noodles included.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-noodles-004",
+    "name": "Dumpling Soup (6 pcs)",
+    "components": [
+      {
+        "foodId": "F06100027",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10060005",
+        "grams": 1.5,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 6 boiled pieces at 25 g each, with 300 g clear broth water and 1.5 g salt. HPB steamed pork/chive dumpling is a filling/wrapper proxy for wantons; no noodles included.",
+    "addedWaterG": 300
+  },
+  {
+    "id": "fr-noodles-005",
+    "name": "Fishball Noodles (Soup) (Small)",
+    "components": [
+      {
+        "foodId": "F05060057",
+        "grams": 638.4,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes 80% of a comparable HPB default serving. Small stall serving assumed equal to 80% of the HPB default bowl; weight not measured."
+  },
+  {
+    "id": "fr-noodles-006",
+    "name": "Fishball Noodles (Dry) (Small)",
+    "components": [
+      {
+        "foodId": "F05060056",
+        "grams": 301.6,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes 80% of a comparable HPB default serving. Small stall serving assumed equal to 80% of the HPB default bowl; weight not measured."
+  },
+  {
+    "id": "fr-noodles-007",
+    "name": "Wanton Noodles (Soup) (Small)",
+    "components": [
+      {
+        "foodId": "F05060135",
+        "grams": 542.4,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes 80% of a comparable HPB default serving. Small stall serving assumed equal to 80% of the HPB default bowl; weight not measured."
+  },
+  {
+    "id": "fr-noodles-008",
+    "name": "Wanton Noodles (Dry) (Small)",
+    "components": [
+      {
+        "foodId": "F05060134",
+        "grams": 310.4,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes 80% of a comparable HPB default serving. Small stall serving assumed equal to 80% of the HPB default bowl; weight not measured."
+  },
+  {
+    "id": "fr-noodles-009",
+    "name": "Chicken & Mushroom Noodles (Soup) (Small)",
+    "components": [
+      {
+        "foodId": "F05060024",
+        "grams": 522.4,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes 80% of a comparable HPB default serving. Small stall serving assumed equal to 80% of the HPB default bowl; weight not measured."
+  },
+  {
+    "id": "fr-noodles-010",
+    "name": "Chicken & Mushroom Noodles (Dry) (Small)",
+    "components": [
+      {
+        "foodId": "F05060023",
+        "grams": 317.6,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes 80% of a comparable HPB default serving. Small stall serving assumed equal to 80% of the HPB default bowl; weight not measured."
+  },
+  {
+    "id": "fr-indian-001",
+    "name": "Egg Prata",
+    "components": [
+      {
+        "foodId": "F05020090",
+        "grams": 119,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. One egg prata; no unlisted curry or sides."
+  },
+  {
+    "id": "fr-indian-002",
+    "name": "Rice Set - 1 Meat & 2 Vegetables",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020016",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080010",
+        "grams": 140,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Rice set scenario: 200 g rice, 1 meat portion(s) of 100 g chicken curry, and 2 vegetable portion(s) of 70 g curry vegetables. Actual selections may differ."
+  },
+  {
+    "id": "fr-indian-003",
+    "name": "Rice Set - 1 Meat & 3 Vegetables",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020016",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080010",
+        "grams": 210,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Rice set scenario: 200 g rice, 1 meat portion(s) of 100 g chicken curry, and 3 vegetable portion(s) of 70 g curry vegetables. Actual selections may differ."
+  },
+  {
+    "id": "fr-indian-004",
+    "name": "Rice Set - 2 Meat & 2 Vegetables",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020016",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080010",
+        "grams": 140,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Rice set scenario: 200 g rice, 2 meat portion(s) of 100 g chicken curry, and 2 vegetable portion(s) of 70 g curry vegetables. Actual selections may differ."
+  },
+  {
+    "id": "fr-indian-005",
+    "name": "Rice Set - 3 Vegetables",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080010",
+        "grams": 210,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Rice set scenario: 200 g rice, 0 meat portion(s) of 100 g chicken curry, and 3 vegetable portion(s) of 70 g curry vegetables. Actual selections may differ."
+  },
+  {
+    "id": "fr-wuyang-001",
+    "name": "Rice Set - 3 Vegetables",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 210,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Mixed rice scenario: 200 g rice, 3 vegetable portion(s) of 70 g mixed vegetables and 0 meat portion(s) of 100 g ginger chicken. Other selected dishes differ."
+  },
+  {
+    "id": "fr-wuyang-002",
+    "name": "Rice Set - 2 Vegetables & 1 Meat",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 140,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020034",
+        "grams": 100,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Mixed rice scenario: 200 g rice, 2 vegetable portion(s) of 70 g mixed vegetables and 1 meat portion(s) of 100 g ginger chicken. Other selected dishes differ."
+  },
+  {
+    "id": "fr-wuyang-003",
+    "name": "Rice Set - 1 Vegetable & 2 Meat",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020034",
+        "grams": 200,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Mixed rice scenario: 200 g rice, 1 vegetable portion(s) of 70 g mixed vegetables and 2 meat portion(s) of 100 g ginger chicken. Other selected dishes differ."
+  },
+  {
+    "id": "fr-wuyang-004",
+    "name": "Rice Set - 2 Vegetables & 2 Meat",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 140,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020034",
+        "grams": 200,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Mixed rice scenario: 200 g rice, 2 vegetable portion(s) of 70 g mixed vegetables and 2 meat portion(s) of 100 g ginger chicken. Other selected dishes differ."
+  },
+  {
+    "id": "fr-korean-001",
+    "name": "Bulgogi Beef Set",
+    "components": [
+      {
+        "foodId": "F05100065",
+        "grams": 561,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Comparable HPB bulgogi meal already includes rice; adds 30 g kimchi. Small plain side broth is excluded because amount consumed is unknown."
+  },
+  {
+    "id": "fr-korean-002",
+    "name": "Bulgogi Spicy Pork Set",
+    "components": [
+      {
+        "foodId": "F05100069",
+        "grams": 412,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Comparable HPB bulgogi meal already includes rice; adds 30 g kimchi. Small plain side broth is excluded because amount consumed is unknown."
+  },
+  {
+    "id": "fr-korean-003",
+    "name": "Bulgogi Spicy Chicken Set",
+    "components": [
+      {
+        "foodId": "F05100066",
+        "grams": 493,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Comparable HPB bulgogi meal already includes rice; adds 30 g kimchi. Small plain side broth is excluded because amount consumed is unknown."
+  },
+  {
+    "id": "fr-korean-004",
+    "name": "Combo A - Mackerel & Beef",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06040024",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Combo scenario includes 200 g rice, 80 g edible mackerel, 100 g cooked marinated meat and 30 g kimchi. Ginger pork/chicken are marinaded-meat proxies. Small plain side broth excluded."
+  },
+  {
+    "id": "fr-korean-005",
+    "name": "Combo B - Mackerel & Pork",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06100046",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Combo scenario includes 200 g rice, 80 g edible mackerel, 100 g cooked marinated meat and 30 g kimchi. Ginger pork/chicken are marinaded-meat proxies. Small plain side broth excluded."
+  },
+  {
+    "id": "fr-korean-006",
+    "name": "Combo C - Mackerel & Chicken",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010007",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11020034",
+        "grams": 100,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Combo scenario includes 200 g rice, 80 g edible mackerel, 100 g cooked marinated meat and 30 g kimchi. Ginger pork/chicken are marinaded-meat proxies. Small plain side broth excluded."
+  },
+  {
+    "id": "fr-korean-007",
+    "name": "Bibimbap",
+    "components": [
+      {
+        "foodId": "F05100006",
+        "grams": 475,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Chicken bibimbap used as the unspecified protein analogue; its rice/egg are already included."
+  },
+  {
+    "id": "fr-korean-008",
+    "name": "Kimchi Bokkeum Bap",
+    "components": [
+      {
+        "foodId": "F05100049",
+        "grams": 303,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Kimchi fried rice proxy: one egg fried rice plate plus 80 g kimchi; no second egg added."
+  },
+  {
+    "id": "fr-korean-009",
+    "name": "Godeunguh Guui (Grilled Mackerel)",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F03010007",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Grilled mackerel set includes assumed 200 g rice, 120 g edible fish and 30 g kimchi; small side broth excluded."
+  },
+  {
+    "id": "fr-korean-010",
+    "name": "Samgyetang (Ginseng Chicken Soup)",
+    "components": [
+      {
+        "foodId": "F11020038",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 450 g edible ginseng chicken soup including half-chicken meat, 150 g side rice and 30 g kimchi; bones excluded."
+  },
+  {
+    "id": "fr-korean-011",
+    "name": "Budae Jjigae (Korean Army Stew)",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06110007",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11070004",
+        "grams": 40,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01010003",
+        "grams": 17,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05070009",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Army stew proxy: 450 g kimchi stew, 50 g sausage, 40 g luncheon-meat proxy (chicken patty), one cheese slice, 80 g cooked noodles and 150 g side rice. Full individual set."
+  },
+  {
+    "id": "fr-korean-012",
+    "name": "Sogogi Muguk (Korean Beef Noodle Soup)",
+    "components": [
+      {
+        "foodId": "F06040001",
+        "grams": 450,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F05070009",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Beef/radish soup reference plus 150 g cooked noodles for the listed beef noodle soup; no rice added."
+  },
+  {
+    "id": "fr-korean-013",
+    "name": "Kimchi Jjigae",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-014",
+    "name": "Kimchi Jjigae with Beef",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-015",
+    "name": "Kimchi Jjigae with Pork",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06090008",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-016",
+    "name": "Kimchi Jjigae with Chicken",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-017",
+    "name": "Soondubu Jjigae",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 120,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-018",
+    "name": "Soondubu Jjigae with Beef",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-019",
+    "name": "Soondubu Jjigae with Pork",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06090008",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-020",
+    "name": "Soondubu Jjigae with Chicken",
+    "components": [
+      {
+        "foodId": "F14080018",
+        "grams": 450,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F05090006",
+        "grams": 150,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 120,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Individual stew set scenario: 450 g kimchi stew proxy and 150 g side rice; soft-tofu variants add 120 g tofu, named meat variants add 80 g cooked meat. Soft-tofu broth may differ from kimchi stew."
+  },
+  {
+    "id": "fr-korean-021",
+    "name": "Ramyun",
+    "components": [
+      {
+        "foodId": "F05060067",
+        "grams": 524,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Ramyun scenario: one HPB instant noodle soup, one egg and 30 g kimchi; named meat adds 80 g, kimchi adds 60 g, or cheese adds 34 g. No rice included."
+  },
+  {
+    "id": "fr-korean-022",
+    "name": "Beef Ramyun",
+    "components": [
+      {
+        "foodId": "F05060067",
+        "grams": 524,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06030026",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Ramyun scenario: one HPB instant noodle soup, one egg and 30 g kimchi; named meat adds 80 g, kimchi adds 60 g, or cheese adds 34 g. No rice included."
+  },
+  {
+    "id": "fr-korean-023",
+    "name": "Pork Ramyun",
+    "components": [
+      {
+        "foodId": "F05060067",
+        "grams": 524,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F06090008",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Ramyun scenario: one HPB instant noodle soup, one egg and 30 g kimchi; named meat adds 80 g, kimchi adds 60 g, or cheese adds 34 g. No rice included."
+  },
+  {
+    "id": "fr-korean-024",
+    "name": "Chicken Ramyun",
+    "components": [
+      {
+        "foodId": "F05060067",
+        "grams": 524,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F11010013",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Ramyun scenario: one HPB instant noodle soup, one egg and 30 g kimchi; named meat adds 80 g, kimchi adds 60 g, or cheese adds 34 g. No rice included."
+  },
+  {
+    "id": "fr-korean-025",
+    "name": "Kimchi Ramyun",
+    "components": [
+      {
+        "foodId": "F05060067",
+        "grams": 524,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 60,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Ramyun scenario: one HPB instant noodle soup, one egg and 30 g kimchi; named meat adds 80 g, kimchi adds 60 g, or cheese adds 34 g. No rice included."
+  },
+  {
+    "id": "fr-korean-026",
+    "name": "Cheese Ramyun",
+    "components": [
+      {
+        "foodId": "F05060067",
+        "grams": 524,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F01050005",
+        "grams": 39,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 30,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F01010003",
+        "grams": 34,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Ramyun scenario: one HPB instant noodle soup, one egg and 30 g kimchi; named meat adds 80 g, kimchi adds 60 g, or cheese adds 34 g. No rice included."
+  },
+  {
+    "id": "fr-korean-027",
+    "name": "Kimbap (Per roll)",
+    "components": [
+      {
+        "foodId": "F05100068",
+        "grams": 275,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. One chicken gimbap roll used as the unspecified filling analogue."
+  },
+  {
+    "id": "fr-korean-028",
+    "name": "Ddeok Pokki",
+    "components": [
+      {
+        "foodId": "F05040011",
+        "grams": 70,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10050001",
+        "grams": 20,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080017",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F10020001",
+        "grams": 3,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Ddeok pokki recipe proxy: rice cakes made from 70 g dry rice flour and 100 g water; 20 g hoisin and 50 g kimchi proxy the sweet/spicy sauce, with 3 g oil. Piece size/count is unconfirmed; not a direct HPB ddeok pokki record.",
+    "addedWaterG": 100
+  },
+  {
+    "id": "fr-korean-029",
+    "name": "Japchae Bokkeum",
+    "components": [
+      {
+        "foodId": "F05060071",
+        "grams": 350,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 350 g prepared japchae for the full noodle order. HPB lists composition per 100 g scoop; excludes rice."
+  },
+  {
+    "id": "fr-ruyi-006",
+    "name": "Bee Hoon Set (Regular)",
+    "components": [
+      {
+        "foodId": "F06010001",
+        "grams": 295,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian set scenario uses a prepared noodle analogue plus tofu/vegetables. Mock-meat choices may differ. Large assumes 30% more of all components; portions unmeasured."
+  },
+  {
+    "id": "fr-ruyi-007",
+    "name": "Bee Hoon Set (Large)",
+    "components": [
+      {
+        "foodId": "F06010001",
+        "grams": 383.5,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 65.0,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 104.0,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian set scenario uses a prepared noodle analogue plus tofu/vegetables. Mock-meat choices may differ. Large assumes 30% more of all components; portions unmeasured."
+  },
+  {
+    "id": "fr-ruyi-008",
+    "name": "Noodle Set (Regular)",
+    "components": [
+      {
+        "foodId": "F05060097",
+        "grams": 240,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 50,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 80,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian set scenario uses a prepared noodle analogue plus tofu/vegetables. Mock-meat choices may differ. Large assumes 30% more of all components; portions unmeasured."
+  },
+  {
+    "id": "fr-ruyi-009",
+    "name": "Noodle Set (Large)",
+    "components": [
+      {
+        "foodId": "F05060097",
+        "grams": 312.0,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 65.0,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 104.0,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian set scenario uses a prepared noodle analogue plus tofu/vegetables. Mock-meat choices may differ. Large assumes 30% more of all components; portions unmeasured."
+  },
+  {
+    "id": "fr-ruyi-010",
+    "name": "Kway Teow Set (Regular)",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 307.5,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 37.5,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 60.0,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian set scenario uses a prepared noodle analogue plus tofu/vegetables. Mock-meat choices may differ. Large assumes 30% more of all components; portions unmeasured."
+  },
+  {
+    "id": "fr-ruyi-011",
+    "name": "Kway Teow Set (Large)",
+    "components": [
+      {
+        "foodId": "F06010004",
+        "grams": 399.75,
+        "basis": "as-served"
+      },
+      {
+        "foodId": "F09040003",
+        "grams": 48.75,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 78.0,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Vegetarian set scenario uses a prepared noodle analogue plus tofu/vegetables. Mock-meat choices may differ. Large assumes 30% more of all components; portions unmeasured."
+  },
+  {
+    "id": "fr-ruyi-012",
+    "name": "Lontong (Regular)",
+    "components": [
+      {
+        "foodId": "F05100125",
+        "grams": 553,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes one default serving of a comparable HPB dish. Lontong with coconut vegetable gravy analogue."
+  },
+  {
+    "id": "fr-ruyi-013",
+    "name": "Lontong (Large)",
+    "components": [
+      {
+        "foodId": "F05100125",
+        "grams": 718.9,
+        "basis": "as-served"
+      }
+    ],
+    "assumptions": "Assumes 130% of a comparable HPB default serving. Large assumes 30% more than regular; portions unmeasured."
+  },
+  {
+    "id": "fr-ruyi-014",
+    "name": "Rice with 2 Vegetables",
+    "components": [
+      {
+        "foodId": "F05090006",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 140,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g rice and two 70 g vegetable servings."
+  },
+  {
+    "id": "fr-ruyi-015",
+    "name": "Brown Rice with 3 Vegetables (Standard Side Dishes)",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 210,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes 200 g brown rice and three 70 g standard vegetable servings; chosen dishes may differ."
+  },
+  {
+    "id": "fr-ruyi-016",
+    "name": "Brown Rice with Egg / Tofu & 1 Vegetable",
+    "components": [
+      {
+        "foodId": "F05090001",
+        "grams": 200,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F09050004",
+        "grams": 80,
+        "basis": "edible"
+      },
+      {
+        "foodId": "F14080052",
+        "grams": 70,
+        "basis": "edible"
+      }
+    ],
+    "assumptions": "Assumes tofu choice: 200 g brown rice, 80 g fried tau kwa and 70 g vegetables. Egg choice differs."
+  }
+]
