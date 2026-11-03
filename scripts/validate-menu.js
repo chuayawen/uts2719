@@ -23,7 +23,9 @@ try {
       const canteens = validateCanteens(JSON.parse(await readFile(new URL("../public/data/canteens.json", import.meta.url), "utf8")));
       mapCsvMenu(items, canteens, "/");
     }
-    console.log(JSON.stringify({ files: files.length, items: items.length, ...getMenuFacets(items) }, null, 2));
+    console.log(JSON.stringify({ files: files.length, items: items.length,
+      nutrition: { withEstimates: items.filter((item) => item.nutrition).length,
+        unavailable: items.filter((item) => !item.nutrition).length }, ...getMenuFacets(items) }, null, 2));
   }
 } catch (error) {
   console.error(error.message);

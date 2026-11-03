@@ -2,6 +2,7 @@ import { Suspense, lazy, useCallback, useMemo, useState } from 'react'
 import { BottomSheet } from './components/BottomSheet'
 import { CanteenDetail } from './components/CanteenDetail'
 import { FilterSheet } from './components/FilterSheet'
+import { NutritionNotes } from './components/NutritionNotes'
 import { MenuDataState } from './components/MenuDataState'
 import type { MapPadding } from './components/map/MapView'
 import { QuickFilters } from './components/QuickFilters'
@@ -94,6 +95,7 @@ function App() {
     {!isPreview && !loading && !error && menuItems.length > 0 && (
       <p className="px-4 pt-3 pb-2 text-xs text-slate-500">Prices are from photographed menus and may change. Confirm dietary requirements with the stall.</p>
     )}
+    {!loading && !error && menuItems.length > 0 && <NutritionNotes />}
     {panelBody}
   </>
 

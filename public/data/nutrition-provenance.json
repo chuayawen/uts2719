@@ -1,0 +1,28 @@
+{
+  "status": "ai-estimate",
+  "basis": "per-order",
+  "sourceFile": "nus_canteen_menu_nutrition_estimates.csv",
+  "sha256": "04f4bcb0f518201a76c636511021cf05f68fa2f2ad2cae0a4c25d71d041b1c61",
+  "importedOn": "2026-11-02",
+  "coverage": {
+    "imported": 559,
+    "withEstimates": 842,
+    "withoutEstimates": 0,
+    "total": 842,
+    "supplied": 559,
+    "referenceRecipes": 283
+  },
+  "description": "AI-generated estimates per menu order, with separate supplied and reference-recipe batches. Portion scenarios are assumptions, not stall measurements.",
+  "referenceScope": "The supplier cited HPB SG FoodID generally, without dish-level database IDs, recipes or portion mappings. These values are not presented as HPB-verified figures.",
+  "referenceBatch": {
+    "id": "hpb-reference-recipes-2026-11-03",
+    "calculatedOn": "2026-11-03",
+    "count": 283,
+    "foodReferenceCount": 142,
+    "recipesSha256": "067e80fef5acc081710d47ff741a70a2c4d4072b9ef8136bf2f388190b931a0a",
+    "foodsSha256": "8dc55a00212cf1c3e4df52a969e89aa19e7a244acc92584891b3028215bc39a4",
+    "method": "Sum HPB per-100g edible composition multiplied by stated ingredient or comparable dish weights. Apply edible percentage once to as-served weights. Negative trace markers and unavailable values remain unknown. Round new kcal/sodium to 10 units and grams to whole units.",
+    "limitations": "Not HPB-verified vendor nutrition. Recipes, portions, sauce retention and alternative choices are unmeasured. Sharing dishes represent the full assumed order. Original supplied estimates are preserved unchanged.",
+    "methodologyUrl": "https://pphtpc.hpb.gov.sg/web/sgfoodid/about-our-data"
+  }
+}
