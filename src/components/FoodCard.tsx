@@ -90,7 +90,7 @@ export function FoodCard({ item, canteenName, highlighted = false, onSelect }: F
         {body}
       </button>
       <div id={nutritionId} hidden={!nutritionOpen} className="px-3 pb-3">
-        {nutritionOpen && <NutritionFacts estimate={item.nutrition} expanded />}
+        {nutritionOpen && <NutritionFacts estimate={item.nutrition} />}
       </div>
     </article>
   )
