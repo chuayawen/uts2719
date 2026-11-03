@@ -69,6 +69,8 @@ Other notes:
 
 The default build loads `public/data/menu.csv` and `public/data/canteens.json` without environment setup. The published catalogue contains 842 priced dish variants at seven canteens. See [data sources and scope](public/data/README.md) for coverage, photographed prices and location evidence. Replace the CSV or edit rows using stable IDs, run the checks below, and redeploy to publish updates.
 
+All 842 variants carry nutrition estimates: 559 supplied estimates and 283 calculated from HPB food references and explicit portion scenarios. Food lists show compact dish details. Click a dish to open its nutrient estimates, individual comparison colours, portion assumptions and source links; click again to collapse it. Shared nutrition notes and the colour key appear once above the menu, with no overall food rating. Selecting a search result opens that dish in its canteen menu. Individual unavailable or trace source values stay unknown. See the [nutrition methods and limitations](public/data/README.md#nutrition-estimates) before updating these values.
+
 For custom file locations, copy `.env.example` to `.env.local` and override these settings. Restart Vite after changing environment settings.
 
 ```dotenv

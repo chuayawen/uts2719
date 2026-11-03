@@ -1,0 +1,28 @@
+{
+  "baselineCommit": "28586444ea91c46dc9a96e711dee7690a52bb5df",
+  "menuColumns": [
+    "id",
+    "name",
+    "price",
+    "canteen",
+    "stall",
+    "cuisine",
+    "dietary_tags",
+    "image",
+    "source"
+  ],
+  "nutritionColumns": [
+    "calories_kcal",
+    "protein_g",
+    "total_carbs_g",
+    "fats_g",
+    "sodium_mg",
+    "fibre_g",
+    "nutrition_status",
+    "nutrition_basis",
+    "nutrition_source"
+  ],
+  "menuIdentitySha256": "115d2339cb679de7cd7e568e938c62e529d1132fa5613586c785ea25dc40687c",
+  "suppliedCount": 559,
+  "suppliedEstimatesSha256": "3a59fe7fdfd2c82e72cc5f3abb3cb3d97e7cb2e86e471d03455b717773857942"
+}

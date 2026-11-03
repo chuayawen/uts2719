@@ -25,6 +25,22 @@ export interface Canteen {
 /** Dietary labels a dish can carry. Extend this union if the dataset has more. */
 export type DietaryTag = 'halal' | 'vegetarian' | 'vegan' | 'no-pork-no-lard'
 
+/** AI estimates per menu order, separate from photographed menu facts. */
+export interface NutritionEstimate {
+  caloriesKcal: number | null
+  proteinG: number | null
+  carbsG: number | null
+  fatG: number | null
+  sodiumMg: number | null
+  fibreG: number | null
+  status: 'ai-estimate'
+  basis: 'per-order'
+  source: string
+  method?: 'reference-recipe'
+  assumptions?: string
+  references?: { id: string; name: string }[]
+}
+
 /** A single dish sold at a stall. */
 export interface MenuItem {
   id: string
@@ -40,6 +56,7 @@ export interface MenuItem {
   /** Optional; cards fall back to a placeholder when missing or broken. */
   imageUrl?: string
   description?: string
+  nutrition?: NutritionEstimate
 }
 
 /** A distinct stall within one canteen, derived from the loaded menu records. */
