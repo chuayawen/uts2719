@@ -154,14 +154,14 @@
   transform: scale(1.15);
 }
 .nff-pin--selected .nff-pin__head {
-  background: #e06c00;
+  background: #ec4899; /* pink-500 */
   transform: scale(1.3);
 }
 .nff-pin--selected .nff-pin__label {
   left: calc(100% + 12px);
 }
 .nff-pin--selected .nff-pin__label strong {
-  color: #b45309;
+  color: #be185d; /* pink-700 */
 }
 .nff-pin--empty .nff-pin__head {
   width: 18px;

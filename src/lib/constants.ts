@@ -16,6 +16,7 @@ export const EMPTY_FILTERS: MenuFilters = {
   cuisines: [],
   dietary: [],
   priceRange: null,
+  sort: 'default',
 }
 
 export function formatPrice(price: number | null): string {

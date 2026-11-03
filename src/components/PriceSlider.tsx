@@ -26,7 +26,7 @@ export function PriceSlider({ bounds, value, onChange, step = 0.5 }: PriceSlider
     <div>
       <div className="mb-3 flex items-baseline justify-between text-sm">
         <span className="font-semibold text-slate-900">
-          {value ? `${formatPrice(min)} – ${formatPrice(max)}` : 'Any price'}
+          {value ? `${formatPrice(min)} to ${formatPrice(max)}` : 'Any price'}
         </span>
         {value && (
           <button type="button" onClick={() => onChange(null)} className="font-medium text-nus-blue hover:underline">

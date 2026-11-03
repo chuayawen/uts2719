@@ -6,6 +6,8 @@
  * compiler will point out every component that needs updating.
  */
 
+import type { NutritionSort } from '../lib/nutritionGuide'
+
 export interface LatLng {
   lat: number
   lng: number
@@ -15,8 +17,10 @@ export interface LatLng {
 export interface Canteen {
   id: string
   name: string
-  /** Short human-readable area, e.g. "Faculty of Science". */
+  /** Full address, shown on the canteen page. */
   location: string
+  /** Short building or faculty name for lists, e.g. "Computing". Falls back to `location`. */
+  area?: string
   /** Where the map pin goes. */
   coordinates: LatLng
   openingHours?: string
@@ -85,6 +89,8 @@ export interface MenuFilters {
   dietary: DietaryTag[]
   /** Set by the price slider; `null` means any price. */
   priceRange: PriceRange | null
+  /** Orders matching dishes by one estimated nutrient; never removes dishes. */
+  sort: NutritionSort
 }
 
 /** The choices the filter panel renders. Derived from the dataset. */

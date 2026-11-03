@@ -1,7 +1,7 @@
 export type SheetSnap = 'peek' | 'half' | 'full'
 
-/** Space left above a fully open sheet so the search bar stays visible. */
-const TOP_GAP = 128
+/** Space left above a fully open sheet so the app title and search bar stay visible. */
+const TOP_GAP = 172
 
 /** Visible bottom-sheet height (px) for each snap point. */
 export function getSheetHeights(viewportHeight: number): Record<SheetSnap, number> {

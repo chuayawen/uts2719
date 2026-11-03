@@ -21,7 +21,7 @@ export function SearchBar({ value, onChange, onSubmit, onFocus, placeholder = 'S
     <form
       role="search"
       onSubmit={handleSubmit}
-      className="flex h-12 w-full items-center rounded-full bg-white pl-2 pr-1.5 shadow-md ring-1 ring-black/5 focus-within:ring-2 focus-within:ring-nus-blue/40"
+      className="flex h-12 w-full items-center rounded-full bg-white pl-2 pr-1.5 shadow-md focus-within:ring-4 focus-within:ring-white/40"
     >
       <label htmlFor="menu-search" className="sr-only">
         Search the menu

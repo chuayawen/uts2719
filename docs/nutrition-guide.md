@@ -1,17 +1,43 @@
 # Nutrition comparison guide
 
-Version 1, 3 November 2026. The guide is calculated from existing per-order estimates without changing nutrition numbers, menu facts or dietary claims.
+Version 2, 3 November 2026. This version replaces the version 1 traffic-light bands. Nutrition numbers, menu facts and dietary claims are unchanged.
 
-| Estimated nutrient per adult meal | Green | Amber | Red |
-| --- | --- | --- | --- |
-| Sodium | ≤600 mg | >600–1,000 mg | >1,000 mg |
-| Protein | ≥20 g | 10–<20 g | <10 g |
-| Fibre | ≥8 g | 4–<8 g | <4 g |
+## Why the colours were removed
 
-These are **app-defined comparison bands**, not validated meal classifications or HPB certification. [WHO Healthy diet, 26 January 2026](https://www.who.int/news-room/fact-sheets/detail/healthy-diet) provides daily context: under 2,000 mg sodium for adults, at least 25 g naturally occurring fibre for people older than 10, and roughly 50–75 g protein for adults at 2,000 kcal. Green bands approximate meal shares; red boundaries (1,000 mg sodium, 4 g fibre and 10 g protein) are practical app choices, not WHO meal thresholds. Individual needs and other food eaten during the day differ.
+Version 1 coloured sodium, protein and fibre green, amber or red using per-meal bands made by splitting daily guidance across three meals. Those boundaries were arbitrary. Fruit or a side dish could show red for protein while still being a useful choice. An estimate of 19 g protein against 20 g looked like a real difference in quality when it is within the margin of the estimates.
 
-There is no overall food rating, profile badge or combined score. Individual nutrient colours remain, with screen-reader descriptions. Nutrition is hidden until a dish is opened. Shared estimate notes, colour key and the WHO link appear once in the collapsed About nutrition section above the menu. Only item-specific portion assumptions and reference foods remain within dish details. Null, missing, invalid and trace inputs stay unknown. Zero remains a real input. Explicit sharing notes suppress single-meal colours. Sides/snacks need meal context; near-threshold estimates may change colour with different portions.
+An established traffic-light scheme, such as the [UK front-of-pack labelling guidance](https://www.gov.uk/government/publications/front-of-pack-nutrition-labelling-guidance), works per 100 g with extra portion rules. It also covers saturated fat and sugars. Our per-order estimates have neither, so they cannot support that scheme reliably.
 
-Saturated/trans fat and verified ingredient formulations are absent from the dataset. Total fat cannot establish fat quality. Dish names and macros cannot establish ultra-processing status. These limitations are explained in the shared notes. Calories, carbs and total fat remain neutral. Sugar, fruit/vegetable balance and micronutrients are outside the guide. A green nutrient value is not a whole-food health verdict.
+## What the app shows now
 
-Implementation: `src/lib/nutritionGuide.ts`. Boundary, unknown-input, conflicting-signal and sharing-order tests protect these decisions. The shared About nutrition section contains the legend, caveats and WHO source link.
+| Feature | Behaviour |
+| --- | --- |
+| Food list | Compact layout: name, price, stall, cuisine and dietary tags. |
+| Dish details | Estimated calories, protein, carbohydrates, total fat, sodium and fibre, all in neutral colours. |
+| Daily context | Sodium as a share of the adult daily limit and fibre as a share of the daily minimum, rounded to the nearest 5%. Protein is shown as an amount only. |
+| Sorting | Less sodium, More protein or More fibre, combined with the canteen, stall, cuisine, price and dietary filters. |
+| Comparison scope | The shared notes ask users to compare meals with meals and snacks or sides with similar options. |
+| Nutrition guide | One shared About nutrition section above the menu explains the estimates and daily reference amounts. |
+
+Example inside a dish's details:
+
+- Sodium: ≈900 mg, about 45% of the adult daily limit
+- Fibre: ≈5 g, about 20% of the daily minimum
+- Protein: ≈18 g
+
+Reference amounts come from [WHO Healthy diet, 26 January 2026](https://www.who.int/news-room/fact-sheets/detail/healthy-diet): under 2,000 mg sodium a day for adults and at least 25 g fibre a day for people older than 10. They are daily amounts, not targets for one meal.
+
+## Edge cases
+
+- Null, missing, invalid and trace inputs stay unknown and get no percentage. Zero is a real value.
+- A small non-zero amount that rounds to 0% reads as "under 5%".
+- Orders whose assumptions mention sharing describe the whole order. They show amounts and a sharing note, with no daily percentage.
+- When sorting, dishes with an unknown value for that nutrient and sharing orders come after the comparable dishes, in menu order. Ties keep menu order.
+- Sorting changes order only. It never removes dishes. It counts towards the active-filter badge and is cleared by Reset.
+- Results stay grouped by canteen, so a sort orders dishes within each canteen.
+
+## Limitations
+
+The dataset has no meal, side or snack category, so the app cannot yet restrict comparisons to similar items automatically. Users are asked to do this themselves. Saturated/trans fat, sugars and verified ingredient formulations are also absent. Total fat cannot establish fat quality, and dish names and macros cannot establish ultra-processing status. Better data would improve these comparisons more than a more complicated scoring formula.
+
+Implementation: `src/lib/nutritionGuide.ts` (daily context and sorting), `src/components/NutritionFacts.tsx` (dish details) and `src/components/NutritionNotes.tsx` (shared notes). Tests are in `tests/nutritionGuide.test.js` and `tests/filterMenu.test.js`.

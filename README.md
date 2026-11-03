@@ -48,6 +48,7 @@ How `MenuFilters` is defined (an empty value means no restriction):
 | `stallId`      | Stall dropdown                 | One distinct stall within its canteen, or `null` for all |
 | `cuisines`     | Quick chips + filter sheet     | Match **any** selected cuisine           |
 | `priceRange`   | Price slider                   | `{ min, max }` in SGD, inclusive; `null` means any price |
+| `sort`         | Sort chips + filter sheet      | `'default'`, `'less-sodium'`, `'more-protein'` or `'more-fibre'`; reorders, never removes |
 | `dietary`      | Quick chips + filter sheet     | Item must have **all** selected tags |
 
 Other notes:
@@ -69,7 +70,7 @@ Other notes:
 
 The default build loads `public/data/menu.csv` and `public/data/canteens.json` without environment setup. The published catalogue contains 842 priced dish variants at seven canteens. See [data sources and scope](public/data/README.md) for coverage, photographed prices and location evidence. Replace the CSV or edit rows using stable IDs, run the checks below, and redeploy to publish updates.
 
-All 842 variants carry nutrition estimates: 559 supplied estimates and 283 calculated from HPB food references and explicit portion scenarios. Food lists show compact dish details. Click a dish to open its nutrient estimates, individual comparison colours, portion assumptions and source links; click again to collapse it. Shared nutrition notes and the colour key appear once above the menu, with no overall food rating. Selecting a search result opens that dish in its canteen menu. Individual unavailable or trace source values stay unknown. See the [nutrition methods and limitations](public/data/README.md#nutrition-estimates) before updating these values.
+All 842 variants carry nutrition estimates: 559 supplied estimates and 283 calculated from HPB food references and explicit portion scenarios. Food lists show compact dish details. Click a dish to open its nutrient estimates in neutral colours, with sodium and fibre shown as a share of WHO adult daily amounts, plus portion assumptions and source links; click again to collapse it. Users can sort by less sodium, more protein or more fibre alongside the other filters. Shared nutrition notes appear once above the menu, with no traffic lights or overall food rating. See the [nutrition comparison guide](docs/nutrition-guide.md). Selecting a search result opens that dish in its canteen menu. Individual unavailable or trace source values stay unknown. See the [nutrition methods and limitations](public/data/README.md#nutrition-estimates) before updating these values.
 
 For custom file locations, copy `.env.example` to `.env.local` and override these settings. Restart Vite after changing environment settings.
 
@@ -79,7 +80,7 @@ VITE_MENU_CSV_FILES=["data/menu.csv"]
 VITE_CANTEENS_URL=data/canteens.json
 ```
 
-`VITE_MENU_CSV_FILES` accepts a JSON array of one or multiple public CSV URLs. Relative data/image URLs respect Vite's deployment base path. `canteens.json` is an array of canteens with a unique `id`, `name`, and numeric `coordinates.lat` / `coordinates.lng`; `location` and `openingHours` are optional text. Each menu CSV's `canteen` must match an exact canteen ID or an unambiguous name. See [the data handoff](docs/person-2-handoff.md) for the menu column format.
+`VITE_MENU_CSV_FILES` accepts a JSON array of one or multiple public CSV URLs. Relative data/image URLs respect Vite's deployment base path. `canteens.json` is an array of canteens with a unique `id`, `name`, and numeric `coordinates.lat` / `coordinates.lng`; `location` (full address, shown on the canteen page), `area` (short building or faculty name for the results list, e.g. `Computing`) and `openingHours` are optional text. Each menu CSV's `canteen` must match an exact canteen ID or an unambiguous name. See [the data handoff](docs/person-2-handoff.md) for the menu column format.
 
 Set `VITE_MENU_SOURCE=preview` only when testing the labelled fictional demo. Empty CSV files show that menus are not available yet; loading failures show a retry state.
 

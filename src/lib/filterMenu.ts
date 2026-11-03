@@ -1,13 +1,14 @@
 import type { FilterMenuItems } from '../types/menu'
 import { searchMenu } from './menu.js'
+import { sortByNutrition } from './nutritionGuide.ts'
 import { getStallId } from './stalls.ts'
 
 /**
  * Applies the search query and filters to the menu.
  *
  * Translate the UI's canteen IDs and price slider into the shared data
- * filter contract. Keep the original item objects and order for cards,
- * canteen summaries and map navigation.
+ * filter contract. Keep the original item objects for cards, canteen
+ * summaries and map navigation, in menu order unless a nutrition sort is chosen.
  */
 export const filterMenuItems: FilterMenuItems = (items, filters, options) => {
   const priceRange = filters.priceRange
@@ -34,5 +35,5 @@ export const filterMenuItems: FilterMenuItems = (items, filters, options) => {
     maxPrice: priceRange?.max,
   })
   const matchingIds = new Set(matched.map((item) => item.id))
-  return candidates.filter((item) => matchingIds.has(item.id))
+  return sortByNutrition(candidates.filter((item) => matchingIds.has(item.id)), filters.sort ?? 'default')
 }

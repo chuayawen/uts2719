@@ -2,6 +2,7 @@ import { Suspense, lazy, useCallback, useMemo, useState } from 'react'
 import { BottomSheet } from './components/BottomSheet'
 import { CanteenDetail } from './components/CanteenDetail'
 import { FilterSheet } from './components/FilterSheet'
+import { MenuNotes } from './components/MenuNotes'
 import { NutritionNotes } from './components/NutritionNotes'
 import { MenuDataState } from './components/MenuDataState'
 import type { MapPadding } from './components/map/MapView'
@@ -22,7 +23,7 @@ const MapView = lazy(() => import('./components/map/MapView').then((m) => ({ def
 
 const PANEL_WIDTH = 408
 /** Height of the floating search + chip rows on mobile. */
-const MOBILE_TOP_OVERLAY = 116
+const MOBILE_TOP_OVERLAY = 168
 /** Height of the floating chip row on desktop. */
 const DESKTOP_TOP_OVERLAY = 64
 
@@ -92,12 +93,26 @@ function App() {
 
   const panelContent = <>
     {isPreview && <p className="px-4 pt-3 text-xs text-slate-500">Sample menu for testing</p>}
-    {!isPreview && !loading && !error && menuItems.length > 0 && (
-      <p className="px-4 pt-3 pb-2 text-xs text-slate-500">Prices are from photographed menus and may change. Confirm dietary requirements with the stall.</p>
-    )}
-    {!loading && !error && menuItems.length > 0 && <NutritionNotes />}
+    {!loading && !error && menuItems.length > 0 && <div className="pt-3">
+      <MenuNotes />
+      <NutritionNotes />
+    </div>}
     {panelBody}
   </>
+
+  const canteensWithResults = summaries.filter((s) => s.items.length > 0).length
+  const showCount = !loading && !error && menuItems.length > 0
+  const appTitle = (
+    <div className="flex items-baseline justify-between gap-3">
+      <h1 className="text-lg font-extrabold tracking-tight text-white">NUS Food Finder</h1>
+      {showCount && (
+        <p className="shrink-0 text-right text-xs text-white/75" aria-live="polite">
+          {results.length} {results.length === 1 ? 'dish' : 'dishes'} at {canteensWithResults}{' '}
+          {canteensWithResults === 1 ? 'canteen' : 'canteens'}
+        </p>
+      )}
+    </div>
+  )
 
   const searchBar = (
     <SearchBar
@@ -140,7 +155,7 @@ function App() {
             style={{ width: PANEL_WIDTH, transform: `translateX(${panelCollapsed ? -PANEL_WIDTH : 0}px)` }}
             className="absolute inset-y-0 left-0 z-20 flex flex-col bg-white shadow-xl transition-transform duration-300"
           >
-            <div inert={panelCollapsed} aria-hidden={panelCollapsed} className="shrink-0 p-4 pb-3">{searchBar}</div>
+            <div inert={panelCollapsed} aria-hidden={panelCollapsed} className="shrink-0 space-y-3 bg-nus-blue p-4">{appTitle}{searchBar}</div>
             <div inert={panelCollapsed} aria-hidden={panelCollapsed} key={selectedCanteenId ?? 'list'} className="min-h-0 flex-1 overflow-y-auto">
               {panelContent}
             </div>
@@ -164,9 +179,12 @@ function App() {
         </>
       ) : (
         <>
-          <div className="absolute inset-x-0 top-0 z-30 space-y-2 px-3 pt-3">
-            {searchBar}
-            {quickFilters}
+          <div className="absolute inset-x-0 top-0 z-30 space-y-2">
+            <header className="space-y-2.5 rounded-b-3xl bg-nus-blue px-4 pb-3 pt-3">
+              {appTitle}
+              {searchBar}
+            </header>
+            <div className="px-3">{quickFilters}</div>
           </div>
           <BottomSheet
             snap={sheetSnap}

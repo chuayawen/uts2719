@@ -36,6 +36,7 @@ export function validateCanteens(value: unknown): Canteen[] {
       || !Number.isFinite(record.coordinates?.lat) || Math.abs(record.coordinates.lat) > 90
       || !Number.isFinite(record.coordinates?.lng) || Math.abs(record.coordinates.lng) > 180
       || (record.location != null && typeof record.location !== 'string')
+      || (record.area != null && typeof record.area !== 'string')
       || (record.openingHours != null && typeof record.openingHours !== 'string')) {
       throw new MenuDataError(`Invalid canteen metadata at record ${index + 1}.`)
     }
@@ -43,6 +44,7 @@ export function validateCanteens(value: unknown): Canteen[] {
     if (ids.has(id)) throw new MenuDataError(`Duplicate canteen ID: ${id}.`)
     ids.add(id)
     return { id, name: record.name.trim(), location: record.location?.trim() ?? '',
+      ...(record.area?.trim() ? { area: record.area.trim() } : {}),
       coordinates: { lat: record.coordinates.lat, lng: record.coordinates.lng },
       ...(record.openingHours ? { openingHours: record.openingHours.trim() } : {}) }
   })
