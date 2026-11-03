@@ -1,34 +1,51 @@
-import { GUIDE_THRESHOLDS } from '../lib/nutritionGuide'
+import { InfoPanel, InfoSection, InfoTip } from './InfoPanel'
+import { DAILY_REFERENCES } from '../lib/nutritionGuide'
 
 /** Shared reference notes, shown once above the current menu. */
 export function NutritionNotes() {
-  const t = GUIDE_THRESHOLDS
+  const r = DAILY_REFERENCES
   return (
-    <details className="mx-4 my-2 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-xs text-slate-600">
-      <summary className="cursor-pointer font-medium text-nus-blue">About nutrition</summary>
-      <div className="mt-3 space-y-3 leading-relaxed">
-        <p>≈ means “about”. Nutrition values are estimates for one order, based on AI estimates or similar foods in the Health Promotion Board (HPB) database. Stalls have not verified them. Portion size, sauces and cooking oil can change the actual amounts.</p>
-        <p>Use the colours to compare nutrients:</p>
-        <ul className="list-disc space-y-1 pl-4">
-          <li><strong>Green:</strong> less sodium, or more protein or fibre.</li>
-          <li><strong>Amber:</strong> between the green and red ranges.</li>
-          <li><strong>Red:</strong> more sodium, or less protein or fibre.</li>
-          <li><strong>Grey:</strong> missing information, or a dish meant for sharing.</li>
+    <InfoPanel
+      title="About nutrition"
+      icon={<path d="M12 8c0-2.5 1.5-4 4-4M12 8c-2-1.5-5-1.5-6.5.5C3.5 11 4.5 16 7 19c1.5 1.8 3.2 2.2 5 1.2 1.8 1 3.5.6 5-1.2 2.5-3 3.5-8 1.5-10.5C17 6.5 14 6.5 12 8Z" />}
+    >
+      <p>≈ means “about”. Nutrition values are estimates for one order, based on AI estimates or similar foods in the Health Promotion Board (HPB) database. Stalls have not verified them. Portion size, sauces and cooking oil can change the actual amounts.</p>
+
+      <InfoSection title="Daily amounts for adults (WHO)">
+        <div className="grid grid-cols-3 gap-2">
+          <Stat label="Sodium" value={`< ${r.sodiumMaxMg.toLocaleString('en-SG')} mg`} />
+          <Stat label="Fibre" value={`≥ ${r.fibreMinG} g`} />
+          <Stat label="Protein" value="Varies" />
+        </div>
+        <p className="mt-2">Dish details compare sodium and fibre with these amounts. Protein is shown as an amount only, because needs depend on body size and activity. These are daily amounts, not targets for a single meal, and the app does not mark any dish as good or bad.</p>
+      </InfoSection>
+
+      <InfoSection title="Comparing dishes">
+        <ul className="space-y-1.5">
+          <InfoTip>Sort with <strong>Less sodium</strong>, <strong>More protein</strong> or <strong>More fibre</strong> alongside your other filters.</InfoTip>
+          <InfoTip>Compare similar foods: meals with meals, and snacks or sides with other snacks or sides.</InfoTip>
+          <InfoTip>Small differences, like 19 g against 20 g of protein, are within the margin of these estimates.</InfoTip>
+          <InfoTip>Dishes with missing values, and dishes meant for sharing, are listed last when sorting. For shared dishes, consider only the amount you eat.</InfoTip>
         </ul>
-        <table className="w-full text-left text-xs [&_th]:py-1 [&_th]:pr-2 [&_td]:py-1 [&_td]:pr-2 [&_td]:align-top">
-          <caption className="mb-1 text-left font-medium">Amounts for one order</caption>
-          <thead><tr><th scope="col">Nutrient</th><th scope="col">Green</th><th scope="col">Amber</th><th scope="col">Red</th></tr></thead>
-          <tbody>
-            <tr><th scope="row">Sodium (mg)</th><td>{t.sodiumGreenMax} or less</td><td>Over {t.sodiumGreenMax} to {t.sodiumRedAbove.toLocaleString('en-SG')}</td><td>Over {t.sodiumRedAbove.toLocaleString('en-SG')}</td></tr>
-            <tr><th scope="row">Protein (g)</th><td>{t.proteinGreenMin} or more</td><td>{t.proteinRedBelow} to under {t.proteinGreenMin}</td><td>Under {t.proteinRedBelow}</td></tr>
-            <tr><th scope="row">Fibre (g)</th><td>{t.fibreGreenMin} or more</td><td>{t.fibreRedBelow} to under {t.fibreGreenMin}</td><td>Under {t.fibreRedBelow}</td></tr>
-          </tbody>
-        </table>
-        <p>These ranges are a rough reference for adults, informed by World Health Organization (WHO) daily guidance. They are set by this app, not official WHO limits for a meal or an HPB certification.</p>
-        <p>Consider your portion and the rest of your meals. A snack does not need to provide a whole meal’s nutrients. For shared dishes, consider only the amount you eat. A different serving size may change the colour.</p>
-        <p>The colours do not rate a food’s overall healthiness. They cover only sodium, protein and fibre. Total fat does not tell us how much saturated or trans fat a food contains, and nutrition numbers do not tell us how processed it is.</p>
-        <a className="inline-block text-nus-blue underline" href="https://www.who.int/news-room/fact-sheets/detail/healthy-diet" target="_blank" rel="noreferrer">Read the WHO healthy eating advice</a>
-      </div>
-    </details>
+      </InfoSection>
+
+      <p className="rounded-xl bg-white/70 p-2.5 text-slate-600">These numbers do not rate a food’s overall healthiness. Total fat does not tell us how much saturated or trans fat a food contains, and nutrition numbers do not tell us how processed it is.</p>
+
+      <a className="inline-flex items-center gap-1 font-medium text-slate-700 underline decoration-slate-300 underline-offset-2 hover:text-slate-900" href="https://www.who.int/news-room/fact-sheets/detail/healthy-diet" target="_blank" rel="noreferrer">
+        Read the WHO healthy eating advice
+        <svg aria-hidden="true" viewBox="0 0 24 24" className="size-3" fill="none" stroke="currentColor" strokeWidth={2.5}>
+          <path d="M7 17 17 7M9 7h8v8" strokeLinecap="round" strokeLinejoin="round" />
+        </svg>
+      </a>
+    </InfoPanel>
+  )
+}
+
+function Stat({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="rounded-xl bg-white px-2 py-1.5 text-center">
+      <div className="text-[11px] text-slate-500">{label}</div>
+      <div className="text-sm font-semibold text-slate-900">{value}</div>
+    </div>
   )
 }

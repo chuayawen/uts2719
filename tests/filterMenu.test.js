@@ -67,3 +67,16 @@ test('map summaries and result counts reflect the filtered set', () => {
   assert.equal(summaries.find((summary) => summary.canteen.id === 'frontier').minPrice, null)
   assert.ok(summariseByCanteen(mockCanteens, apply({ query: 'no results' })).every((summary) => !summary.items.length && summary.minPrice === null))
 })
+
+test('nutrition sort reorders matching dishes without removing any or counting as a price filter', () => {
+  const items = [
+    { ...mockMenuItems[0], id: 's1', price: 4, nutrition: { sodiumMg: 1200, proteinG: 10, fibreG: 3 } },
+    { ...mockMenuItems[0], id: 's2', price: 9, nutrition: { sodiumMg: 300, proteinG: 25, fibreG: 6 } },
+    { ...mockMenuItems[0], id: 's3', price: 5, nutrition: { sodiumMg: 700, proteinG: 40, fibreG: null } },
+  ]
+  assert.deepEqual(ids(apply({}, items)), ['s1', 's2', 's3'])
+  assert.deepEqual(ids(apply({ sort: 'less-sodium' }, items)), ['s2', 's3', 's1'])
+  assert.deepEqual(ids(apply({ sort: 'more-protein' }, items)), ['s3', 's2', 's1'])
+  assert.deepEqual(ids(apply({ sort: 'more-fibre' }, items)), ['s2', 's1', 's3'])
+  assert.deepEqual(ids(apply({ sort: 'less-sodium', priceRange: { min: 0, max: 6 } }, items)), ['s3', 's1'])
+})

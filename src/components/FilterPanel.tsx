@@ -1,6 +1,7 @@
 import type { ReactNode } from 'react'
 import { toggleInList } from '../hooks/useMenuFilters'
 import { DIETARY_LABELS } from '../lib/constants'
+import { NUTRITION_SORT_LABELS, type NutritionSort } from '../lib/nutritionGuide'
 import type { FilterOptions, MenuFilters } from '../types/menu'
 import { Chip } from './Chip'
 import { PriceSlider } from './PriceSlider'
@@ -81,6 +82,20 @@ export function FilterPanel({ filters, options, onChange, onReset, hideHeader = 
         />
       </FilterSection>
 
+      <FilterSection title="Sort by estimated nutrition">
+        <div className="flex flex-wrap gap-2">
+          {(Object.entries(NUTRITION_SORT_LABELS) as [NutritionSort, string][]).map(([sort, label]) => (
+            <Chip
+              key={sort}
+              selected={filters.sort === sort}
+              onClick={() => onChange({ sort: filters.sort === sort ? 'default' : sort })}
+            >
+              {label}
+            </Chip>
+          ))}
+        </div>
+      </FilterSection>
+
       <FilterSection title="Dietary">
         <div className="flex flex-col gap-1">
           {options.dietary.map((tag) => {
@@ -109,7 +124,7 @@ export function FilterPanel({ filters, options, onChange, onReset, hideHeader = 
 function FilterSection({ title, children }: { title: string; children: ReactNode }) {
   return (
     <fieldset>
-      <legend className="mb-2.5 text-xs font-semibold uppercase tracking-wide text-slate-500">{title}</legend>
+      <legend className="mb-2.5 text-sm font-semibold text-slate-900">{title}</legend>
       {children}
     </fieldset>
   )

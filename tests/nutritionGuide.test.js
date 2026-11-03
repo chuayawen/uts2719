@@ -1,34 +1,53 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { nutritionGuide } from '../src/lib/nutritionGuide.ts'
+import { DAILY_REFERENCES, dailyPercent, formatPercent, nutritionContext, sortByNutrition } from '../src/lib/nutritionGuide.ts'
 
-const favourable = { sodiumMg: 600, proteinG: 20, fibreG: 8 }
-test('individual nutrient colours have explicit inclusive boundaries', () => {
-  assert.ok(Object.values(nutritionGuide(favourable).signals).every((s) => s.tone === 'green'))
-  for (const [key, values] of Object.entries({ sodiumMg: [[600.1, 'amber'], [1000, 'amber'], [1000.1, 'red']],
-    proteinG: [[19.9, 'amber'], [10, 'amber'], [9.9, 'red']], fibreG: [[7.9, 'amber'], [4, 'amber'], [3.9, 'red']] })) {
-    for (const [value, tone] of values) assert.equal(nutritionGuide({ ...favourable, [key]: value }).signals[{ sodiumMg: 'sodium', proteinG: 'protein', fibreG: 'fibre' }[key]].tone, tone)
-  }
+test('daily context uses WHO adult sodium limit and fibre minimum', () => {
+  assert.deepEqual(DAILY_REFERENCES, { sodiumMaxMg: 2000, fibreMinG: 25 })
+  assert.deepEqual(nutritionContext({ sodiumMg: 900, fibreG: 5, proteinG: 18 }), { sharing: false, sodiumPercent: 45, fibrePercent: 20 })
 })
-test('unknown, invalid and trace inputs never earn green; zero has nutrient-specific meaning', () => {
-  for (const value of [null, undefined, NaN, Infinity, -1, '20']) {
-    assert.equal(nutritionGuide({ ...favourable, fibreG: value }).signals.fibre.tone, 'unknown')
-  }
-  assert.ok(Object.values(nutritionGuide().signals).every((s) => s.tone === 'unknown'))
-  assert.equal(nutritionGuide({ ...favourable, sodiumMg: 0 }).signals.sodium.tone, 'green')
-  assert.equal(nutritionGuide({ ...favourable, proteinG: 0 }).signals.protein.tone, 'red')
-  assert.equal(nutritionGuide({ ...favourable, sodiumMg: 1500, fibreG: null }).signals.sodium.tone, 'red')
-  assert.equal(nutritionGuide({ ...favourable, sodiumMg: 1500, fibreG: null }).signals.fibre.tone, 'unknown')
+
+test('percentages round to the nearest 5% and small amounts read as under 5%', () => {
+  assert.equal(dailyPercent(1240, 2000), 60)
+  assert.equal(dailyPercent(1260, 2000), 65)
+  assert.equal(dailyPercent(30, 2000), 0)
+  assert.equal(formatPercent(0, 30), 'under 5%')
+  assert.equal(formatPercent(0, 0), 'about 0%')
+  assert.equal(formatPercent(45, 900), 'about 45%')
 })
-test('protein cannot cancel high sodium and total fat/calories never stand in for fat quality', () => {
-  assert.equal(nutritionGuide({ ...favourable, proteinG: 80, sodiumMg: 1500 }).signals.sodium.tone, 'red')
-  assert.deepEqual(nutritionGuide({ ...favourable, fatG: 80, caloriesKcal: 2000 }), nutritionGuide(favourable))
+
+test('unknown, invalid and trace inputs get no percentage; zero is a real value', () => {
+  for (const value of [null, undefined, NaN, Infinity, -1, '20']) assert.equal(dailyPercent(value, 25), null)
+  assert.deepEqual(nutritionContext(), { sharing: false, sodiumPercent: null, fibrePercent: null })
+  assert.equal(nutritionContext({ sodiumMg: 0, fibreG: 0 }).sodiumPercent, 0)
 })
-test('known sharing orders are not classified as a single meal and input is immutable', () => {
-  const sharing = Object.freeze({ ...favourable, assumptions: 'Sharing whole-fish scenario: full order, excluding rice.' })
-  assert.equal(nutritionGuide(sharing).sharing, true)
-  assert.ok(Object.values(nutritionGuide(sharing).signals).every((s) => s.tone === 'unknown'))
+
+test('there is no pass/fail judgement and protein has no daily percentage', () => {
+  const context = nutritionContext({ sodiumMg: 1500, proteinG: 2, fibreG: 1 })
+  assert.deepEqual(Object.keys(context).sort(), ['fibrePercent', 'sharing', 'sodiumPercent'])
+})
+
+test('sharing orders get no single-person percentage and input is immutable', () => {
+  const sharing = Object.freeze({ sodiumMg: 600, fibreG: 8, assumptions: 'Sharing whole-fish scenario: full order, excluding rice.' })
+  assert.deepEqual(nutritionContext(sharing), { sharing: true, sodiumPercent: null, fibrePercent: null })
   assert.equal(sharing.sodiumMg, 600)
-  assert.equal('tone' in nutritionGuide(sharing), false)
-  assert.equal('label' in nutritionGuide(sharing), false)
+})
+
+const dish = (id, nutrition) => ({ id, nutrition })
+const items = [
+  dish('a', { sodiumMg: 900, proteinG: 18, fibreG: 5 }),
+  dish('b', { sodiumMg: null, proteinG: null, fibreG: null }),
+  dish('c', { sodiumMg: 400, proteinG: 30, fibreG: 2 }),
+  dish('d', { sodiumMg: 100, proteinG: 90, fibreG: 20, assumptions: 'Sharing platter for 3' }),
+  dish('e', { sodiumMg: 900, proteinG: 25, fibreG: 5 }),
+  dish('f'),
+]
+const order = (sort) => sortByNutrition(items, sort).map((item) => item.id)
+
+test('nutrition sorts are stable and keep unknown and sharing dishes last in menu order', () => {
+  assert.deepEqual(order('default'), ['a', 'b', 'c', 'd', 'e', 'f'])
+  assert.deepEqual(order('less-sodium'), ['c', 'a', 'e', 'b', 'd', 'f'])
+  assert.deepEqual(order('more-protein'), ['c', 'e', 'a', 'b', 'd', 'f'])
+  assert.deepEqual(order('more-fibre'), ['a', 'e', 'c', 'b', 'd', 'f'])
+  assert.deepEqual(items.map((item) => item.id), ['a', 'b', 'c', 'd', 'e', 'f'])
 })
