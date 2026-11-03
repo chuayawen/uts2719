@@ -67,7 +67,7 @@ Other notes:
 
 ## Update the menu data
 
-The default build loads `public/data/menu.csv` and `public/data/canteens.json` without environment setup. The published catalogue contains 559 priced dish variants at six canteens. See [data sources and scope](public/data/README.md) for coverage, photographed prices and location evidence. Replace the CSV or edit rows using stable IDs, run the checks below, and redeploy to publish updates.
+The default build loads `public/data/menu.csv` and `public/data/canteens.json` without environment setup. The published catalogue contains 842 priced dish variants at seven canteens. See [data sources and scope](public/data/README.md) for coverage, photographed prices and location evidence. Replace the CSV or edit rows using stable IDs, run the checks below, and redeploy to publish updates.
 
 For custom file locations, copy `.env.example` to `.env.local` and override these settings. Restart Vite after changing environment settings.
 

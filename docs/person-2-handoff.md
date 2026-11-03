@@ -56,7 +56,7 @@ Unknown CSV prices remain null, display as "Price unavailable", are excluded by 
 4. CSV is the default source with no environment setup. To override it, copy `.env.example` to `.env.local`. `VITE_MENU_CSV_FILES` is a JSON array of public URLs; its default is `["data/menu.csv"]`. `VITE_CANTEENS_URL` defaults to `data/canteens.json`.
 5. Restart Vite or rebuild. Relative data/image paths resolve below Vite's BASE_URL, including a repository subpath. All files in `public/` become public when deployed.
 
-CSV and metadata files load as one catalogue. A failure in either produces a retry state; it never substitutes sample records. Empty files show that menu data is not available yet. The default catalogue now contains 559 photo-supported dish variants at six canteens; see `public/data/README.md` for scope and evidence. Set `VITE_MENU_SOURCE=preview` explicitly for the labelled fictional demo.
+CSV and metadata files load as one catalogue. A failure in either produces a retry state; it never substitutes sample records. Empty files show that menu data is not available yet. The default catalogue now contains 842 photo-supported dish variants at seven canteens; see `public/data/README.md` for scope and evidence. Set `VITE_MENU_SOURCE=preview` explicitly for the labelled fictional demo.
 
 ## Before release
 
