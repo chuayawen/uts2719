@@ -1,6 +1,6 @@
 # Published menu data
 
-`menu.csv` contains 559 priced dish/portion variants across six canteens, imported on 1 November 2026 from the reviewed photograph extraction. Every row has a source photograph reference. Prices are SGD as printed in those photographs, which span 2025 and 2026; the import date does not mean prices or availability were checked with vendors on that date.
+`menu.csv` contains 842 priced dish/portion variants across seven canteens, updated on 2 November 2026 from the reviewed photograph extraction. Every row has a source photograph reference. Prices are SGD as printed in those photographs, which span 2025 and 2026; the update date does not mean prices or availability were checked with vendors on that date.
 
 | Canteen | Dish variants |
 | --- | ---: |
@@ -8,10 +8,13 @@
 | Techno Edge | 81 |
 | The Terrace | 81 |
 | Yusof Ishak House | 29 |
-| The Deck | 22 |
+| The Deck | 126 |
 | Flavours | 252 |
+| Frontier | 179 |
 
 Only legible item names/prices with supported stall identities are included. Uncertain entries and the unidentified IMG_7578 stall remain excluded. Separate sizes/proteins have separate IDs. Drinks, individual ingredients, add-ons and takeaway fees from the full extraction are excluded from dish search. Original photographs are not distributed with the site.
+
+The 2 November update adds 283 dish variants from the user-confirmed Frontier and The Deck batches. Matching Ba Wei records keep their IDs and gain source references. Conflicting board prices, unclear size/price mappings and variable prices remain excluded. Where a trading name is not visible, the stall sign or a descriptive menu-group label identifies the photographed counter; that label does not assert a vendor brand.
 
 Dietary tags preserve explicit evidence from photographed signs. Missing tags mean no recorded claim; they do not establish suitability. A no-pork/no-lard statement is not treated as halal certification. The site does not infer allergens or current certification.
 
