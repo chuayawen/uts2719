@@ -16,6 +16,9 @@ export interface FoodCardProps {
 export function FoodCard({ item, canteenName, highlighted = false, onSelect }: FoodCardProps) {
   const [failedImageUrl, setFailedImageUrl] = useState<string | null>(null)
   const showImage = item.imageUrl && item.imageUrl !== failedImageUrl
+  const [nutritionOpen, setNutritionOpen] = useState(highlighted)
+  const nutritionId = `nutrition-${item.id}`
+
 
   const body = (
     <>
@@ -49,7 +52,12 @@ export function FoodCard({ item, canteenName, highlighted = false, onSelect }: F
         <p className="mt-1 text-xs font-medium text-slate-500">
           {[item.cuisine, ...item.dietary.map((tag) => DIETARY_LABELS[tag])].filter(Boolean).join(', ')}
         </p>
-        <NutritionFacts estimate={item.nutrition} expanded={!onSelect} />
+        <span className="mt-1 inline-flex items-center gap-1 text-xs font-medium text-nus-blue">
+          {onSelect ? 'View details' : nutritionOpen ? 'Hide nutrition' : 'View nutrition'}
+          <svg aria-hidden="true" viewBox="0 0 24 24" className={`size-3 ${!onSelect && nutritionOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" strokeWidth={2}>
+            <path d={onSelect ? 'm9 5 7 7-7 7' : 'm6 9 6 6 6-6'} strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </span>
       </div>
     </>
   )
@@ -71,8 +79,19 @@ export function FoodCard({ item, canteenName, highlighted = false, onSelect }: F
     )
   }
   return (
-    <article id={`dish-${item.id}`} className={className}>
-      {body}
+    <article id={`dish-${item.id}`} className={`rounded-xl ${highlighted ? 'bg-nus-orange-soft ring-2 ring-nus-orange/60' : ''}`}>
+      <button
+        type="button"
+        aria-expanded={nutritionOpen}
+        aria-controls={nutritionId}
+        onClick={() => setNutritionOpen((open) => !open)}
+        className="flex w-full gap-3 rounded-xl p-2.5 text-left hover:bg-slate-50 focus-visible:outline-2 focus-visible:outline-nus-blue"
+      >
+        {body}
+      </button>
+      <div id={nutritionId} hidden={!nutritionOpen} className="px-3 pb-3">
+        {nutritionOpen && <NutritionFacts estimate={item.nutrition} expanded />}
+      </div>
     </article>
   )
 }
