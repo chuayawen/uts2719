@@ -1,6 +1,10 @@
 import Papa from "papaparse";
 
 export const DIETARY_TAGS = Object.freeze(["vegetarian", "vegan", "halal", "no-pork-no-lard"]);
+export const NUTRITION_COLUMNS = Object.freeze({
+  calories_kcal: "caloriesKcal", protein_g: "proteinG", total_carbs_g: "carbsG",
+  fats_g: "fatG", sodium_mg: "sodiumMg", fibre_g: "fibreG",
+});
 const REQUIRED_COLUMNS = ["id", "name", "price", "canteen", "stall"];
 const SORTS = ["name-asc", "name-desc", "price-asc", "price-desc"];
 const collator = new Intl.Collator("en", { sensitivity: "base", numeric: true });
@@ -42,6 +46,22 @@ export function validateMenuItems(items) {
     for (const field of ["cuisine", "image", "source"]) {
       if (item[field] != null && typeof item[field] !== "string") report(field, "Use text or null.");
     }
+    if (item.nutrition != null) {
+      const n = item.nutrition;
+      if (typeof n !== "object" || Array.isArray(n)) {
+        report("nutrition", "Expected nutrition estimates, or no nutrition data.");
+      } else {
+        for (const [column, key] of Object.entries(NUTRITION_COLUMNS)) {
+          if (n[key] !== null && (typeof n[key] !== "number" || !Number.isFinite(n[key]) || n[key] < 0)) {
+            report(column, "Use a finite non-negative number, or leave the value blank.");
+          }
+        }
+        if (!Object.values(NUTRITION_COLUMNS).some((key) => typeof n[key] === "number")) report("nutrition", "At least one estimate is required.");
+        if (n.status !== "ai-estimate") report("nutrition_status", "Supported status: ai-estimate.");
+        if (n.basis !== "per-order") report("nutrition_basis", "Estimates must be per menu order.");
+        if (typeof n.source !== "string" || !n.source.trim()) report("nutrition_source", "Name the source of the estimates.");
+      }
+    }
   });
   return errors;
 }
@@ -79,6 +99,15 @@ export function parseMenuCsv(csv, { source = "menu.csv" } = {}) {
     }
     const row = Object.fromEntries(headers.map((header, column) => [header, (values[column] ?? "").trim()]));
     const price = row.price === "" ? null : /^\d+(?:\.\d{1,2})?$/.test(row.price) ? Number(row.price) : NaN;
+    const hasNutrition = [...Object.keys(NUTRITION_COLUMNS), "nutrition_status", "nutrition_basis", "nutrition_source"]
+      .some((column) => row[column]);
+    const nutrition = hasNutrition ? {
+      ...Object.fromEntries(Object.entries(NUTRITION_COLUMNS).map(([column, key]) => {
+        const value = row[column] ?? "";
+        return [key, value === "" ? null : /^\d+(?:\.\d+)?$/.test(value) ? Number(value) : NaN];
+      })),
+      status: row.nutrition_status, basis: row.nutrition_basis, source: row.nutrition_source,
+    } : undefined;
     return {
       id: row.id,
       name: row.name,
@@ -89,6 +118,7 @@ export function parseMenuCsv(csv, { source = "menu.csv" } = {}) {
       dietary_tags: [...new Set((row.dietary_tags || "").split("|").map(fold).filter(Boolean))],
       image: row.image || null,
       source: row.source || null,
+      ...(nutrition ? { nutrition } : {}),
     };
   });
   const errors = [...rowErrors, ...validateMenuItems(items)];

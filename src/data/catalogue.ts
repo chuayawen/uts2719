@@ -56,6 +56,7 @@ export function mapCsvMenu(records: CsvMenuItem[], canteens: Canteen[], baseUrl:
     if (matches.length !== 1) throw new MenuDataError(`Item ${record.id} has an unknown or ambiguous canteen: ${record.canteen}.`)
     return { id: record.id, name: record.name, price: record.price, canteenId: matches[0].id,
       stallName: record.stall, cuisine: record.cuisine, dietary: [...record.dietary_tags],
+      ...(record.nutrition ? { nutrition: { ...record.nutrition } } : {}),
       ...(record.image ? { imageUrl: publicAssetUrl(record.image, baseUrl) } : {}) }
   })
 }

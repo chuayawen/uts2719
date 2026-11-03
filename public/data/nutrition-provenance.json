@@ -1,0 +1,15 @@
+{
+  "status": "ai-estimate",
+  "basis": "per-order",
+  "sourceFile": "nus_canteen_menu_nutrition_estimates.csv",
+  "sha256": "04f4bcb0f518201a76c636511021cf05f68fa2f2ad2cae0a4c25d71d041b1c61",
+  "importedOn": "2026-11-02",
+  "coverage": {
+    "imported": 559,
+    "withEstimates": 559,
+    "withoutEstimates": 283,
+    "total": 842
+  },
+  "description": "User-supplied AI-generated nutrition estimates per menu order. Actual portions, sauces and cooking oil may vary. Values are not independently or stall-verified.",
+  "referenceScope": "The supplier cited HPB SG FoodID generally, without dish-level database IDs, recipes or portion mappings. These values are not presented as HPB-verified figures."
+}

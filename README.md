@@ -69,6 +69,8 @@ Other notes:
 
 The default build loads `public/data/menu.csv` and `public/data/canteens.json` without environment setup. The published catalogue contains 842 priced dish variants at seven canteens. See [data sources and scope](public/data/README.md) for coverage, photographed prices and location evidence. Replace the CSV or edit rows using stable IDs, run the checks below, and redeploy to publish updates.
 
+559 variants also carry the supplied AI nutrition estimates. Cards show estimated calories and macros per order; canteen menu rows also show sodium and fibre. Missing estimates stay unavailable. See the [nutrition import instructions and limitations](public/data/README.md#nutrition-estimates) before updating these values.
+
 For custom file locations, copy `.env.example` to `.env.local` and override these settings. Restart Vite after changing environment settings.
 
 ```dotenv
