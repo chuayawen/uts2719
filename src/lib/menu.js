@@ -60,6 +60,13 @@ export function validateMenuItems(items) {
         if (n.status !== "ai-estimate") report("nutrition_status", "Supported status: ai-estimate.");
         if (n.basis !== "per-order") report("nutrition_basis", "Estimates must be per menu order.");
         if (typeof n.source !== "string" || !n.source.trim()) report("nutrition_source", "Name the source of the estimates.");
+        if (n.method != null && n.method !== "reference-recipe") report("nutrition_method", "Unsupported estimation method.");
+        if (n.method === "reference-recipe") {
+          if (typeof n.assumptions !== "string" || !n.assumptions.trim()) report("nutrition_assumptions", "Reference estimates need portion assumptions.");
+          if (!Array.isArray(n.references) || !n.references.length || n.references.some((r) => !r || !/^F\d{8}$/.test(r.id) || typeof r.name !== "string" || !r.name.trim())) {
+            report("nutrition_references", "Reference estimates need valid HPB food IDs and names.");
+          }
+        } else if (n.assumptions != null || n.references != null) report("nutrition_method", "Reference details require the reference-recipe method.");
       }
     }
   });
@@ -99,14 +106,22 @@ export function parseMenuCsv(csv, { source = "menu.csv" } = {}) {
     }
     const row = Object.fromEntries(headers.map((header, column) => [header, (values[column] ?? "").trim()]));
     const price = row.price === "" ? null : /^\d+(?:\.\d{1,2})?$/.test(row.price) ? Number(row.price) : NaN;
-    const hasNutrition = [...Object.keys(NUTRITION_COLUMNS), "nutrition_status", "nutrition_basis", "nutrition_source"]
+    const hasNutrition = [...Object.keys(NUTRITION_COLUMNS), "nutrition_status", "nutrition_basis", "nutrition_source", "nutrition_method", "nutrition_assumptions", "nutrition_references"]
       .some((column) => row[column]);
+    let references;
+    if (row.nutrition_references) {
+      try { references = JSON.parse(row.nutrition_references); }
+      catch { rowErrors.push({ record: index + 1, field: "nutrition_references", message: "Use a JSON list of HPB food IDs and names." }); }
+    }
     const nutrition = hasNutrition ? {
       ...Object.fromEntries(Object.entries(NUTRITION_COLUMNS).map(([column, key]) => {
         const value = row[column] ?? "";
         return [key, value === "" ? null : /^\d+(?:\.\d+)?$/.test(value) ? Number(value) : NaN];
       })),
       status: row.nutrition_status, basis: row.nutrition_basis, source: row.nutrition_source,
+      ...(row.nutrition_method ? { method: row.nutrition_method } : {}),
+      ...(row.nutrition_assumptions ? { assumptions: row.nutrition_assumptions } : {}),
+      ...(row.nutrition_references ? { references } : {}),
     } : undefined;
     return {
       id: row.id,

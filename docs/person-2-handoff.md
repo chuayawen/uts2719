@@ -48,7 +48,7 @@ The Stall dropdown is derived from loaded records and follows the Canteen dropdo
 
 Unknown CSV prices remain null, display as "Price unavailable", are excluded by active price bounds, and are omitted from map minimum-price calculations. Unknown cuisines stay unlabelled. Images resolve against the deployment base path and retain a placeholder when missing or broken.
 
-Optional nutrition columns are parsed into `MenuItem.nutrition` and preserved through the UI adapter. `NutritionFacts` shows AI estimates per order: calories, protein, carbs and fat on result cards, plus sodium, fibre and the source limitation in canteen menus. Missing nutrition remains absent, rather than becoming zero. Invalid numbers or missing estimate attribution fail CSV validation. The original photographed dietary claims are independent of these estimates. See `public/data/README.md` for units, metadata and the repeatable import command.
+Optional nutrition columns are parsed into `MenuItem.nutrition` and preserved through the UI adapter. All 842 dishes have estimates: the 559 supplied records remain unchanged, and 283 use explicit HPB reference recipes. `NutritionFacts` shows calories/macros on cards, plus sodium, fibre and expandable portion assumptions with primary source links in canteen menus. Individual unknown or trace nutrients remain unavailable. Invalid numbers or incomplete reference attribution fail CSV validation. The photographed dietary claims remain independent of nutrition proxies. See `public/data/README.md` for units, assumptions, input snapshots and repeatable import/calculation commands.
 
 ## Configure the real-data source
 

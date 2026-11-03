@@ -58,12 +58,14 @@ test('nutrition import handles blank spacer columns, preserves current facts, an
   assert.throws(() => mergeNutritionEstimates(current, uploaded + '\n' + uploaded.split('\n')[1], 'provided.csv'), /Duplicate nutrition ID/)
 })
 
-test('published estimates have the documented coverage without filling today’s unmatched dishes', async () => {
+test('published estimates have the documented supplied and reference coverage', async () => {
   const items = parseMenuCsv(await readFile(new URL('../public/data/menu.csv', import.meta.url), 'utf8'))
   const metadata = JSON.parse(await readFile(new URL('../public/data/nutrition-provenance.json', import.meta.url), 'utf8'))
   assert.equal(items.length, metadata.coverage.total)
   assert.equal(items.filter((i) => i.nutrition).length, metadata.coverage.withEstimates)
   assert.equal(items.filter((i) => !i.nutrition).length, metadata.coverage.withoutEstimates)
-  assert.ok(items.filter((i) => i.id.startsWith('fr-')).every((i) => !i.nutrition))
+  assert.equal(items.filter((i) => i.nutrition?.method === 'reference-recipe').length, 283)
+  assert.equal(metadata.coverage.supplied, 559)
+  assert.equal(metadata.coverage.withoutEstimates, 0)
   assert.equal(items.find((i) => i.id === 'ff-asia-egg-001').nutrition.proteinG, 46)
 })
